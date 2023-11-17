@@ -666,6 +666,521 @@
             ],
             "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/marinade_tofu.jpg",
             "source": ""
+        },
+        {
+            "id": "quiche-goberge",
+            "type": "REPAS",
+            "title": "Quiche au goberge",
+            "portions": "8 Portions",
+            "time": "60 min",
+            "tags": [
+                "Pâte_à_tarte"
+            ],
+            "ingredients": [
+                {
+                    "name": "Oeuf",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "Oignon hâché",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Simili-crabe en flocons",
+                    "quantity": "12",
+                    "unit": "oz"
+                },
+                {
+                    "name": "Mozzarella",
+                    "quantity": "5",
+                    "unit": "oz"
+                },
+                {
+                    "name": "Lait",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Farine",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Persil",
+                    "quantity": "2",
+                    "unit": "oz"
+                },
+                {
+                    "name": "Pâte à tarte",
+                    "quantity": "1",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Préchauffer le four à 450° Fahrenheit",
+                "Dans un grand bol, mélanger les oeufs, l'oignon hâché, 3 oz de mozzarella, le lait et la farine. Hâcher grossièrement ou couper en dé le simili-crabe et ajouter au mélange. Mélanger le tout.",
+                "Applatir la pâte à tarte avec un rouleau à pâte. Couvrir un plat à tarte d'huile pour ne pas que la pâte colle et y étendre la pâte à tarte. En utilisant un couteau ou un fourchette, couper l'exédent de pâte qui dépasse du plat.",
+                "Verser le mélange dans le plat à tarte couvert de pâte.",
+                "Étendre le persil et les 2 oz de mozzarella restant sur le dessus de la quiche.",
+                "Mettre dans le four pendant 10 minutes à 450° Fahrenheit. Ensuite, baiser la température à 350 et laisser pour un 30 à 40 minutes de plus. Pour vérifier que le centre est bien cuit, planter un couteau et vérifier qu'aucun mélange est collé sur celui-ci.",
+                "Laisser la quiche refroidir pendant 10 minutes pour qu'elle se coupe et serve mieux"
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/quiche_goberge.jpg",
+            "source": ""
+        },
+        {
+            "id": "bagel-tofu",
+            "type": "REPAS",
+            "title": "Bagel au tofu gratiné",
+            "portions": "4 Portions",
+            "time": "50 min",
+            "tags": [
+                "Tofu"
+            ],
+            "ingredients": [
+                {
+                    "name": "Tofu mariné",
+                    "quantity": "8",
+                    "unit": "tranches"
+                },
+                {
+                    "name": "Oignon rouge (gros)",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Mozzarella",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "Tomates",
+                    "quantity": "1-2",
+                    "unit": ""
+                },
+                {
+                    "name": "Bagels",
+                    "quantity": "4",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Préparer le tofu mariné coupé en 8 tranches à l'avance.",
+                "Préchauffer le four à 350° Fahrenheit.",
+                "Couper l'onion rouge en tranches et le faire revenir dans la poêle avec un peu d'huile d'olive.",
+                "Cuire le tofu mariné au four pendant 20 min.",
+                "Couper chaque bagel en 2 et sur chaque moitier placer une tranche de tofu mariné cuit, quelques morceaux d'onion mariné, une tranche de tomate et du fromage râpé.",
+                "Place les bagel dans une tole et les mettre dans le four jusqu'à ce que le fromage commence à frondre. Une fois qu'il commence à fondre, mettre le four à broil jusqu'à ce que le fromage soit doré."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/tofu_bagel_gratine.jpg",
+            "source": ""
+        },
+        {
+            "id": "poutine-sante",
+            "type": "REPAS",
+            "title": "Poutine Santé",
+            "portions": "2 Portions",
+            "time": "40 min",
+            "tags": [
+                "Végétarien"
+            ],
+            "ingredients": [
+                {
+                    "name": "Gros navet",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Pomme de terre russet",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Huile d'olive",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Poudre d'ail",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Mozzarella râpé",
+                    "quantity": "⅔",
+                    "unit": "tasse"
+                }
+            ],
+            "preparation": [
+                "Préchauffer le four à 425 °F",
+                "Dans un grand bol, mélanger le navet et la pomme de terre coupés en julienne, l'huile d'olive, la poudre d'ail et le paprika. Saler et poivrer au gout.",
+                "Sur 2 plaques pour le four recouverte de papier parchemin, étendre le frites également. Cuire environ 30 minutes. À la mi-cuisson, retourner les pommes de terre et les navets avec une spatule.",
+                "Pendant la cuisson des frites, préparer la sauce à poutine.",
+                "Lorsque les frites et la sauce sont pret, assembler la poutine: parsemer le mozzarella sur les frites et ajouter la sauce sur le tout."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/poutine_sante.jpg",
+            "source": ""
+        },
+        {
+            "id": "macaroni-fromage",
+            "type": "REPAS",
+            "title": "Macaroni au fromage",
+            "portions": "8 Portions",
+            "time": "60 min",
+            "tags": [
+                "Pâtes",
+                "Fromage",
+                "Végétarien"
+            ],
+            "ingredients": [
+                {
+                    "name": "Macaroni",
+                    "quantity": "4",
+                    "unit": "tasses"
+                },
+                {
+                    "name": "Margarine ou beurre",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Fécule de maïs",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Lait (ou lait de soya)",
+                    "quantity": "2 ¼",
+                    "unit": "tasses"
+                },
+                {
+                    "name": "Cheddar",
+                    "quantity": "3",
+                    "unit": "tasses"
+                },
+                {
+                    "name": "Ketchup",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Panure",
+                    "quantity": "8",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sel",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "Poivre",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Faire cuire les macaroni",
+                "Préparer une béchamel",
+                "Fondre le beurre dans une casserole",
+                "Mélanger la fécule de mais dans le lait froid",
+                "*le lait peut être remplacer par 2 1/4 tasses d'eau et 1/2 tasse de lait en poudre",
+                "*Le lait de soya est aussi possible pour une option végétarienne",
+                "Ajouter le mélange dans la casserole",
+                "Brasser a feu moyen-élevé jusqu'à épaississement",
+                "Mélanger la béchamel (encore chaude) avec la moitié du fromage cheddar (1 1/2 tasses), le ketchup et (facultativement) du la ciboulette au goût",
+                "Saler et poivrer",
+                "Égoutter les macaronis et les déposer dans un grand plat pour le four.",
+                "Mélanger la sauce avec les macaronis",
+                "Parsemer le tout avec la panure suivi du reste du fromage cheddar",
+                "Faire gratiner au four pendant quelques minutes"
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/macaroni_fromage.jpg",
+            "source": ""
+        },
+        {
+            "id": "pain-viande",
+            "type": "REPAS",
+            "title": "Pain de viande",
+            "portions": "6 Portions",
+            "time": "50 min",
+            "tags": [],
+            "ingredients": [
+                {
+                    "name": "Boeuf haché maigre",
+                    "quantity": "½",
+                    "unit": "livre"
+                },
+                {
+                    "name": "Boeuf haché végé (Yves veggie)",
+                    "quantity": "1",
+                    "unit": "paquet"
+                },
+                {
+                    "name": "Oeuf",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Carottes râpées",
+                    "quantity": "½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Oignons hachés",
+                    "quantity": "⅓",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Chapelure",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Origan",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Sel",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Poivre",
+                    "quantity": "½",
+                    "unit": "tsp"
+                }
+            ],
+            "preparation": [
+                "Préchauffer le four à 375° Fahrenheit",
+                "Mélanger tous les ingrédients dans un grand bol",
+                "Verser le mélange dans un plat à pain de viande huilé",
+                "Cuire pendant 30-40 minutes",
+                "!!Recette non-final"
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pain_viande.jpg",
+            "source": ""
+        },
+        {
+            "id": "lasagne-mexicaine",
+            "type": "REPAS",
+            "title": "Lasagne mexicaine",
+            "portions": "8 Portions",
+            "time": "40 min",
+            "tags": [
+                "Mexicain",
+                "Végétarien"
+            ],
+            "ingredients": [
+                {
+                    "name": "Huile d'olive",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Oignon",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Haricots rouges",
+                    "quantity": "1",
+                    "unit": "canne (540 ml)"
+                },
+                {
+                    "name": "Poudre de chili",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Maïs",
+                    "quantity": "½ - 1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Salsa douce",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sauce tomate",
+                    "quantity": "680",
+                    "unit": "ml"
+                },
+                {
+                    "name": "Épinards",
+                    "quantity": "2",
+                    "unit": "tasses"
+                },
+                {
+                    "name": "Tortillas",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "Fromage râpé (cheddar ou monterey jack)",
+                    "quantity": "3",
+                    "unit": "tasses"
+                },
+                {
+                    "name": "Coriandre",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Faire revenir l'oignon haché finement dans l'huile",
+                "Ajouter la salsa, la sauce tomate, les épinards, la coriandre (au goût), les haricots, la poudre de chili et le maïs. Saler et poivrer au goût.",
+                "Dans un plat rectangulaire pour le four, déposer 2 tortillas suivi d'une couche de 1/3 du mélange, suivi d'une couche de 1/3 du fromage (1 tasse). Répéter 2 autres fois.",
+                "Cuire au four à 350° Fahrenheit pendant 20 minutes",
+                "Mettre le four a broil pendant quelque minute pour dorer le fromage"
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/lasagne_mexicaine.jpg",
+            "source": ""
+        },
+        {
+            "id": "boulette-viande",
+            "type": "REPAS",
+            "title": "Boulettes de viande",
+            "tags": [
+                "Facile"
+            ],
+            "ingredients": [
+                {
+                    "name": "Boeuf haché maigre",
+                    "quantity": "2",
+                    "unit": "livres"
+                },
+                {
+                    "name": "Chapelure",
+                    "quantity": "½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Oignons hachés",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Oeufs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Sel",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Crème de champignon",
+                    "quantity": "10",
+                    "unit": "oz"
+                },
+                {
+                    "name": "Eau",
+                    "quantity": "1 ½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Persil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Poivre",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "preparation": [
+                "Mélanger le bœuf, la chapelure, les oignons, les œufs et le sel.",
+                "Séparer le mélange en à peu près 48 boulettes et les placer délicatement dans un chaudron.",
+                "Mélanger la crème, l'eau et le persil et verser sur les boulettes.",
+                "Couvrir et faire mijoter à feu très doux pendant 20 minutes. De temps en temps, remuer en faisant attention de ne pas briser les boulettes."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/boulette_viande_champignon.jpg",
+            "source": ""
+        },
+        {
+            "id": "aioli-tofu",
+            "type": "REPAS",
+            "title": "Aïoli au tofu",
+            "portions": "4 Portion",
+            "time": "8 min",
+            "tags": [
+                "Tofu",
+                "Végane"
+            ],
+            "ingredients": [
+                {
+                    "name": "Ail",
+                    "quantity": "3-5",
+                    "unit": "gousses"
+                },
+                {
+                    "name": "Tofu ferme",
+                    "quantity": "200-250",
+                    "unit": "g"
+                },
+                {
+                    "name": "Huile d'olive",
+                    "quantity": "6",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Jus de citron",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Moutarde",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Cari",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Curcuma",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Coriandre",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sel",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "preparation": [
+                "Ajouter l'ail écrasé et tout les autres ingrédients dans le mélangeur et broyer jusqu'à ce que ça devienne lisse."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/aioli_tofu.jpg",
+            "source": ""
         }
     ]
 }
