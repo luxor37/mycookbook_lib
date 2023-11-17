@@ -1,0 +1,322 @@
+{
+    "recipes": [
+        {
+            "id": "bouchees_au_crabe",
+            "type": "ENTREES",
+            "title": "Bouchées au crabe",
+            "portions": "4+",
+            "time": "10 min",
+            "tags": [
+                "Party"
+            ],
+            "ingredients": [
+                {
+                    "name": "Beurre ou margarine",
+                    "quantity": "¼",
+                    "unit": "livre"
+                },
+                {
+                    "name": "Mayonaise",
+                    "quantity": "1 ½",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Poudre d'ail",
+                    "quantity": "½",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Boîte de crabe",
+                    "quantity": "7",
+                    "unit": "oz"
+                },
+                {
+                    "name": "Cheese Whiz",
+                    "quantity": "5 ½",
+                    "unit": "oz"
+                },
+                {
+                    "name": "Muffins anglais",
+                    "quantity": "6",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Mélanger tous les ingrédients.",
+                "Couper les muffins anglais en deux.",
+                "Étendre le mélange sur chaque demi muffin.",
+                "Congeler tous les demi muffins anglais sur un plaque de cuisson.",
+                "Une fois congelé, couper chaque demi muffin en 6 pointes et remettre au congélateur jusqu'à ce que vous vouliez servir.",
+                "Une fois prêt à servir, mettre au four à broil jusqu'à ce que le fromage fasse des bulles.",
+                "Servir chaud."
+            ],
+            "image": "https://cdn.sanity.io/images/3xdb462h/production/eea51ed2b12ff656dd92d51887cbc9b9eaf9bc77-688x688.jpg",
+            "source": ""
+        },
+        {
+            "id": "trempette_mexicaine",
+            "type": "ENTREES",
+            "title": "Trempette mexicaine",
+            "portions": "4+",
+            "time": "20 min",
+            "tags": [
+                "Mexican",
+                "Végétarien"
+            ],
+            "ingredients": [
+                {
+                    "name": "Tostitos",
+                    "quantity": "1-2",
+                    "unit": "sacs"
+                },
+                {
+                    "name": "Fromage cottage",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "Fromage à la crème",
+                    "quantity": "227",
+                    "unit": "g"
+                },
+                {
+                    "name": "Mayonnaise",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Salsa",
+                    "quantity": "½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Piments (jaune, orange ou vert)",
+                    "quantity": "1-2",
+                    "unit": ""
+                },
+                {
+                    "name": "Olives noires tranchées",
+                    "quantity": "1",
+                    "unit": "canne"
+                },
+                {
+                    "name": "Fromage cheddar",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Mélanger au malaxeur, le fromage à la crème, le fromage cottage et une cuillerée de mayonnaise.",
+                "Dans un grand plat profond en vitre, étaler également le mélange.",
+                "Ajouter délicatement un bonne épaisseur de salsa (environ 1/2 pouce d'épaisseur).",
+                "Hâcher en petits cubes les piment et les étaler sur la salsa.",
+                "Égouter les olives noires au besoin et les ajouter sur les piments.",
+                "Râper du fromage cheddar au goût sur le tout. Et voila!."
+            ],
+            "image": "https://cdn.sanity.io/images/3xdb462h/production/7376d273d229127baf0e1b551a06f7aeabed319e-581x581.jpg",
+            "source": ""
+        },
+        {
+            "id": "pate_au_thon",
+            "type": "REPAS",
+            "title": "Pâté au thon",
+            "portions": "8",
+            "time": "30 min",
+            "tags": [
+                "Rapide",
+                "Facile"
+            ],
+            "ingredients": [
+                {
+                    "name": "Macaroni",
+                    "quantity": "2",
+                    "unit": "tasses"
+                },
+                {
+                    "name": "Thon en canne",
+                    "quantity": "4x 170",
+                    "unit": "g"
+                },
+                {
+                    "name": "Macédoine de légumes",
+                    "quantity": "4",
+                    "unit": "tasses"
+                },
+                {
+                    "name": "Crème de champigons",
+                    "quantity": "10",
+                    "unit": "oz"
+                },
+                {
+                    "name": "Mozzarella",
+                    "quantity": "4-6",
+                    "unit": "oz"
+                }
+            ],
+            "preparation": [
+                "Préchauffer le four à 350° Fahrenheit",
+                "Dans un grand chaudron, cuire les macaronis",
+                "Dans un chaudron, cuire la macédoine de légumes",
+                "Dans un grand bol, mélanger la macédoine, les pâtes cuites, la crème de champignon et les cannes de thon égouttées.",
+                "Verser le mélange dans un grand plat pour le four et étendre le mozzarella râpé sur le dessus",
+                "Mettre le tout au four jusqu'à ce que le fromage commence à fondre",
+                "Mettre le four à broil (griller) jusqu'à ce que le fromage commence à gratiner."
+            ],
+            "image": "https://cdn.sanity.io/images/3xdb462h/production/150c5fd831ec5546dc13e9f64755a2c1a0eddfaa-574x574.jpg",
+            "source": ""
+        },
+        {
+            "id": "riz_frit_poulet",
+            "type": "REPAS",
+            "title": "Riz frit au poulet",
+            "portions": "4",
+            "time": "30 min",
+            "tags": [
+                "Poulet",
+                "Riz"
+            ],
+            "ingredients": [
+                {
+                    "name": "Piments",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Oignon",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Branches de céleri",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Champignons tranchés",
+                    "quantity": "8",
+                    "unit": "oz"
+                },
+                {
+                    "name": "Poitrines de poulet",
+                    "quantity": "450",
+                    "unit": "g"
+                },
+                {
+                    "name": "1 Boite de riz minute / Riz",
+                    "quantity": "+-1 ½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Sauce tamari",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "Huile d'olive",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Hâcher l'oignon, les piments et les branches de céleri.",
+                "Dans un grand chaudron, faire revenir dans l'huile les piments, l'oignon hâché et les branches de céleri hâchées. Puis ajouter les champignons tranchés.",
+                "Couper le poulet en petits morceaux. Faire bouillir de l'eau dans un autre chaudron, puis y ajouter le poulet jusqu'à ce qu'il soit cuit. Égoutter et réserver.",
+                "Faire cuire le riz dans un chaudron.",
+                "Mélanger les légumes, le poulet et le riz et ajouter de la sauce tamari au goût (assez pour brunir le riz)."
+            ],
+            "image": "https://cdn.sanity.io/images/3xdb462h/production/121857f6624ce106730e145a09c9882c7a2da044-800x800.jpg",
+            "source": ""
+        },
+        {
+            "id": "chili_con_macaroni",
+            "type": "REPAS",
+            "title": "Chili con macaroni",
+            "portions": "5",
+            "time": "60 min",
+            "tags": [
+                "Mexicain",
+                "Facile"
+            ],
+            "ingredients": [
+                {
+                    "name": "Huile végétale",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Oignon haché",
+                    "quantity": "½",
+                    "unit": ""
+                },
+                {
+                    "name": "Ail pressé",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Bœuf hâché",
+                    "quantity": "1",
+                    "unit": "livre"
+                },
+                {
+                    "name": "Poudre de chili",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sel",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Origan",
+                    "quantity": "½",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Poivre",
+                    "quantity": "¼",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Piment rouge",
+                    "quantity": "1",
+                    "unit": "pincée"
+                },
+                {
+                    "name": "Pâte de tomate",
+                    "quantity": "5 ½",
+                    "unit": "oz"
+                },
+                {
+                    "name": "Bouillon de poulet",
+                    "quantity": "3",
+                    "unit": "tasses"
+                },
+                {
+                    "name": "Haricots rouge (1 boite)",
+                    "quantity": "19",
+                    "unit": "oz"
+                },
+                {
+                    "name": "Macaroni",
+                    "quantity": "1 ½",
+                    "unit": "tasse"
+                }
+            ],
+            "preparation": [
+                "Faire revenir les oignons et l'ail avec l'huile dans un chaudron.",
+                "Ajouter le bœuf haché et faire brunir. \n*Ici on peut remplacer la moitié de la viande et remplacer par de la végé viande sans que le goût change!",
+                "Ajouter la pâte de tomate et les assaisonnements (poudre de chili, origan, sel, poivre, poivre rouge) et bien mélanger.",
+                "Ajouter le bouillon et porter à ébullition.",
+                "Couvrir à demi et laisser mijoter pendant 45 min en remuant de temps en temps.",
+                "Rincer et égoutter les haricots.",
+                "Ajouter les haricot au mélange et cuire 15 min de plus.",
+                "Pendant que le mélange fini de cuire, faire bouillir de l'eau et cuire les pâtes.",
+                "Une fois les pâtes et le mélange cuit, mélanger les deux et servir. \n*Parfois je gratine ma portion avec un peu de cheddar."
+            ],
+            "image": "https://cdn.sanity.io/images/3xdb462h/production/9fc32cabf6125de1f4398ae2dcf047ad42810cec-548x548.jpg",
+            "source": ""
+        }
+    ]
+}
