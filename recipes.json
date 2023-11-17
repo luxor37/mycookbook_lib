@@ -537,6 +537,135 @@
             ],
             "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/old_fashioned.jpg",
             "source": ""
+        },
+        {
+            "id": "sauce-poutine",
+            "type": "AUTRES",
+            "title": "Sauce à poutine santé",
+            "portions": "-",
+            "time": "10 min",
+            "tags": [
+                "Sauce",
+                "Santé"
+            ],
+            "ingredients": [
+                {
+                    "name": "Échalotte hâché finement",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Gousse d'ail",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Vin blanc",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Bouillon de boeuf ou de légumes",
+                    "quantity": "1 ½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Farine de blé entier ou fécule de maïs",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "preparation": [
+                "Dans un bol, mélanger le bouillon et la farine de blé entier.",
+                "Dans une petite casserole, sauter l’échalote hachée dans l'huile à feu moyen-doux pendant 2 minutes. Ajouté l'ail haché et poursuivre la cuisson pendant 30 secondes.",
+                "Ajouter le vin blanc, laisser réduire de moitié puis ajouter le mélange de bouillon et de farine. Porter à ébullition et laisser mijoter 10 minutes. Saler et poivrer."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/sauce_poutine_sante.jpg",
+            "source": ""
+        },
+        {
+            "id": "pate-tarte",
+            "type": "AUTRES",
+            "title": "Pâte à tarte",
+            "portions": "-",
+            "time": "30 min",
+            "tags": [
+                "Base",
+                "Végétarien"
+            ],
+            "ingredients": [
+                {
+                    "name": "farine",
+                    "quantity": "1",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "À venir"
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pate_tarte.jpg",
+            "source": ""
+        },
+        {
+            "id": "marinade-tofu",
+            "type": "AUTRES",
+            "title": "Marinade à tofu",
+            "time": "10 min",
+            "tags": [
+                "Base",
+                "Marinade"
+            ],
+            "ingredients": [
+                {
+                    "name": "Tofu",
+                    "quantity": "454",
+                    "unit": "g"
+                },
+                {
+                    "name": "Sauce soya",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Vinaigre balsamique",
+                    "quantity": "⅛",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Huile d'olive",
+                    "quantity": "⅛",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Cumin",
+                    "quantity": "½",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Coriandre",
+                    "quantity": "½",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Cari",
+                    "quantity": "½",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Curcuma",
+                    "quantity": "½",
+                    "unit": "tsp"
+                }
+            ],
+            "preparation": [
+                "Couper le tofu selon la recette. Mélanger tous les autres ingrédients ensemble dans un plat hermétique, puis y placer le tofu.",
+                "",
+                "Laisser le tofu absorber la marinade pour plusieurs heures (au moins 4) à une journée and retourner le contenant à mi-temps pour que tout le tofu soit bien couvert de marinade.",
+                "",
+                "* S'assurer de faire cette partie 4+ heures avant la recette pour laquelle le tofu est nécessaire. Cette partie peut même être fait une jounée d'avance"
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/marinade_tofu.jpg",
+            "source": ""
         }
     ]
 }
