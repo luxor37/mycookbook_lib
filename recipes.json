@@ -365,6 +365,178 @@
             ],
             "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/croustade_pommes.jpg",
             "source": ""
+        },
+        {
+            "id": "muffin-carotte",
+            "type": "DESSERTS",
+            "title": "Muffin au son et à la carotte",
+            "portions": "12 Portions",
+            "time": "40 min",
+            "tags": [
+                "Muffin"
+            ],
+            "ingredients": [
+                {
+                    "name": "Farine de blé entier",
+                    "quantity": "1 ½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Kellogg's All-Bran",
+                    "quantity": "1 ½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Cassonade",
+                    "quantity": "½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Cannelle",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Poudre à pâte",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Bicarbonate de soude",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Sel",
+                    "quantity": "¼",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Raisins secs ou dattes hachées",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Carottes râpées",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Lait",
+                    "quantity": "1 ¾",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Huile végétale",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Oeuf",
+                    "quantity": "1",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Préchauffer le four à 400° Fahrenheit",
+                "Dans un grand bol, mélanger les ingrédients secs",
+                "Incorporer le lait, l'huile végétale et l'oeuf tout en mélangeant pour obtenir une pâte uniforme.",
+                "Répartir également la pâte dans 1-2 tôle à muffin anti-adhésive (12 muffins)",
+                "Cuire pendant 20 minutes où jusqu'à ce qu'on puisse tester avec un couteau."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/muffin_carotte.jpg",
+            "source": ""
+        },
+        {
+            "id": "rice-krispies",
+            "type": "DESSERTS",
+            "title": "Rice Krispies",
+            "portions": "24 Portions",
+            "time": "15 min",
+            "tags": [
+                "Céréales"
+            ],
+            "ingredients": [
+                {
+                    "name": "Beurre",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Guimauves",
+                    "quantity": "40",
+                    "unit": ""
+                },
+                {
+                    "name": "Essence de vanille",
+                    "quantity": "½",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Céréales Rice Krispies",
+                    "quantity": "6",
+                    "unit": "tasses"
+                }
+            ],
+            "preparation": [
+                "Faire fondre le beurre et les guimauves dans un chaudron à feu doux.",
+                "Ajouter l'essence de vanille et les céréales.",
+                "Verser le tout dans un plat rectangulaire et réfrigérer pour quelques heures."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/rice_krispies.jpg",
+            "source": ""
+        },
+        {
+            "id": "old-fashioned",
+            "type": "BOISSONS",
+            "title": "Old Fashioned",
+            "portions": "1 Portion",
+            "time": "3 min",
+            "tags": [
+                "Cocktail",
+                "Bourbon"
+            ],
+            "ingredients": [
+                {
+                    "name": "Bourbon",
+                    "quantity": "2",
+                    "unit": "oz"
+                },
+                {
+                    "name": "Eau",
+                    "quantity": "1",
+                    "unit": "oz"
+                },
+                {
+                    "name": "Angostura bitters",
+                    "quantity": "2-6",
+                    "unit": "gouttes"
+                },
+                {
+                    "name": "Cubes de glace",
+                    "quantity": "3-4",
+                    "unit": ""
+                },
+                {
+                    "name": "Sucre",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Sirop",
+                    "quantity": "1-2",
+                    "unit": "gouttes"
+                }
+            ],
+            "preparation": [
+                "Mix the water, the bitters and the sirup and pour it into a glass.",
+                "*You can replace the syrup with a bit of sugar if you don't have any. make sure to stir well if you do.",
+                "*Add less sugar/syrup to start and adjust it to your linking.",
+                "Place the ice cubes into the glass.",
+                "Pour the bourbon over the ice and enjoy."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/old_fashioned.jpg",
+            "source": ""
         }
     ]
 }
