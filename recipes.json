@@ -50,7 +50,7 @@
                 "Une fois prêt à servir, mettre au four à broil jusqu'à ce que le fromage fasse des bulles.",
                 "Servir chaud."
             ],
-            "image": "https://cdn.sanity.io/images/3xdb462h/production/eea51ed2b12ff656dd92d51887cbc9b9eaf9bc77-688x688.jpg",
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/bouchee_crabe.jpg",
             "source": ""
         },
         {
@@ -113,7 +113,7 @@
                 "Égouter les olives noires au besoin et les ajouter sur les piments.",
                 "Râper du fromage cheddar au goût sur le tout. Et voila!."
             ],
-            "image": "https://cdn.sanity.io/images/3xdb462h/production/7376d273d229127baf0e1b551a06f7aeabed319e-581x581.jpg",
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/trempette_mexicaine.jpg",
             "source": ""
         },
         {
@@ -162,7 +162,7 @@
                 "Mettre le tout au four jusqu'à ce que le fromage commence à fondre",
                 "Mettre le four à broil (griller) jusqu'à ce que le fromage commence à gratiner."
             ],
-            "image": "https://cdn.sanity.io/images/3xdb462h/production/150c5fd831ec5546dc13e9f64755a2c1a0eddfaa-574x574.jpg",
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pate_thon.jpg",
             "source": ""
         },
         {
@@ -224,7 +224,7 @@
                 "Faire cuire le riz dans un chaudron.",
                 "Mélanger les légumes, le poulet et le riz et ajouter de la sauce tamari au goût (assez pour brunir le riz)."
             ],
-            "image": "https://cdn.sanity.io/images/3xdb462h/production/121857f6624ce106730e145a09c9882c7a2da044-800x800.jpg",
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/riz_frit_poulet.jpg",
             "source": ""
         },
         {
@@ -315,7 +315,7 @@
                 "Pendant que le mélange fini de cuire, faire bouillir de l'eau et cuire les pâtes.",
                 "Une fois les pâtes et le mélange cuit, mélanger les deux et servir. \n*Parfois je gratine ma portion avec un peu de cheddar."
             ],
-            "image": "https://cdn.sanity.io/images/3xdb462h/production/9fc32cabf6125de1f4398ae2dcf047ad42810cec-548x548.jpg",
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/riz_frit_poulet.jpg",
             "source": ""
         }
     ]
