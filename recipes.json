@@ -1443,6 +1443,61 @@
             ],
             "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/cheesecake.jpg",
             "source": ""
+        },
+        {
+            "id": "trempette-brocoli",
+            "type": "ENTREES",
+            "title": "Trempette chaude au brocoli",
+            "time": "40 min",
+            "tags": [
+                "Végé"
+            ],
+            "ingredients": [
+                {
+                    "name": "Brocoli hâché",
+                    "quantity": "1 ½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Cheddar râpé",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Mayonnaise",
+                    "quantity": "½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Poivron rouge",
+                    "quantity": "½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Oignon hâché",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Gousse d'ail hâché",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Tostitos",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Préchauffer le four à 375 F.",
+                "Mélanger tous les ingrédients (sauf les tostitos). *Le cheddar peut également être mélangé avec un peu de parmesan.",
+                "Étendre le mélange dans une assiette à tarte de 9 po ou autre plat allant au four. Assurez vous que le mélange soit réparti avec à peu près 1 po d'épaisseur.",
+                "Cuire au four pendant 20 min, jusqu'à ce que la trempette soit bien chaude.",
+                "Servir chaud avec les tostitos ou autres craquelins."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/trempette_brocoli.jpg",
+            "source": ""
         }
     ]
 }
