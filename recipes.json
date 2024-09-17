@@ -1,5 +1,58 @@
 {
     "recipes": [
+                {
+          "id": "bbq-sauce",
+          "type": "AUTRES",
+          "title": "Sauce BBQ",
+          "portions": "1",
+          "time": "5",
+          "tags": [
+            "Sauce"
+          ],
+          "ingredients": [
+            {
+              "name": "Ketchup",
+              "quantity": "½",
+              "unit": "tasse"
+            },
+            {
+              "name": "Vinaigre Balsamique",
+              "quantity": "1 ½",
+              "unit": "tbsp"
+            },
+            {
+              "name": "Cassonade",
+              "quantity": "1",
+              "unit": "tbsp"
+            },
+            {
+              "name": "Paprika",
+              "quantity": "½",
+              "unit": "tsp"
+            },
+            {
+              "name": "Poudre d'ail",
+              "quantity": "¼",
+              "unit": "tsp"
+            },
+            {
+              "name": "Poudre d'onion",
+              "quantity": "¼",
+              "unit": "tsp"
+            }
+          ],
+          "preparation": [
+            "Mélanger tout les ingrédients dans une casserole.",
+            "Faites chauffer à feu moyen-doux, en remuant de temps en temps, jusqu'à ce que la sauce commence à frémir.",
+            "Réduisez à feu doux et laisser cuire pendant 5-10 min en remuant fréquemment pour éviter que ça colle.",
+            "",
+            "Facultatif: Ajouter quelques gouttes de sauce piquante ou quelque flocons de chili.",
+            "",
+            "Donne une portion suffisante pour couvrir une côte levée complète."
+          ],
+          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/bbq-sauce.jpg",
+          "source": ""
+        },
         {
             "id": "bouchees_au_crabe",
             "type": "ENTREES",
