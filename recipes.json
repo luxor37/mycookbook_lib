@@ -1,6 +1,69 @@
 {
     "recipes": [
-                {
+        {   
+          "id": "carre-aux-dattes",
+          "type": "DESSERTS",
+          "title": "Carrés aux dattes",
+          "portions": "12",
+          "time": "40",
+          "tags": [],
+          "ingredients": [
+            {
+              "name": "Dattes dénoyautés",
+              "quantity": "½",
+              "unit": "lb"
+            },
+            {
+              "name": "Jus d'orange",
+              "quantity": "1",
+              "unit": "tasse"
+            },
+            {
+              "name": "farine",
+              "quantity": "1",
+              "unit": "tasse"
+            },
+            {
+              "name": "Bicarbonate de soude",
+              "quantity": "½",
+              "unit": "tsp"
+            },
+            {
+              "name": "Sel",
+              "quantity": "⅛",
+              "unit": "tsp"
+            },
+            {
+              "name": "Huile végétale ou beurre ramolli",
+              "quantity": "1",
+              "unit": "tasse"
+            },
+            {
+              "name": "Cassonade",
+              "quantity": "1",
+              "unit": "tasse"
+            },
+            {
+              "name": "Gruau",
+              "quantity": "2",
+              "unit": "tasses"
+            }
+          ],
+          "preparation": [
+            "Préchauffer le four à 350 Fahrenheit.",
+            "Cuire les dattes et le jus d'orange dans une casserole ensemble.",
+            "Mélanger le reste des ingrédients ensemble. Ce mélange sera la croûte.",
+            "Graisser un plat pour le four (de préférence 8\"x10\").",
+            "Verser la moitié du mélange de la croûte pour recouvrir le fond du plat pour le four.",
+            "Verser ensuite le mélange de dattes et de jus d'orange.",
+            "Finalement recouvrir le tout avec le reste du mélange pour la croûte.",
+            "Cuire au four de 25 à 30 minutes.",
+            ""
+          ],
+          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/carre-dattes.png",
+          "source": ""
+        },
+        {
           "id": "bbq-sauce",
           "type": "AUTRES",
           "title": "Sauce BBQ",
