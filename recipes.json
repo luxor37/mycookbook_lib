@@ -32,8 +32,8 @@
             },
             {
               "name": "-----",
-              "quantity": "",
-              "unit": ""
+              "quantity": "-",
+              "unit": "-"
             },
             {
               "name": "Oignons verts (Échalotes) (hâché)",
@@ -77,8 +77,8 @@
             },
             {
               "name": "-----",
-              "quantity": "",
-              "unit": ""
+              "quantity": "-",
+              "unit": "-"
             },
             {
               "name": "Riz (jasmin)",
