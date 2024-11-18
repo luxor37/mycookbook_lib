@@ -62,7 +62,7 @@
             "Retourner les pancakes et cuire encore 1-2 minutes jusqu'à ce qu'ils soient dorés.",
             "Servir chaud avec du sirop d'érable, des fruits ou tout autre accompagnement de votre choix."
           ],
-          "image": "pancake.jpg",
+          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pancake.jpg",
           "source": "chatgpt"
         },
         {
