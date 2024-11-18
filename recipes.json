@@ -1,6 +1,63 @@
 {
     "recipes": [
         {
+          "id": "crepes-simples",
+          "type": "DESSERT",
+          "title": "Crêpes simples",
+          "portions": "4",
+          "time": "30m",
+          "tags": [
+            "Petit-déjeuner",
+            "Facile",
+            "Rapide",
+            "Polyvalent"
+          ],
+          "ingredients": [
+            {
+              "name": "Farine tout usage",
+              "quantity": "1",
+              "unit": "cup"
+            },
+            {
+              "name": "Lait",
+              "quantity": "1",
+              "unit": "cup"
+            },
+            {
+              "name": "Œufs",
+              "quantity": "2",
+              "unit": ""
+            },
+            {
+              "name": "Beurre non salé (fondu)",
+              "quantity": "2",
+              "unit": "tbsp"
+            },
+            {
+              "name": "Sucre (optionnel)",
+              "quantity": "1",
+              "unit": "tbsp"
+            },
+            {
+              "name": "Sel",
+              "quantity": "1/4",
+              "unit": "tsp"
+            }
+          ],
+          "preparation": [
+            "Dans un grand bol, mélanger la farine, le sel et le sucre (si utilisé).",
+            "Dans un autre bol, fouetter les œufs, le lait et le beurre fondu.",
+            "Verser progressivement les ingrédients liquides dans les ingrédients secs tout en fouettant, jusqu'à obtenir une pâte lisse et fluide. Si la pâte semble trop épaisse, ajouter un peu de lait (1-2 cuillères à soupe à la fois).",
+            "Chauffer une poêle antiadhésive à feu moyen et la graisser légèrement avec un peu de beurre.",
+            "Verser une petite louche de pâte dans la poêle et l'étaler rapidement en inclinant la poêle pour former une couche fine.",
+            "Cuire environ 1-2 minutes jusqu'à ce que les bords commencent à se détacher, puis retourner la crêpe et cuire encore 1 minute de l'autre côté.",
+            "Répéter avec le reste de la pâte, en graissant la poêle si nécessaire.",
+            "Servir chaud avec des garnitures sucrées (sucre, confiture, Nutella) ou salées (fromage, jambon, légumes)."
+          ],
+          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/crepes.jpg",
+          "source": "chatgpt"
+        },
+        {
           "id": "pancakes",
           "type": "DESSERTS",
           "title": "Pancakes",
