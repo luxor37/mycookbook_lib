@@ -2,7 +2,7 @@
     "recipes": [
         {
           "id": "crepes-simples",
-          "type": "DESSERT",
+          "type": "DESSERTS",
           "title": "Crêpes simples",
           "portions": "4",
           "time": "30m",
