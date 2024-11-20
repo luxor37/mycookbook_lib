@@ -17,7 +17,7 @@
               "unit": "g"
             },
             {
-              "name": "Blancs de poulet",
+              "name": "Poulet",
               "quantity": "200",
               "unit": "g"
             },
@@ -100,7 +100,7 @@
           "type": "DESSERTS",
           "title": "Crêpes simples",
           "portions": "4",
-          "time": "30m",
+          "time": "30 min",
           "tags": [
             "Petit-déjeuner",
             "Facile",
@@ -571,7 +571,7 @@
                     "unit": "livre"
                 },
                 {
-                    "name": "Mayonaise",
+                    "name": "Mayonnaise",
                     "quantity": "1 ½",
                     "unit": "tbsp"
                 },
@@ -1018,7 +1018,7 @@
                     "unit": "tasse"
                 },
                 {
-                    "name": "Guimauves",
+                    "name": "Guimauves (marshmallow)",
                     "quantity": "40",
                     "unit": ""
                 },
@@ -1105,7 +1105,7 @@
             ],
             "ingredients": [
                 {
-                    "name": "Échalotte hâché finement",
+                    "name": "Échalote hachée finement",
                     "quantity": "1",
                     "unit": ""
                 },
@@ -1132,7 +1132,7 @@
             ],
             "preparation": [
                 "Dans un bol, mélanger le bouillon et la farine de blé entier.",
-                "Dans une petite casserole, sauter l’échalote hachée dans l'huile à feu moyen-doux pendant 2 minutes. Ajouté l'ail haché et poursuivre la cuisson pendant 30 secondes.",
+                "Dans une petite casserole, sauter l’échalote hachée dans l'huile à feu moyen-doux pendant 2 minutes. Ajouter l'ail haché et poursuivre la cuisson pendant 30 secondes.",
                 "Ajouter le vin blanc, laisser réduire de moitié puis ajouter le mélange de bouillon et de farine. Porter à ébullition et laisser mijoter 10 minutes. Saler et poivrer."
             ],
             "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/sauce_poutine_sante.jpg",
@@ -1301,10 +1301,10 @@
             "preparation": [
                 "Préchauffer le four à 450° Fahrenheit",
                 "Dans un grand bol, mélanger les oeufs, l'oignon hâché, 3 oz de mozzarella, le lait et la farine. Hâcher grossièrement ou couper en dé le simili-crabe et ajouter au mélange. Mélanger le tout.",
-                "Applatir la pâte à tarte avec un rouleau à pâte. Couvrir un plat à tarte d'huile pour ne pas que la pâte colle et y étendre la pâte à tarte. En utilisant un couteau ou un fourchette, couper l'exédent de pâte qui dépasse du plat.",
+                "Aplatir la pâte à tarte avec un rouleau à pâte. Couvrir un plat à tarte d'huile pour ne pas que la pâte colle et y étendre la pâte à tarte. En utilisant un couteau ou un fourchette, couper l'exédent de pâte qui dépasse du plat.",
                 "Verser le mélange dans le plat à tarte couvert de pâte.",
                 "Étendre le persil et les 2 oz de mozzarella restant sur le dessus de la quiche.",
-                "Mettre dans le four pendant 10 minutes à 450° Fahrenheit. Ensuite, baiser la température à 350 et laisser pour un 30 à 40 minutes de plus. Pour vérifier que le centre est bien cuit, planter un couteau et vérifier qu'aucun mélange est collé sur celui-ci.",
+                "Mettre dans le four pendant 10 minutes à 450° Fahrenheit. Ensuite, baisser la température à 350 et laisser pour un 30 à 40 minutes de plus. Pour vérifier que le centre est bien cuit, planter un couteau et vérifier qu'aucun mélange est collé sur celui-ci.",
                 "Laisser la quiche refroidir pendant 10 minutes pour qu'elle se coupe et serve mieux"
             ],
             "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/quiche_goberge.jpg",
