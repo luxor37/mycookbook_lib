@@ -1,6 +1,87 @@
 {
     "recipes": [
         {
+          "id": "jarret-porc-biere",
+          "type": "REPAS",
+          "title": "Jarret de porc braisé à la bière",
+          "portions": "4",
+          "time": "3 h",
+          "tags": [
+            "Française",
+            "Plat mijoté",
+            "Convivial"
+          ],
+          "ingredients": [
+            {
+              "name": "Jarret de porc",
+              "quantity": "1",
+              "unit": ""
+            },
+            {
+              "name": "Bière blonde, ambrée ou brune",
+              "quantity": "50",
+              "unit": "cl"
+            },
+            {
+              "name": "Oignons",
+              "quantity": "2",
+              "unit": ""
+            },
+            {
+              "name": "Carottes",
+              "quantity": "2",
+              "unit": ""
+            },
+            {
+              "name": "Gousses d’ail",
+              "quantity": "3",
+              "unit": ""
+            },
+            {
+              "name": "Thym",
+              "quantity": "1",
+              "unit": "brin"
+            },
+            {
+              "name": "Feuille de laurier",
+              "quantity": "1",
+              "unit": ""
+            },
+            {
+              "name": "Clous de girofle",
+              "quantity": "2",
+              "unit": ""
+            },
+            {
+              "name": "Poivre noir",
+              "quantity": "",
+              "unit": ""
+            },
+            {
+              "name": "Sel",
+              "quantity": "",
+              "unit": ""
+            },
+            {
+              "name": "Huile végétale",
+              "quantity": "2",
+              "unit": "tbsp"
+            }
+          ],
+          "preparation": [
+            "Ficeler le jarret de porc pour qu’il garde sa forme pendant la cuisson.",
+            "Faire chauffer l’huile dans une cocotte et saisir le jarret sur toutes ses faces pour le colorer.",
+            "Émincer les oignons, couper les carottes en rondelles et hacher l’ail.",
+            "Ajouter les légumes dans la cocotte et faire revenir quelques minutes.",
+            "Verser la bière dans la cocotte, ajouter le thym, le laurier, les clous de girofle, le sel et le poivre.",
+            "Couvrir et laisser mijoter à feu doux pendant environ 3 heures, en arrosant régulièrement le jarret avec sa sauce.",
+            "Pour une sauce plus onctueuse, mixer la sauce en fin de cuisson et, si souhaité, épaissir avec un peu de maïzena délayée.",
+            "Servir chaud accompagné de pommes de terre vapeur, de riz ou de pâtes."
+          ],
+          "image": "https://nuagesdepices.com/wp-content/uploads/2024/03/jarret-de-porc-braise-a-la-biere.jpg",
+          "source": "nuagesdepices.com"
+        },
+        {
           "id": "pancake-simple",
           "type": "DESSERTS",
           "title": "Pancake, simple",
