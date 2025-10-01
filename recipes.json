@@ -1,694 +1,742 @@
 {
     "recipes": [
         {
-          "id": "jarret-porc-biere",
-          "type": "REPAS",
-          "title": "Jarret de porc braisé à la bière",
-          "portions": "4",
-          "time": "3 h",
-          "tags": [
-            "Française",
-            "Plat mijoté",
-            "Convivial"
-          ],
-          "ingredients": [
-            {
-              "name": "Jarret de porc",
-              "quantity": "1",
-              "unit": ""
-            },
-            {
-              "name": "Bière blonde, ambrée ou brune",
-              "quantity": "2",
-              "unit": "tasses"
-            },
-            {
-              "name": "Oignons",
-              "quantity": "2",
-              "unit": ""
-            },
-            {
-              "name": "Carottes",
-              "quantity": "2",
-              "unit": ""
-            },
-            {
-              "name": "Gousses d’ail",
-              "quantity": "3",
-              "unit": ""
-            },
-            {
-              "name": "Thym",
-              "quantity": "1",
-              "unit": "brin"
-            },
-            {
-              "name": "Feuille de laurier",
-              "quantity": "1",
-              "unit": ""
-            },
-            {
-              "name": "Clous de girofle",
-              "quantity": "2",
-              "unit": ""
-            },
-            {
-              "name": "Poivre noir",
-              "quantity": "",
-              "unit": ""
-            },
-            {
-              "name": "Sel",
-              "quantity": "",
-              "unit": ""
-            },
-            {
-              "name": "Huile végétale",
-              "quantity": "2",
-              "unit": "tbsp"
-            }
-          ],
-          "preparation": [
-            "Ficeler le jarret de porc pour qu’il garde sa forme pendant la cuisson.",
-            "Faire chauffer l’huile dans une cocotte et saisir le jarret sur toutes ses faces pour le colorer.",
-            "Émincer les oignons, couper les carottes en rondelles et hacher l’ail.",
-            "Ajouter les légumes dans la cocotte et faire revenir quelques minutes.",
-            "Verser la bière dans la cocotte, ajouter le thym, le laurier, les clous de girofle, le sel et le poivre.",
-            "Couvrir et laisser mijoter à feu doux pendant environ 3 heures, en arrosant régulièrement le jarret avec sa sauce.",
-            "Pour une sauce plus onctueuse, mixer la sauce en fin de cuisson et, si souhaité, épaissir avec un peu de maïzena délayée.",
-            "Servir chaud accompagné de pommes de terre vapeur, de riz ou de pâtes."
-          ],
-          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/jarret-porc-biere.png",
-          "source": "nuagesdepices.com"
+            "id": "jarret-porc-biere",
+            "type": "REPAS",
+            "title": "Jarret de porc braisé à la bière",
+            "portions": "4",
+            "time": "3 h",
+            "tags": [
+                "Type:Plat principal",
+                "Cuisine:Française",
+                "Régime:Omnivore",
+                "Protéine:Porc",
+                "Méthode:Braisé",
+                "Occasion:Réconfort"
+            ],
+            "ingredients": [
+                {
+                    "name": "Jarret de porc",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Bière blonde, ambrée ou brune",
+                    "quantity": "2",
+                    "unit": "tasses"
+                },
+                {
+                    "name": "Oignons",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Carottes",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Gousses d’ail",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "Thym",
+                    "quantity": "1",
+                    "unit": "brin"
+                },
+                {
+                    "name": "Feuille de laurier",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Clous de girofle",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Poivre noir",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "Sel",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "Huile végétale",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "preparation": [
+                "Ficeler le jarret de porc pour qu’il garde sa forme pendant la cuisson.",
+                "Faire chauffer l’huile dans une cocotte et saisir le jarret sur toutes ses faces pour le colorer.",
+                "Émincer les oignons, couper les carottes en rondelles et hacher l’ail.",
+                "Ajouter les légumes dans la cocotte et faire revenir quelques minutes.",
+                "Verser la bière dans la cocotte, ajouter le thym, le laurier, les clous de girofle, le sel et le poivre.",
+                "Couvrir et laisser mijoter à feu doux pendant environ 3 heures, en arrosant régulièrement le jarret avec sa sauce.",
+                "Pour une sauce plus onctueuse, mixer la sauce en fin de cuisson et, si souhaité, épaissir avec un peu de maïzena délayée.",
+                "Servir chaud accompagné de pommes de terre vapeur, de riz ou de pâtes."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/jarret-porc-biere.png",
+            "source": "nuagesdepices.com"
         },
         {
-          "id": "pancake-simple",
-          "type": "DESSERTS",
-          "title": "Pancake, simple",
-          "tags": [
-            "Dejeuner"
-          ],
-          "ingredients": [
-            {
-              "name": "Farine",
-              "quantity": "1",
-              "unit": "tasse"
-            },
-            {
-              "name": "Sucre",
-              "quantity": "2",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Poudre à pâte",
-              "quantity": "3",
-              "unit": "tsp"
-            },
-            {
-              "name": "Sel",
-              "quantity": "½",
-              "unit": "tsp"
-            },
-            {
-              "name": "Oeuf",
-              "quantity": "1",
-              "unit": ""
-            },
-            {
-              "name": "Lait",
-              "quantity": "1 ⅓",
-              "unit": "tasse"
-            }
-          ],
-          "preparation": [
-            "Tout mélanger correctement, puis faire cuire une cuillerée à la fois dans une poêle, des deux côtés."
-          ],
-          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pancake.jpg",
-          "source": ""
+            "id": "pancake-simple",
+            "type": "DESSERTS",
+            "title": "Pancake, simple",
+            "tags": [
+                "Type:Déjeuner",
+                "Cuisine:Américaine",
+                "Régime:Végétarien",
+                "Méthode:Cuisinière",
+                "Occasion:Brunch",
+                "Public:Famille"
+            ],
+            "ingredients": [
+                {
+                    "name": "Farine",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Sucre",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Poudre à pâte",
+                    "quantity": "3",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Sel",
+                    "quantity": "½",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Oeuf",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Lait",
+                    "quantity": "1 ⅓",
+                    "unit": "tasse"
+                }
+            ],
+            "preparation": [
+                "Tout mélanger correctement, puis faire cuire une cuillerée à la fois dans une poêle, des deux côtés."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pancake.jpg",
+            "source": "",
+            "portions": "4",
+            "time": "20 min"
         },
         {
-          "id": "chow-mein",
-          "type": "REPAS",
-          "title": "Chow Mein",
-          "portions": "4",
-          "time": "30 min",
-          "tags": [
-            "Asiatique",
-            "Rapide"
-          ],
-          "ingredients": [
-            {
-              "name": "Nouilles Chow Mein",
-              "quantity": "200",
-              "unit": "g"
-            },
-            {
-              "name": "Poulet",
-              "quantity": "200",
-              "unit": "g"
-            },
-            {
-              "name": "Carotte",
-              "quantity": "1",
-              "unit": ""
-            },
-            {
-              "name": "Chou",
-              "quantity": "1",
-              "unit": "tasse"
-            },
-            {
-              "name": "Poivron",
-              "quantity": "1",
-              "unit": ""
-            },
-            {
-              "name": "Pousses de soja",
-              "quantity": "1",
-              "unit": "tasse"
-            },
-            {
-              "name": "Oignons verts",
-              "quantity": "2",
-              "unit": ""
-            },
-            {
-              "name": "Huile végétale",
-              "quantity": "2",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Ail",
-              "quantity": "2",
-              "unit": "gousses"
-            },
-            {
-              "name": "Gingembre frais",
-              "quantity": "1",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Sauce soja",
-              "quantity": "3",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Sauce aux huîtres",
-              "quantity": "2",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Huile de sésame",
-              "quantity": "1",
-              "unit": "tsp"
-            },
-            {
-              "name": "Sel et poivre",
-              "quantity": "",
-              "unit": ""
-            }
-          ],
-          "preparation": [
-            "Cuire les nouilles Chow Mein selon les instructions de l'emballage. Égoutter et réserver.",
-            "Chauffer 1 tbsp d'huile dans une poêle ou un wok à feu moyen-élevé.",
-            "Faire revenir le poulet jusqu'à ce qu'il soit bien cuit. Retirer et réserver.",
-            "Ajouter le reste d'huile dans la poêle. Faire sauter l'ail et le gingembre jusqu'à ce qu'ils soient parfumés.",
-            "Ajouter les carottes, le chou et le poivron. Faire sauter pendant 2-3 minutes jusqu'à ce qu'ils soient légèrement tendres.",
-            "Incorporer les pousses de soja et les oignons verts, puis remettre le poulet dans la poêle.",
-            "Ajouter les nouilles cuites, la sauce soja, la sauce aux huîtres et l'huile de sésame. Mélanger le tout jusqu'à ce que les nouilles soient bien enrobées et chaudes.",
-            "Servir chaud et déguster."
-          ],
-          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/chow-mein.jpg",
-          "source": "chatgpt"
+            "id": "chow-mein",
+            "type": "REPAS",
+            "title": "Chow Mein",
+            "portions": "4",
+            "time": "30 min",
+            "tags": [
+                "Type:Plat principal",
+                "Cuisine:Chinoise",
+                "Régime:Omnivore",
+                "Protéine:Poulet",
+                "Méthode:Sauté",
+                "Équipement:Wok"
+            ],
+            "ingredients": [
+                {
+                    "name": "Nouilles Chow Mein",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "Poulet",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "Carotte",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Chou",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Poivron",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Pousses de soja",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Oignons verts",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Huile végétale",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Ail",
+                    "quantity": "2",
+                    "unit": "gousses"
+                },
+                {
+                    "name": "Gingembre frais",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sauce soja",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sauce aux huîtres",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Huile de sésame",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Sel et poivre",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Cuire les nouilles Chow Mein selon les instructions de l'emballage. Égoutter et réserver.",
+                "Chauffer 1 tbsp d'huile dans une poêle ou un wok à feu moyen-élevé.",
+                "Faire revenir le poulet jusqu'à ce qu'il soit bien cuit. Retirer et réserver.",
+                "Ajouter le reste d'huile dans la poêle. Faire sauter l'ail et le gingembre jusqu'à ce qu'ils soient parfumés.",
+                "Ajouter les carottes, le chou et le poivron. Faire sauter pendant 2-3 minutes jusqu'à ce qu'ils soient légèrement tendres.",
+                "Incorporer les pousses de soja et les oignons verts, puis remettre le poulet dans la poêle.",
+                "Ajouter les nouilles cuites, la sauce soja, la sauce aux huîtres et l'huile de sésame. Mélanger le tout jusqu'à ce que les nouilles soient bien enrobées et chaudes.",
+                "Servir chaud et déguster."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/chow-mein.jpg",
+            "source": "chatgpt"
         },
         {
-          "id": "crepes-simples",
-          "type": "DESSERTS",
-          "title": "Crêpes simples",
-          "portions": "4",
-          "time": "30 min",
-          "tags": [
-            "Petit-déjeuner",
-            "Facile",
-            "Rapide",
-            "Polyvalent"
-          ],
-          "ingredients": [
-            {
-              "name": "Farine tout usage",
-              "quantity": "1",
-              "unit": "cup"
-            },
-            {
-              "name": "Lait",
-              "quantity": "1",
-              "unit": "cup"
-            },
-            {
-              "name": "Œufs",
-              "quantity": "2",
-              "unit": ""
-            },
-            {
-              "name": "Beurre non salé (fondu)",
-              "quantity": "2",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Sucre (optionnel)",
-              "quantity": "1",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Sel",
-              "quantity": "1/4",
-              "unit": "tsp"
-            }
-          ],
-          "preparation": [
-            "Dans un grand bol, mélanger la farine, le sel et le sucre (si utilisé).",
-            "Dans un autre bol, fouetter les œufs, le lait et le beurre fondu.",
-            "Verser progressivement les ingrédients liquides dans les ingrédients secs tout en fouettant, jusqu'à obtenir une pâte lisse et fluide. Si la pâte semble trop épaisse, ajouter un peu de lait (1-2 cuillères à soupe à la fois).",
-            "Chauffer une poêle antiadhésive à feu moyen et la graisser légèrement avec un peu de beurre.",
-            "Verser une petite louche de pâte dans la poêle et l'étaler rapidement en inclinant la poêle pour former une couche fine.",
-            "Cuire environ 1-2 minutes jusqu'à ce que les bords commencent à se détacher, puis retourner la crêpe et cuire encore 1 minute de l'autre côté.",
-            "Répéter avec le reste de la pâte, en graissant la poêle si nécessaire.",
-            "Servir chaud avec des garnitures sucrées (sucre, confiture, Nutella) ou salées (fromage, jambon, légumes)."
-          ],
-          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/crepes.jpg",
-          "source": "chatgpt"
+            "id": "crepes-simples",
+            "type": "DESSERTS",
+            "title": "Crêpes simples",
+            "portions": "4",
+            "time": "25 min",
+            "tags": [
+                "Type:Déjeuner",
+                "Cuisine:Française",
+                "Régime:Végétarien",
+                "Méthode:Cuisinière",
+                "Occasion:Brunch",
+                "Niveau:Débutant"
+            ],
+            "ingredients": [
+                {
+                    "name": "Farine tout usage",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "Lait",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "Œufs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Beurre non salé (fondu)",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sucre (optionnel)",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sel",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                }
+            ],
+            "preparation": [
+                "Dans un grand bol, mélanger la farine, le sel et le sucre (si utilisé).",
+                "Dans un autre bol, fouetter les œufs, le lait et le beurre fondu.",
+                "Verser progressivement les ingrédients liquides dans les ingrédients secs tout en fouettant, jusqu'à obtenir une pâte lisse et fluide. Si la pâte semble trop épaisse, ajouter un peu de lait (1-2 cuillères à soupe à la fois).",
+                "Chauffer une poêle antiadhésive à feu moyen et la graisser légèrement avec un peu de beurre.",
+                "Verser une petite louche de pâte dans la poêle et l'étaler rapidement en inclinant la poêle pour former une couche fine.",
+                "Cuire environ 1-2 minutes jusqu'à ce que les bords commencent à se détacher, puis retourner la crêpe et cuire encore 1 minute de l'autre côté.",
+                "Répéter avec le reste de la pâte, en graissant la poêle si nécessaire.",
+                "Servir chaud avec des garnitures sucrées (sucre, confiture, Nutella) ou salées (fromage, jambon, légumes)."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/crepes.jpg",
+            "source": "chatgpt"
         },
         {
-          "id": "pancakes",
-          "type": "DESSERTS",
-          "title": "Pancakes",
-          "portions": "4",
-          "time": "20m",
-          "tags": [
-            "Déjeuner",
-            "Facile",
-            "Rapide"
-          ],
-          "ingredients": [
-            {
-              "name": "Farine",
-              "quantity": "1",
-              "unit": "tasse"
-            },
-            {
-              "name": "Sucre",
-              "quantity": "2",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Poudre à pâte (levure chimique)",
-              "quantity": "2",
-              "unit": "tsp"
-            },
-            {
-              "name": "Sel",
-              "quantity": "¼",
-              "unit": "tsp"
-            },
-            {
-              "name": "Lait",
-              "quantity": "¾",
-              "unit": "tasse"
-            },
-            {
-              "name": "Œuf",
-              "quantity": "1",
-              "unit": ""
-            },
-            {
-              "name": "Beurre non salé (fondu)",
-              "quantity": "2",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Extrait de vanille",
-              "quantity": "1",
-              "unit": "tsp"
-            }
-          ],
-          "preparation": [
-            "Dans un grand bol, mélanger la farine, le sucre, la poudre à pâte et le sel.",
-            "Dans un autre bol, fouetter le lait, l'œuf, le beurre fondu et l'extrait de vanille.",
-            "Verser les ingrédients liquides dans les ingrédients secs et mélanger délicatement jusqu'à ce que la pâte soit homogène mais légèrement grumeleuse. Ne pas trop mélanger.",
-            "Chauffer une poêle antiadhésive à feu moyen et la graisser légèrement avec un peu de beurre.",
-            "Verser environ 60 ml (¼ tasse) de pâte par pancake sur la poêle. Cuire jusqu'à ce que des bulles se forment à la surface et que les bords semblent pris, environ 2-3 minutes.",
-            "Retourner les pancakes et cuire encore 1-2 minutes jusqu'à ce qu'ils soient dorés.",
-            "Servir chaud avec du sirop d'érable, des fruits ou tout autre accompagnement de votre choix."
-          ],
-          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pancake.jpg",
-          "source": "chatgpt"
+            "id": "pancakes",
+            "type": "DESSERTS",
+            "title": "Pancakes",
+            "portions": "4",
+            "time": "20 min",
+            "tags": [
+                "Type:Déjeuner",
+                "Cuisine:Américaine",
+                "Régime:Végétarien",
+                "Méthode:Cuisinière",
+                "Occasion:Brunch",
+                "Niveau:Débutant"
+            ],
+            "ingredients": [
+                {
+                    "name": "Farine",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Sucre",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Poudre à pâte (levure chimique)",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Sel",
+                    "quantity": "¼",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Lait",
+                    "quantity": "¾",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Œuf",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Beurre non salé (fondu)",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Extrait de vanille",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "preparation": [
+                "Dans un grand bol, mélanger la farine, le sucre, la poudre à pâte et le sel.",
+                "Dans un autre bol, fouetter le lait, l'œuf, le beurre fondu et l'extrait de vanille.",
+                "Verser les ingrédients liquides dans les ingrédients secs et mélanger délicatement jusqu'à ce que la pâte soit homogène mais légèrement grumeleuse. Ne pas trop mélanger.",
+                "Chauffer une poêle antiadhésive à feu moyen et la graisser légèrement avec un peu de beurre.",
+                "Verser environ 60 ml (¼ tasse) de pâte par pancake sur la poêle. Cuire jusqu'à ce que des bulles se forment à la surface et que les bords semblent pris, environ 2-3 minutes.",
+                "Retourner les pancakes et cuire encore 1-2 minutes jusqu'à ce qu'ils soient dorés.",
+                "Servir chaud avec du sirop d'érable, des fruits ou tout autre accompagnement de votre choix."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pancake.jpg",
+            "source": "chatgpt"
         },
         {
-          "id": "ragout-boeuf",
-          "type": "REPAS",
-          "title": "Ragoût de bœuf",
-          "portions": "4+",
-          "time": "8h",
-          "tags": [
-            "Mijoteuse"
-          ],
-          "ingredients": [
-            {
-              "name": "Bœuf à ragoût (en cubes)",
-              "quantity": "1 kg",
-              "unit": "ou 2.2 lbs"
-            },
-            {
-              "name": "Carottes",
-              "quantity": "3-6",
-              "unit": ""
-            },
-            {
-              "name": "Patates",
-              "quantity": "3-4",
-              "unit": ""
-            },
-            {
-              "name": "Oignons",
-              "quantity": "2",
-              "unit": ""
-            },
-            {
-              "name": "Champignons",
-              "quantity": "",
-              "unit": ""
-            },
-            {
-              "name": "Gousses d'ail",
-              "quantity": "2",
-              "unit": ""
-            },
-            {
-              "name": "Pâte de tomates",
-              "quantity": "3-4",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Bouillon de bœuf ",
-              "quantity": "700",
-              "unit": "ml"
-            },
-            {
-              "name": "Farine",
-              "quantity": "2",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Huile d'olive",
-              "quantity": "2",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Vinaigre balsamique ou vin rouge",
-              "quantity": "2",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Thym",
-              "quantity": "1",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Romarin",
-              "quantity": "1",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Herbes de provence",
-              "quantity": "1",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Feuilles de laurier",
-              "quantity": "1-2",
-              "unit": ""
-            },
-            {
-              "name": "Sel et poivre",
-              "quantity": "",
-              "unit": ""
-            }
-          ],
-          "preparation": [
-            "***Précisions: Les quantités de légumes sont à l’œil et au goût. En règle générale, il faut que le liquide arrive au même niveau que le solide dans la mijoteuse, sinon ajoutez du bouillon ou des légumes selon le cas. Je mets en générale une quantité de chaque légume proportionnelle à la viande pour que le mélange soit bien balancé.***",
-            "",
-            "Dans une poêle, faire dorer les morceaux de bœuf de tous les côtés. *Pas besoin d'une cuisson interne parfaite, on veut simplement ajouter une dorure à la viande avant qu'elle mijote",
-            "Pendant que la viande dore, émincer les oignons, hacher l'ail, couper les carottes et les patates en cubes. ",
-            "Retirer la viande une fois dorée et déposer dans la mijoteuse. Dans la même poêle, faire revenir les oignons et l'ail.",
-            "Ensuite, ajouter les oignons et l'ail dans la mijoteuse avec les carottes, patates et les champignons (nettoyés).",
-            "Verser le bouillon de bœuf dans la mijoteuse ainsi que la pâte de tomate, l'huile d'olive et le vinaigre balsamique ou vin rouge. Mélanger le tout délicatement.",
-            "Ajouter les herbes et épices et du sel et poivre au goût. Saupoudrer la farine également et mélanger à nouveau le tout délicatement.",
-            "Partir la mijoteuse à basse température pour 6-7 heures au moins. (j'ai déjà laissé fonctionner la mijoteuse pendant 12 heures durant la nuit sans problème!)"
-          ],
-          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/ragout-boeuf.jpg",
-          "source": ""
+            "id": "ragout-boeuf",
+            "type": "REPAS",
+            "title": "Ragoût de bœuf",
+            "portions": "6",
+            "time": "7 h",
+            "tags": [
+                "Type:Plat principal",
+                "Cuisine:Française",
+                "Régime:Omnivore",
+                "Protéine:Bœuf",
+                "Méthode:Mijoteuse",
+                "Occasion:Réconfort"
+            ],
+            "ingredients": [
+                {
+                    "name": "Bœuf à ragoût (en cubes)",
+                    "quantity": "1 kg",
+                    "unit": "ou 2.2 lbs"
+                },
+                {
+                    "name": "Carottes",
+                    "quantity": "3-6",
+                    "unit": ""
+                },
+                {
+                    "name": "Patates",
+                    "quantity": "3-4",
+                    "unit": ""
+                },
+                {
+                    "name": "Oignons",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Champignons",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "Gousses d'ail",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Pâte de tomates",
+                    "quantity": "3-4",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Bouillon de bœuf ",
+                    "quantity": "700",
+                    "unit": "ml"
+                },
+                {
+                    "name": "Farine",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Huile d'olive",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Vinaigre balsamique ou vin rouge",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Thym",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Romarin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Herbes de provence",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Feuilles de laurier",
+                    "quantity": "1-2",
+                    "unit": ""
+                },
+                {
+                    "name": "Sel et poivre",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "***Précisions: Les quantités de légumes sont à l’œil et au goût. En règle générale, il faut que le liquide arrive au même niveau que le solide dans la mijoteuse, sinon ajoutez du bouillon ou des légumes selon le cas. Je mets en générale une quantité de chaque légume proportionnelle à la viande pour que le mélange soit bien balancé.***",
+                "",
+                "Dans une poêle, faire dorer les morceaux de bœuf de tous les côtés. *Pas besoin d'une cuisson interne parfaite, on veut simplement ajouter une dorure à la viande avant qu'elle mijote",
+                "Pendant que la viande dore, émincer les oignons, hacher l'ail, couper les carottes et les patates en cubes. ",
+                "Retirer la viande une fois dorée et déposer dans la mijoteuse. Dans la même poêle, faire revenir les oignons et l'ail.",
+                "Ensuite, ajouter les oignons et l'ail dans la mijoteuse avec les carottes, patates et les champignons (nettoyés).",
+                "Verser le bouillon de bœuf dans la mijoteuse ainsi que la pâte de tomate, l'huile d'olive et le vinaigre balsamique ou vin rouge. Mélanger le tout délicatement.",
+                "Ajouter les herbes et épices et du sel et poivre au goût. Saupoudrer la farine également et mélanger à nouveau le tout délicatement.",
+                "Partir la mijoteuse à basse température pour 6-7 heures au moins. (j'ai déjà laissé fonctionner la mijoteuse pendant 12 heures durant la nuit sans problème!)"
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/ragout-boeuf.jpg",
+            "source": ""
         },
         {
-          "id": "tofu-canneberges",
-          "type": "REPAS",
-          "title": "Tofu sauce aux canneberges",
-          "portions": "4",
-          "time": "30~40",
-          "tags": [
-            "Vegan"
-          ],
-          "ingredients": [
-            {
-              "name": "Tofu",
-              "quantity": "450",
-              "unit": "g"
-            },
-            {
-              "name": "Fécule de maïs",
-              "quantity": "¼",
-              "unit": "tasse"
-            },
-            {
-              "name": "Levure alimentaire",
-              "quantity": "2",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Poudre d'ail",
-              "quantity": "1",
-              "unit": "tsp"
-            },
-            {
-              "name": "-----",
-              "quantity": "-",
-              "unit": "-"
-            },
-            {
-              "name": "Oignons verts (Échalotes) (hâché)",
-              "quantity": "2",
-              "unit": " bouquets"
-            },
-            {
-              "name": "Gingembre frais (hâché)",
-              "quantity": "1",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Cognac (ou vin)",
-              "quantity": "¼",
-              "unit": "tasse"
-            },
-            {
-              "name": "Canneberges séchées",
-              "quantity": "½",
-              "unit": "tasse"
-            },
-            {
-              "name": "Sirop d'érable*",
-              "quantity": "¼",
-              "unit": "tasse"
-            },
-            {
-              "name": "Sauce soya",
-              "quantity": "¼",
-              "unit": "tasse"
-            },
-            {
-              "name": "Jus de citron",
-              "quantity": "2",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Piment rouge",
-              "quantity": "¼",
-              "unit": "tsp"
-            },
-            {
-              "name": "-----",
-              "quantity": "-",
-              "unit": "-"
-            },
-            {
-              "name": "Riz (jasmin)",
-              "quantity": "1",
-              "unit": "tasse"
-            },
-            {
-              "name": "Vinaigre de riz",
-              "quantity": "2",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Sirop d'érable**",
-              "quantity": "1",
-              "unit": "tbsp"
-            }
-          ],
-          "preparation": [
-            "Mélanger le vinaigre de riz, le sirop d'érable** et ½ tsp de sel de table.",
-            "Nettoyer le riz et le faire cuire avec la quantité appropriée d'eau ainsi que le mélange de vinaigre de riz.",
-            "Tofu:",
-            "Pendant que le riz cuit, couper le tofu en 10 tranches dans la largeur, puis en diagonale pour obtenir 20 triangles.",
-            "Dans un bol, mélanger la fécule de maïs, la levure alimentaire, la poudre d'ail et ½ tsp de sel de table.",
-            "Ajouter les morceaux de tofu pour les enrober du mélange.",
-            "Faire revenir les morceaux de tofu dans une grande poêle ou un wok avec de l'huile végétale, jusqu'à ce qu'il soit croustillant et légèrement rôti. Réserver",
-            "Sauce:",
-            "Dans une autre poêle, faire revenir les échalotes et le gingembre pendant environ 3 minutes. Ajouter le cognac (ou vin) et porter à ébullition, puis laisser réduire pendant environ 30 secondes.",
-            "Ajouter les canneberges, le sirop d'érable*, la sauce soya, le jus de citron, le piment rouge ainsi que ½ tasse d'eau et laisser mijoter pendant quelques minutes. Ajouter le tofu et mélanger.",
-            "Servir le tofu et la sauce sur le riz",
-            "Suggestion: accompagner le repas d'asperges!"
-          ],
-          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/tofu-canneberge.jpg",
-          "source": ""
-        },
-        {   
-          "id": "carre-aux-dattes",
-          "type": "DESSERTS",
-          "title": "Carrés aux dattes",
-          "portions": "12",
-          "time": "40",
-          "tags": [],
-          "ingredients": [
-            {
-              "name": "Dattes dénoyautés",
-              "quantity": "½",
-              "unit": "lb"
-            },
-            {
-              "name": "Jus d'orange",
-              "quantity": "1",
-              "unit": "tasse"
-            },
-            {
-              "name": "farine",
-              "quantity": "1",
-              "unit": "tasse"
-            },
-            {
-              "name": "Bicarbonate de soude",
-              "quantity": "½",
-              "unit": "tsp"
-            },
-            {
-              "name": "Sel",
-              "quantity": "⅛",
-              "unit": "tsp"
-            },
-            {
-              "name": "Huile végétale ou beurre ramolli",
-              "quantity": "1",
-              "unit": "tasse"
-            },
-            {
-              "name": "Cassonade",
-              "quantity": "1",
-              "unit": "tasse"
-            },
-            {
-              "name": "Gruau",
-              "quantity": "2",
-              "unit": "tasses"
-            }
-          ],
-          "preparation": [
-            "Préchauffer le four à 350 Fahrenheit.",
-            "Cuire les dattes et le jus d'orange dans une casserole ensemble.",
-            "Mélanger le reste des ingrédients ensemble. Ce mélange sera la croûte.",
-            "Graisser un plat pour le four (de préférence 8\"x10\").",
-            "Verser la moitié du mélange de la croûte pour recouvrir le fond du plat pour le four.",
-            "Verser ensuite le mélange de dattes et de jus d'orange.",
-            "Finalement recouvrir le tout avec le reste du mélange pour la croûte.",
-            "Cuire au four de 25 à 30 minutes."
-          ],
-          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/carre-dattes.png",
-          "source": ""
+            "id": "tofu-canneberges",
+            "type": "REPAS",
+            "title": "Tofu sauce aux canneberges",
+            "portions": "4",
+            "time": "45 min",
+            "tags": [
+                "Type:Plat principal",
+                "Cuisine:Fusion asiatique",
+                "Régime:Végane",
+                "Protéine:Tofu",
+                "Méthode:Cuisinière",
+                "Occasion:Soir de semaine",
+                "Saveur:Sucré-salé"
+            ],
+            "ingredients": [
+                {
+                    "name": "Tofu",
+                    "quantity": "450",
+                    "unit": "g"
+                },
+                {
+                    "name": "Fécule de maïs",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Levure alimentaire",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Poudre d'ail",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "-----",
+                    "quantity": "-",
+                    "unit": "-"
+                },
+                {
+                    "name": "Oignons verts (Échalotes) (hâché)",
+                    "quantity": "2",
+                    "unit": " bouquets"
+                },
+                {
+                    "name": "Gingembre frais (hâché)",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Cognac (ou vin)",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Canneberges séchées",
+                    "quantity": "½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Sirop d'érable*",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Sauce soya",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Jus de citron",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Piment rouge",
+                    "quantity": "¼",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "-----",
+                    "quantity": "-",
+                    "unit": "-"
+                },
+                {
+                    "name": "Riz (jasmin)",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Vinaigre de riz",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sirop d'érable**",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "preparation": [
+                "Mélanger le vinaigre de riz, le sirop d'érable** et ½ tsp de sel de table.",
+                "Nettoyer le riz et le faire cuire avec la quantité appropriée d'eau ainsi que le mélange de vinaigre de riz.",
+                "Tofu:",
+                "Pendant que le riz cuit, couper le tofu en 10 tranches dans la largeur, puis en diagonale pour obtenir 20 triangles.",
+                "Dans un bol, mélanger la fécule de maïs, la levure alimentaire, la poudre d'ail et ½ tsp de sel de table.",
+                "Ajouter les morceaux de tofu pour les enrober du mélange.",
+                "Faire revenir les morceaux de tofu dans une grande poêle ou un wok avec de l'huile végétale, jusqu'à ce qu'il soit croustillant et légèrement rôti. Réserver",
+                "Sauce:",
+                "Dans une autre poêle, faire revenir les échalotes et le gingembre pendant environ 3 minutes. Ajouter le cognac (ou vin) et porter à ébullition, puis laisser réduire pendant environ 30 secondes.",
+                "Ajouter les canneberges, le sirop d'érable*, la sauce soya, le jus de citron, le piment rouge ainsi que ½ tasse d'eau et laisser mijoter pendant quelques minutes. Ajouter le tofu et mélanger.",
+                "Servir le tofu et la sauce sur le riz",
+                "Suggestion: accompagner le repas d'asperges!"
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/tofu-canneberge.jpg",
+            "source": ""
         },
         {
-          "id": "bbq-sauce",
-          "type": "AUTRES",
-          "title": "Sauce BBQ",
-          "portions": "1",
-          "time": "5",
-          "tags": [
-            "Sauce"
-          ],
-          "ingredients": [
-            {
-              "name": "Ketchup",
-              "quantity": "½",
-              "unit": "tasse"
-            },
-            {
-              "name": "Vinaigre Balsamique",
-              "quantity": "1 ½",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Cassonade",
-              "quantity": "1",
-              "unit": "tbsp"
-            },
-            {
-              "name": "Paprika",
-              "quantity": "½",
-              "unit": "tsp"
-            },
-            {
-              "name": "Poudre d'ail",
-              "quantity": "¼",
-              "unit": "tsp"
-            },
-            {
-              "name": "Poudre d'onion",
-              "quantity": "¼",
-              "unit": "tsp"
-            },
-            {
-              "name": "Pincée de sel et de poivre",
-              "quantity": "",
-              "unit": ""
-            }
-          ],
-          "preparation": [
-            "Mélanger tout les ingrédients dans une casserole.",
-            "Faites chauffer à feu moyen-doux, en remuant de temps en temps, jusqu'à ce que la sauce commence à frémir.",
-            "Réduisez à feu doux et laisser cuire pendant 5-10 min en remuant fréquemment pour éviter que ça colle.",
-            "",
-            "Facultatif: Ajouter quelques gouttes de sauce piquante ou quelque flocons de chili.",
-            "",
-            "Donne une portion suffisante pour couvrir une côte levée complète."
-          ],
-          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/bbq-sauce.jpg",
-          "source": ""
+            "id": "carre-aux-dattes",
+            "type": "DESSERTS",
+            "title": "Carrés aux dattes",
+            "portions": "16",
+            "time": "45 min",
+            "tags": [
+                "Type:Dessert",
+                "Cuisine:Québécoise",
+                "Régime:Végétarien",
+                "Méthode:Four",
+                "Occasion:Repas-partage",
+                "Texture:Moelleuse"
+            ],
+            "ingredients": [
+                {
+                    "name": "Dattes dénoyautés",
+                    "quantity": "½",
+                    "unit": "lb"
+                },
+                {
+                    "name": "Jus d'orange",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "farine",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Bicarbonate de soude",
+                    "quantity": "½",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Sel",
+                    "quantity": "⅛",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Huile végétale ou beurre ramolli",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Cassonade",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Gruau",
+                    "quantity": "2",
+                    "unit": "tasses"
+                }
+            ],
+            "preparation": [
+                "Préchauffer le four à 350 Fahrenheit.",
+                "Cuire les dattes et le jus d'orange dans une casserole ensemble.",
+                "Mélanger le reste des ingrédients ensemble. Ce mélange sera la croûte.",
+                "Graisser un plat pour le four (de préférence 8\"x10\").",
+                "Verser la moitié du mélange de la croûte pour recouvrir le fond du plat pour le four.",
+                "Verser ensuite le mélange de dattes et de jus d'orange.",
+                "Finalement recouvrir le tout avec le reste du mélange pour la croûte.",
+                "Cuire au four de 25 à 30 minutes."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/carre-dattes.png",
+            "source": ""
+        },
+        {
+            "id": "bbq-sauce",
+            "type": "AUTRES",
+            "title": "Sauce BBQ",
+            "portions": "8",
+            "time": "15 min",
+            "tags": [
+                "Type:Sauce",
+                "Cuisine:Américaine",
+                "Régime:Végétarien",
+                "Méthode:Cuisinière",
+                "Usage:BBQ",
+                "Atout:À préparer d'avance"
+            ],
+            "ingredients": [
+                {
+                    "name": "Ketchup",
+                    "quantity": "½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Vinaigre Balsamique",
+                    "quantity": "1 ½",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Cassonade",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Paprika",
+                    "quantity": "½",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Poudre d'ail",
+                    "quantity": "¼",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Poudre d'onion",
+                    "quantity": "¼",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Pincée de sel et de poivre",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Mélanger tout les ingrédients dans une casserole.",
+                "Faites chauffer à feu moyen-doux, en remuant de temps en temps, jusqu'à ce que la sauce commence à frémir.",
+                "Réduisez à feu doux et laisser cuire pendant 5-10 min en remuant fréquemment pour éviter que ça colle.",
+                "",
+                "Facultatif: Ajouter quelques gouttes de sauce piquante ou quelque flocons de chili.",
+                "",
+                "Donne une portion suffisante pour couvrir une côte levée complète."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/bbq-sauce.jpg",
+            "source": ""
         },
         {
             "id": "bouchees_au_crabe",
             "type": "ENTREES",
             "title": "Bouchées au crabe",
-            "portions": "4+",
-            "time": "10 min",
+            "portions": "12",
+            "time": "30 min",
             "tags": [
-                "Party"
+                "Type:Entrée",
+                "Cuisine:Amérique du Nord",
+                "Régime:Pescétarien",
+                "Protéine:Fruits de mer",
+                "Méthode:Gril",
+                "Occasion:Fête",
+                "Atout:Se congèle bien"
             ],
             "ingredients": [
                 {
@@ -738,11 +786,15 @@
             "id": "trempette_mexicaine",
             "type": "ENTREES",
             "title": "Trempette mexicaine",
-            "portions": "4+",
+            "portions": "12",
             "time": "20 min",
             "tags": [
-                "Mexican",
-                "Végétarien"
+                "Type:Entrée",
+                "Cuisine:Tex-Mex",
+                "Régime:Végétarien",
+                "Méthode:Sans cuisson",
+                "Occasion:Repas-partage",
+                "Atout:À préparer d'avance"
             ],
             "ingredients": [
                 {
@@ -802,10 +854,15 @@
             "type": "REPAS",
             "title": "Pâté au thon",
             "portions": "8",
-            "time": "30 min",
+            "time": "45 min",
             "tags": [
-                "Rapide",
-                "Facile"
+                "Type:Plat principal",
+                "Cuisine:Amérique du Nord",
+                "Régime:Pescétarien",
+                "Protéine:Thon",
+                "Méthode:Four",
+                "Occasion:Soir de semaine",
+                "Atout:Ingrédients de base"
             ],
             "ingredients": [
                 {
@@ -851,10 +908,14 @@
             "type": "REPAS",
             "title": "Riz frit au poulet",
             "portions": "4",
-            "time": "30 min",
+            "time": "35 min",
             "tags": [
-                "Poulet",
-                "Riz"
+                "Type:Plat principal",
+                "Cuisine:Chinoise",
+                "Régime:Omnivore",
+                "Protéine:Poulet",
+                "Méthode:Sauté",
+                "Atout:Bons restes"
             ],
             "ingredients": [
                 {
@@ -912,11 +973,16 @@
             "id": "chili_con_macaroni",
             "type": "REPAS",
             "title": "Chili con macaroni",
-            "portions": "5",
-            "time": "60 min",
+            "portions": "6",
+            "time": "1 h 15 min",
             "tags": [
-                "Mexicain",
-                "Facile"
+                "Type:Plat principal",
+                "Cuisine:Tex-Mex",
+                "Régime:Omnivore",
+                "Protéine:Bœuf",
+                "Méthode:Mijoté",
+                "Atout:Grande quantité",
+                "Piquant:Moyen"
             ],
             "ingredients": [
                 {
@@ -1003,10 +1069,15 @@
             "id": "croustade-pomme",
             "type": "DESSERTS",
             "title": "Croustade aux pommes",
-            "portions": "6-8 Portions",
-            "time": "48 min",
+            "portions": "8",
+            "time": "45 min",
             "tags": [
-                "Pomme"
+                "Type:Dessert",
+                "Cuisine:Québécoise",
+                "Régime:Végétarien",
+                "Méthode:Four",
+                "Ingrédient:Pomme",
+                "Occasion:Réconfort"
             ],
             "ingredients": [
                 {
@@ -1051,10 +1122,15 @@
             "id": "muffin-carotte",
             "type": "DESSERTS",
             "title": "Muffin au son et à la carotte",
-            "portions": "12 Portions",
-            "time": "40 min",
+            "portions": "12",
+            "time": "35 min",
             "tags": [
-                "Muffin"
+                "Type:Déjeuner",
+                "Cuisine:Amérique du Nord",
+                "Régime:Végétarien",
+                "Méthode:Four",
+                "Atout:À préparer d'avance",
+                "Ingrédient:Carotte"
             ],
             "ingredients": [
                 {
@@ -1132,10 +1208,15 @@
             "id": "rice-krispies",
             "type": "DESSERTS",
             "title": "Rice Krispies",
-            "portions": "24 Portions",
-            "time": "15 min",
+            "portions": "24",
+            "time": "30 min",
             "tags": [
-                "Céréales"
+                "Type:Dessert",
+                "Cuisine:Amérique du Nord",
+                "Régime:Végétarien",
+                "Méthode:Sans cuisson",
+                "Occasion:Repas-partage",
+                "Public:Famille"
             ],
             "ingredients": [
                 {
@@ -1171,11 +1252,15 @@
             "id": "old-fashioned",
             "type": "BOISSONS",
             "title": "Old Fashioned",
-            "portions": "1 Portion",
-            "time": "3 min",
+            "portions": "1",
+            "time": "5 min",
             "tags": [
-                "Cocktail",
-                "Bourbon"
+                "Type:Boisson",
+                "Cuisine:Américaine",
+                "Alcool:Whisky",
+                "Méthode:Mélangé",
+                "Occasion:Digestif",
+                "Intensité:Alcool prononcé"
             ],
             "ingredients": [
                 {
@@ -1223,11 +1308,15 @@
             "id": "sauce-poutine",
             "type": "AUTRES",
             "title": "Sauce à poutine santé",
-            "portions": "-",
-            "time": "10 min",
+            "portions": "6",
+            "time": "20 min",
             "tags": [
-                "Sauce",
-                "Santé"
+                "Type:Sauce",
+                "Cuisine:Québécoise",
+                "Régime:Végétarien",
+                "Méthode:Cuisinière",
+                "Usage:Poutine",
+                "Atout:Plus léger"
             ],
             "ingredients": [
                 {
@@ -1268,10 +1357,15 @@
             "id": "pate-tarte",
             "type": "AUTRES",
             "title": "Pâte à tarte",
-            "portions": "-",
-            "time": "-",
+            "portions": "4",
+            "time": "25 min",
             "tags": [
-                "Base"
+                "Type:Base",
+                "Cuisine:Française",
+                "Régime:Végétarien",
+                "Méthode:Sans cuisson",
+                "Usage:Pâtisserie",
+                "Atout:Se congèle bien"
             ],
             "ingredients": [
                 {
@@ -1316,10 +1410,14 @@
             "id": "marinade-tofu",
             "type": "AUTRES",
             "title": "Marinade à tofu",
-            "time": "10 min",
+            "time": "4 h",
             "tags": [
-                "Base",
-                "Marinade"
+                "Type:Marinade",
+                "Cuisine:Asiatique",
+                "Régime:Végane",
+                "Protéine:Tofu",
+                "Méthode:Sans cuisson",
+                "Atout:À préparer d'avance"
             ],
             "ingredients": [
                 {
@@ -1371,16 +1469,22 @@
                 "* S'assurer de faire cette partie 4+ heures avant la recette pour laquelle le tofu est nécessaire. Cette partie peut même être fait une jounée d'avance"
             ],
             "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/marinade_tofu.jpg",
-            "source": ""
+            "source": "",
+            "portions": "4"
         },
         {
             "id": "quiche-goberge",
             "type": "REPAS",
             "title": "Quiche au goberge",
-            "portions": "8 Portions",
-            "time": "60 min",
+            "portions": "8",
+            "time": "1 h 10 min",
             "tags": [
-                "Pâte_à_tarte"
+                "Type:Plat principal",
+                "Cuisine:Française",
+                "Régime:Pescétarien",
+                "Protéine:Fruits de mer",
+                "Méthode:Four",
+                "Occasion:Brunch"
             ],
             "ingredients": [
                 {
@@ -1440,10 +1544,15 @@
             "id": "bagel-tofu",
             "type": "REPAS",
             "title": "Bagel au tofu gratiné",
-            "portions": "4 Portions",
-            "time": "50 min",
+            "portions": "4",
+            "time": "45 min",
             "tags": [
-                "Tofu"
+                "Type:Plat principal",
+                "Cuisine:Amérique du Nord",
+                "Régime:Végétarien",
+                "Protéine:Tofu",
+                "Méthode:Four",
+                "Occasion:Dîner"
             ],
             "ingredients": [
                 {
@@ -1487,10 +1596,15 @@
             "id": "poutine-sante",
             "type": "REPAS",
             "title": "Poutine Santé",
-            "portions": "2 Portions",
-            "time": "40 min",
+            "portions": "2",
+            "time": "45 min",
             "tags": [
-                "Végétarien"
+                "Type:Plat principal",
+                "Cuisine:Québécoise",
+                "Régime:Végétarien",
+                "Méthode:Four",
+                "Atout:Plus léger",
+                "Occasion:Soir de semaine"
             ],
             "ingredients": [
                 {
@@ -1538,12 +1652,16 @@
             "id": "macaroni-fromage",
             "type": "REPAS",
             "title": "Macaroni au fromage",
-            "portions": "8 Portions",
-            "time": "60 min",
+            "portions": "8",
+            "time": "50 min",
             "tags": [
-                "Pâtes",
-                "Fromage",
-                "Végétarien"
+                "Type:Plat principal",
+                "Cuisine:Amérique du Nord",
+                "Régime:Végétarien",
+                "Protéine:Produits laitiers",
+                "Méthode:Four",
+                "Occasion:Réconfort",
+                "Atout:À partager"
             ],
             "ingredients": [
                 {
@@ -1620,9 +1738,17 @@
             "id": "pain-viande",
             "type": "REPAS",
             "title": "Pain de viande",
-            "portions": "6 Portions",
-            "time": "50 min",
-            "tags": [],
+            "portions": "6",
+            "time": "60 min",
+            "tags": [
+                "Type:Plat principal",
+                "Cuisine:Amérique du Nord",
+                "Régime:Omnivore",
+                "Protéine:Bœuf",
+                "Méthode:Four",
+                "Occasion:Souper familial",
+                "Atout:Grande quantité"
+            ],
             "ingredients": [
                 {
                     "name": "Boeuf haché maigre",
@@ -1684,11 +1810,15 @@
             "id": "lasagne-mexicaine",
             "type": "REPAS",
             "title": "Lasagne mexicaine",
-            "portions": "8 Portions",
-            "time": "40 min",
+            "portions": "8",
+            "time": "60 min",
             "tags": [
-                "Mexicain",
-                "Végétarien"
+                "Type:Plat principal",
+                "Cuisine:Tex-Mex",
+                "Régime:Végétarien",
+                "Protéine:Légumineuses",
+                "Méthode:Four",
+                "Atout:Grande quantité"
             ],
             "ingredients": [
                 {
@@ -1762,7 +1892,13 @@
             "type": "REPAS",
             "title": "Boulettes de viande",
             "tags": [
-                "Facile"
+                "Type:Plat principal",
+                "Cuisine:Amérique du Nord",
+                "Régime:Omnivore",
+                "Protéine:Bœuf",
+                "Méthode:Mijoté",
+                "Occasion:Souper familial",
+                "Atout:Se congèle bien"
             ],
             "ingredients": [
                 {
@@ -1818,17 +1954,23 @@
                 "Couvrir et faire mijoter à feu très doux pendant 20 minutes. De temps en temps, remuer en faisant attention de ne pas briser les boulettes."
             ],
             "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/boulette_viande_champignon.jpg",
-            "source": ""
+            "source": "",
+            "portions": "8",
+            "time": "40 min"
         },
         {
             "id": "aioli-tofu",
             "type": "REPAS",
             "title": "Aïoli au tofu",
-            "portions": "4 Portion",
-            "time": "8 min",
+            "portions": "8",
+            "time": "10 min",
             "tags": [
-                "Tofu",
-                "Végane"
+                "Type:Condiment",
+                "Cuisine:Méditerranéenne",
+                "Régime:Végane",
+                "Protéine:Tofu",
+                "Méthode:Mélangeur",
+                "Usage:Trempette"
             ],
             "ingredients": [
                 {
@@ -1892,9 +2034,15 @@
             "id": "salade-texane",
             "type": "REPAS",
             "title": "Salade Texane",
-            "portions": "4 Portions",
+            "portions": "4",
             "tags": [
-                "TexMex"
+                "Type:Plat principal",
+                "Cuisine:Tex-Mex",
+                "Régime:Omnivore",
+                "Protéine:Bœuf",
+                "Méthode:Cuisinière",
+                "Occasion:Soir de semaine",
+                "Atout:Fraîcheur"
             ],
             "ingredients": [
                 {
@@ -1983,17 +2131,23 @@
                 "Verser la sauce sur les 4 bols de salade texane"
             ],
             "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/salade_texane.jpg",
-            "source": ""
+            "source": "",
+            "time": "35 min"
         },
         {
             "id": "pois-chiche-croustillants",
             "type": "AUTRES",
             "title": "Pois chiches croustillants",
-            "portions": "1+",
-            "time": "60 min",
+            "portions": "6",
+            "time": "1 h 10 min",
             "tags": [
-                "Végane",
-                "Collation"
+                "Type:Collation",
+                "Cuisine:Internationale",
+                "Régime:Végane",
+                "Protéine:Légumineuses",
+                "Méthode:Rôti",
+                "Atout:Préparation repas",
+                "Texture:Croustillante"
             ],
             "ingredients": [
                 {
@@ -2085,9 +2239,16 @@
             "id": "gateau-fromage",
             "type": "DESSERTS",
             "title": "Gâteau au fromage",
-            "portions": "8 Portions",
-            "time": "60 min",
-            "tags": [],
+            "portions": "8",
+            "time": "1 h 15 min",
+            "tags": [
+                "Type:Dessert",
+                "Cuisine:Amérique du Nord",
+                "Régime:Végétarien",
+                "Méthode:Four",
+                "Occasion:Célébration",
+                "Texture:Crémeuse"
+            ],
             "ingredients": [
                 {
                     "name": "Fromage à la crème ramoli",
@@ -2129,9 +2290,14 @@
             "id": "trempette-brocoli",
             "type": "ENTREES",
             "title": "Trempette chaude au brocoli",
-            "time": "40 min",
+            "time": "30 min",
             "tags": [
-                "Végé"
+                "Type:Entrée",
+                "Cuisine:Amérique du Nord",
+                "Régime:Végétarien",
+                "Méthode:Four",
+                "Usage:Trempette",
+                "Occasion:Jour de match"
             ],
             "ingredients": [
                 {
@@ -2178,14 +2344,23 @@
                 "Servir chaud avec les tostitos ou autres craquelins."
             ],
             "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/trempette_brocoli.jpg",
-            "source": ""
+            "source": "",
+            "portions": "10"
         },
         {
             "id": "tofu-feta",
             "type": "AUTRES",
             "title": "Feta de tofu",
-            "time": "10 min",
-            "tags": [],
+            "time": "2 h",
+            "tags": [
+                "Type:Condiment",
+                "Cuisine:Méditerranéenne",
+                "Régime:Végane",
+                "Protéine:Tofu",
+                "Méthode:Sans cuisson",
+                "Atout:Mariné",
+                "Usage:Salade"
+            ],
             "ingredients": [
                 {
                     "name": "Tofu",
@@ -2229,134 +2404,147 @@
                 "Mettre les cubes de tofu et la marinade dans un plat afin de faire mariner le tofu pendant au moins 2h"
             ],
             "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/tofu_feta.jpg",
+            "source": "",
+            "portions": "8"
+        },
+        {
+            "id": "pad-thai",
+            "type": "REPAS",
+            "title": "Pad Thai",
+            "portions": "4",
+            "time": "40 min",
+            "tags": [
+                "Type:Plat principal",
+                "Cuisine:Thaïlandaise",
+                "Régime:Végétarien",
+                "Protéine:Tofu",
+                "Méthode:Sauté",
+                "Occasion:Soir de semaine",
+                "Saveur:Sucré-salé"
+            ],
+            "ingredients": [
+                {
+                    "name": "Huile Vegetale",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Brocoli",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Poivron rouge",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Oignons verts",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "Tofu ferme",
+                    "quantity": "450",
+                    "unit": "g"
+                },
+                {
+                    "name": "Bouillon de légume",
+                    "quantity": "¾",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Ketchup",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Sauce soya",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Sirop d'érable",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Piment rouge ou Sriracha",
+                    "quantity": "¼",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "Nouilles (Pad Thai ou autre)",
+                    "quantity": "350",
+                    "unit": "g"
+                },
+                {
+                    "name": "Fécule de maïs",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Couper le tofu en cubes et les couvrir de fécule de maïs, émincer les oignons verts et le poivron rouge. Faire cuire les nouilles.",
+                "Dans une grande poêle ou une casserole, faire revenir les légumes et, dans une deuxième, faire revenir le tofu dans l'huile de 5 à 10 minutes. Une fois la fécule de maïs bien croustillante, mélanger les cubes de tofu avec les légumes.",
+                "Dans un bol, mélanger le bouillon de légume, le ketchup, la sauce soya, le sirop d'érable et le piment rouge broyé ou la sriracha. Verser la sauce sur les légumes et le tofu dans la même casserole.",
+                "Laisser cuire dans la poêle jusqu'à ce que la sauce réduise.",
+                "Dans les assiettes, recouvrir les portions de nouilles cuites avec les légumes et la sauce et servir avec des oignons verts émincés en garniture."
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pad-thai.jpeg",
             "source": ""
         },
         {
-          "id": "pad-thai",
-          "type": "REPAS",
-          "title": "Pad Thai",
-          "portions": "2",
-          "time": "35 min",
-          "tags": [
-            "Vege",
-            "Tofu"
-          ],
-          "ingredients": [
-            {
-              "name": "Huile Vegetale",
-              "quantity": "¼",
-              "unit": "tasse"
-            },
-            {
-              "name": "Brocoli",
-              "quantity": "1",
-              "unit": ""
-            },
-            {
-              "name": "Poivron rouge",
-              "quantity": "1",
-              "unit": ""
-            },
-            {
-              "name": "Oignons verts",
-              "quantity": "3",
-              "unit": ""
-            },
-            {
-              "name": "Tofu ferme",
-              "quantity": "450",
-              "unit": "g"
-            },
-            {
-              "name": "Bouillon de légume",
-              "quantity": "¾",
-              "unit": "tasse"
-            },
-            {
-              "name": "Ketchup",
-              "quantity": "¼",
-              "unit": "tasse"
-            },
-            {
-              "name": "Sauce soya",
-              "quantity": "¼",
-              "unit": "tasse"
-            },
-            {
-              "name": "Sirop d'érable",
-              "quantity": "¼",
-              "unit": "tasse"
-            },
-            {
-              "name": "Piment rouge ou Sriracha",
-              "quantity": "¼",
-              "unit": "tsp"
-            },
-            {
-              "name": "Nouilles (Pad Thai ou autre)",
-              "quantity": "350",
-              "unit": "g"
-            },
-            {
-              "name": "Fécule de maïs",
-              "quantity": "",
-              "unit": ""
-            }
-          ],
-          "preparation": [
-            "Couper le tofu en cubes et les couvrir de fécule de maïs, émincer les oignons verts et le poivron rouge. Faire cuire les nouilles.",
-            "Dans une grande poêle ou une casserole, faire revenir les légumes et, dans une deuxième, faire revenir le tofu dans l'huile de 5 à 10 minutes. Une fois la fécule de maïs bien croustillante, mélanger les cubes de tofu avec les légumes.",
-            "Dans un bol, mélanger le bouillon de légume, le ketchup, la sauce soya, le sirop d'érable et le piment rouge broyé ou la sriracha. Verser la sauce sur les légumes et le tofu dans la même casserole.",
-            "Laisser cuire dans la poêle jusqu'à ce que la sauce réduise.",
-            "Dans les assiettes, recouvrir les portions de nouilles cuites avec les légumes et la sauce et servir avec des oignons verts émincés en garniture."
-          ],
-          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pad-thai.jpeg",
-          "source": ""
-        },
-        {
-          "id": "pesto",
-          "type": "AUTRES",
-          "title": "Pesto",
-          "portions": "-",
-          "time": "-",
-          "tags": [],
-          "ingredients": [
-            {
-              "name": "Basilic frais",
-              "quantity": "1",
-              "unit": "tasse"
-            },
-            {
-              "name": "Noix de cajou",
-              "quantity": "½",
-              "unit": "tasse"
-            },
-            {
-              "name": "Levure alimentaire",
-              "quantity": "¼",
-              "unit": "tasse"
-            },
-            {
-              "name": "Gousse d'ail hachée",
-              "quantity": "1",
-              "unit": ""
-            },
-            {
-              "name": "Huile d'olive",
-              "quantity": "½",
-              "unit": "tasse"
-            },
-            {
-              "name": "Sel et poivre au goût",
-              "quantity": "",
-              "unit": ""
-            }
-          ],
-          "preparation": [
-            "Broyer tous les ingrédients ensemble"
-          ],
-          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pesto.jpg",
-          "source": ""
+            "id": "pesto",
+            "type": "AUTRES",
+            "title": "Pesto",
+            "portions": "8",
+            "time": "10 min",
+            "tags": [
+                "Type:Sauce",
+                "Cuisine:Italienne",
+                "Régime:Végane",
+                "Méthode:Mélangeur",
+                "Usage:Pâtes",
+                "Atout:Se congèle bien"
+            ],
+            "ingredients": [
+                {
+                    "name": "Basilic frais",
+                    "quantity": "1",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Noix de cajou",
+                    "quantity": "½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Levure alimentaire",
+                    "quantity": "¼",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Gousse d'ail hachée",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Huile d'olive",
+                    "quantity": "½",
+                    "unit": "tasse"
+                },
+                {
+                    "name": "Sel et poivre au goût",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "preparation": [
+                "Broyer tous les ingrédients ensemble"
+            ],
+            "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pesto.jpg",
+            "source": ""
         }
     ]
 }
