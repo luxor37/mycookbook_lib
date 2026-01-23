@@ -1,6 +1,72 @@
 {
     "recipes": [
         {
+          "id": "pate-pizza",
+          "type": "AUTRES",
+          "title": "Pâte à pizza à la levure instantanée",
+          "portions": "2 pizzas de 12 po",
+          "time": "1 h 30",
+          "tags": [
+            "Type:Pâte",
+            "Cuisine:Italienne",
+            "Régime:Végétarien",
+            "Levure:Instantanée",
+            "Méthode:Pétrissage + Repos"
+          ],
+          "ingredients": [
+            {
+              "name": "Farine tout usage ou farine à pain",
+              "quantity": "3 1/2 à 4",
+              "unit": "tasses"
+            },
+            {
+              "name": "Levure instantanée (quick-rise, ex. Fleischmann)",
+              "quantity": "2 1/4",
+              "unit": "tsp"
+            },
+            {
+              "name": "Sel",
+              "quantity": "2",
+              "unit": "tsp"
+            },
+            {
+              "name": "Sucre",
+              "quantity": "1 1/2",
+              "unit": "tsp"
+            },
+            {
+              "name": "Eau tiède (40–43°C)",
+              "quantity": "1 1/3",
+              "unit": "tasses"
+            },
+            {
+              "name": "Huile d’olive",
+              "quantity": "2",
+              "unit": "tbsp"
+            },
+            {
+              "name": "Herbes ou épices (optionnel)",
+              "quantity": "",
+              "unit": ""
+            }
+          ],
+          "preparation": [
+              "Mélanger 3 1/2 tasses de farine, la levure instantanée, le sel et le sucre dans un grand bol.",
+              "Ajouter l’eau tiède et l’huile d’olive, puis mélanger jusqu’à formation d’une pâte.",
+              "Pétrir 8 à 10 minutes à la main (ou 5 à 6 minutes au robot) jusqu’à pâte lisse et souple; ajouter un peu de farine au besoin.",
+              "Former une boule, huiler légèrement et placer dans un bol. Couvrir hermétiquement avec une pellicule plastique ou couvrir d’un linge légèrement humide pour éviter que la surface ne sèche.",
+              "Laisser lever 45 à 60 minutes à température ambiante, jusqu’à ce que la pâte soit légèrement gonflée (elle n’a pas besoin de doubler complètement).",
+              "Dégazer doucement : transférer la pâte sur un plan de travail légèrement fariné et presser délicatement avec le bout des doigts ou la paume de la main juste assez pour faire sortir l’excès de gaz, sans pétrir ni écraser complètement.",
+              "Diviser la pâte en 2 portions égales à l’aide d’un coupe-pâte ou d’un couteau bien fariné, en coupant droit vers le bas sans mouvement de scie.",
+              "Pré-façonner chaque portion : placer la face coupée vers le haut, puis replier doucement les bords vers le centre pour former une boule grossière.",
+              "Façonner les pâtons : retourner chaque boule côté jointure en dessous, puis, avec les mains légèrement farinées, tirer doucement la pâte vers soi en la faisant tourner pour créer une surface lisse et tendue.",
+              "Couvrir les pâtons d’un linge légèrement humide et laisser reposer 10 à 15 minutes avant d’étaler.",
+              "Façonner, garnir et cuire selon votre méthode habituelle."
+          ],
+          "image": "",
+          "source": "Interne"
+        },
+        {
           "id": "oeufs-ramen-ajitsuke-tamago",
           "type": "AUTRES",
           "title": "Œufs ramen marinés (Ajitsuke Tamago)",
