@@ -2,7 +2,7 @@
     "recipes": [
         {
           "id": "oeufs-ramen-ajitsuke-tamago",
-          "type": "ACCOMPAGNEMENT",
+          "type": "AUTRES",
           "title": "Œufs ramen marinés (Ajitsuke Tamago)",
           "portions": "4",
           "time": "8–12 h (marinade)",
@@ -54,7 +54,7 @@
             "Placer les œufs dans la marinade (idéalement en sac hermétique avec l’air retiré).",
             "Mariner au réfrigérateur 8 à 12 heures (4 h minimum, 24 h maximum)."
           ],
-          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/ramen-egg.jpg"
+          "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/ramen-egg.jpg",
           "source": "Interne"
         },
         {
