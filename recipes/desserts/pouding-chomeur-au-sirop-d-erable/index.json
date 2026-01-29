@@ -1,0 +1,70 @@
+{
+  "id": "pouding-chomeur-au-sirop-d-erable",
+  "title": "Pouding chômeur au sirop d’érable",
+  "portions": "6 portions",
+  "time": "60 minutes",
+  "tags": [],
+  "ingredients": [
+    {
+      "name": "Sirop d'érable",
+      "quantity": "1 ½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Crème 35%",
+      "quantity": "1",
+      "unit": "tasse"
+    },
+    {
+      "name": "Farine tout usage",
+      "quantity": "1 ½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Poudre à pâte",
+      "quantity": "1 ½",
+      "unit": "tsp"
+    },
+    {
+      "name": "Sel",
+      "quantity": "¼",
+      "unit": "tsp"
+    },
+    {
+      "name": "Beurre non-salé, ramoli",
+      "quantity": "½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Sucre (ou cassonade)",
+      "quantity": "¾",
+      "unit": "tasse"
+    },
+    {
+      "name": "Oeuf",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Extrait de vanille",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Lait",
+      "quantity": "¾",
+      "unit": "tasse"
+    }
+  ],
+  "preparation": [
+    "Préchauffer le four à 180 °C (350 °F).",
+    "Sauce : Chauffer le sirop d’érable et la crème, sans porter à ébullition. Verser dans le plat pour le four (type pyrex de préférence).",
+    "Dans un grand bol, mélanger farine, poudre à pâte et sel.",
+    "Dans un autre bol, crémer le beurre et le sucre. Ajouter l’œuf et la vanille.",
+    "Incorporer les ingrédients secs et le sucre et le beurre en alternant avec le lait.",
+    "Déposer la pâte à la cuillère sur la sauce chaude (ne pas mélanger).",
+    "Cuire 40–45 minutes, jusqu’à ce que le dessus soit doré et le centre pris.",
+    "Laisser reposer 10 minutes. Servir chaud."
+  ],
+  "notes": ""
+}

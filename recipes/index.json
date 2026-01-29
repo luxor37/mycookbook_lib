@@ -194,6 +194,11 @@
       "id": "pesto",
       "type": "AUTRES",
       "title": "Pesto"
+    },
+    {
+      "id": "pouding-chomeur-au-sirop-d-erable",
+      "type": "DESSERTS",
+      "title": "Pouding chômeur au sirop d’érable"
     }
   ]
 }
