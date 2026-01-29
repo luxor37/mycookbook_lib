@@ -1,0 +1,94 @@
+{
+  "id": "chili_con_macaroni",
+  "title": "Chili con macaroni",
+  "portions": "6",
+  "time": "1 h 15 min",
+  "tags": [
+    "Type:Plat principal",
+    "Cuisine:Tex-Mex",
+    "Régime:Omnivore",
+    "Protéine:Bœuf",
+    "Méthode:Mijoté",
+    "Atout:Grande quantité",
+    "Piquant:Moyen"
+  ],
+  "ingredients": [
+    {
+      "name": "Huile végétale",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Oignon haché",
+      "quantity": "½",
+      "unit": ""
+    },
+    {
+      "name": "Ail pressé",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Bœuf hâché",
+      "quantity": "1",
+      "unit": "livre"
+    },
+    {
+      "name": "Poudre de chili",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Sel",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Origan",
+      "quantity": "½",
+      "unit": "tsp"
+    },
+    {
+      "name": "Poivre",
+      "quantity": "¼",
+      "unit": "tsp"
+    },
+    {
+      "name": "Piment rouge",
+      "quantity": "1",
+      "unit": "pincée"
+    },
+    {
+      "name": "Pâte de tomate",
+      "quantity": "5 ½",
+      "unit": "oz"
+    },
+    {
+      "name": "Bouillon de poulet",
+      "quantity": "3",
+      "unit": "tasses"
+    },
+    {
+      "name": "Haricots rouge (1 boite)",
+      "quantity": "19",
+      "unit": "oz"
+    },
+    {
+      "name": "Macaroni",
+      "quantity": "1 ½",
+      "unit": "tasse"
+    }
+  ],
+  "preparation": [
+    "Faire revenir les oignons et l'ail avec l'huile dans un chaudron.",
+    "Ajouter le bœuf haché et faire brunir. \n*Ici on peut remplacer la moitié de la viande et remplacer par de la végé viande sans que le goût change!",
+    "Ajouter la pâte de tomate et les assaisonnements (poudre de chili, origan, sel, poivre, poivre rouge) et bien mélanger.",
+    "Ajouter le bouillon et porter à ébullition.",
+    "Couvrir à demi et laisser mijoter pendant 45 min en remuant de temps en temps.",
+    "Rincer et égoutter les haricots.",
+    "Ajouter les haricot au mélange et cuire 15 min de plus.",
+    "Pendant que le mélange fini de cuire, faire bouillir de l'eau et cuire les pâtes.",
+    "Une fois les pâtes et le mélange cuit, mélanger les deux et servir. \n*Parfois je gratine ma portion avec un peu de cheddar."
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/chili_con_macaroni.jpg"
+}

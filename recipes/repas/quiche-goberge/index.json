@@ -1,0 +1,66 @@
+{
+  "id": "quiche-goberge",
+  "title": "Quiche au goberge",
+  "portions": "8",
+  "time": "1 h 10 min",
+  "tags": [
+    "Type:Plat principal",
+    "Cuisine:Française",
+    "Régime:Pescétarien",
+    "Protéine:Fruits de mer",
+    "Méthode:Four",
+    "Occasion:Brunch"
+  ],
+  "ingredients": [
+    {
+      "name": "Oeuf",
+      "quantity": "5",
+      "unit": ""
+    },
+    {
+      "name": "Oignon hâché",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Simili-crabe en flocons",
+      "quantity": "12",
+      "unit": "oz"
+    },
+    {
+      "name": "Mozzarella",
+      "quantity": "5",
+      "unit": "oz"
+    },
+    {
+      "name": "Lait",
+      "quantity": "3",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Farine",
+      "quantity": "3",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Persil",
+      "quantity": "2",
+      "unit": "oz"
+    },
+    {
+      "name": "Pâte à tarte",
+      "quantity": "1",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "Préchauffer le four à 450° Fahrenheit",
+    "Dans un grand bol, mélanger les oeufs, l'oignon hâché, 3 oz de mozzarella, le lait et la farine. Hâcher grossièrement ou couper en dé le simili-crabe et ajouter au mélange. Mélanger le tout.",
+    "Aplatir la pâte à tarte avec un rouleau à pâte. Couvrir un plat à tarte d'huile pour ne pas que la pâte colle et y étendre la pâte à tarte. En utilisant un couteau ou un fourchette, couper l'exédent de pâte qui dépasse du plat.",
+    "Verser le mélange dans le plat à tarte couvert de pâte.",
+    "Étendre le persil et les 2 oz de mozzarella restant sur le dessus de la quiche.",
+    "Mettre dans le four pendant 10 minutes à 450° Fahrenheit. Ensuite, baisser la température à 350 et laisser pour un 30 à 40 minutes de plus. Pour vérifier que le centre est bien cuit, planter un couteau et vérifier qu'aucun mélange est collé sur celui-ci.",
+    "Laisser la quiche refroidir pendant 10 minutes pour qu'elle se coupe et serve mieux"
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/quiche_goberge.jpg"
+}

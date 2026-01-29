@@ -1,0 +1,69 @@
+{
+  "id": "boulette-viande",
+  "title": "Boulettes de viande",
+  "tags": [
+    "Type:Plat principal",
+    "Cuisine:Amérique du Nord",
+    "Régime:Omnivore",
+    "Protéine:Bœuf",
+    "Méthode:Mijoté",
+    "Occasion:Souper familial",
+    "Atout:Se congèle bien"
+  ],
+  "ingredients": [
+    {
+      "name": "Boeuf haché maigre",
+      "quantity": "2",
+      "unit": "livres"
+    },
+    {
+      "name": "Chapelure",
+      "quantity": "½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Oignons hachés",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Oeufs",
+      "quantity": "2",
+      "unit": ""
+    },
+    {
+      "name": "Sel",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Crème de champignon",
+      "quantity": "10",
+      "unit": "oz"
+    },
+    {
+      "name": "Eau",
+      "quantity": "1 ½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Persil",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Poivre",
+      "quantity": "1",
+      "unit": "tsp"
+    }
+  ],
+  "preparation": [
+    "Mélanger le bœuf, la chapelure, les oignons, les œufs et le sel.",
+    "Séparer le mélange en à peu près 48 boulettes et les placer délicatement dans un chaudron.",
+    "Mélanger la crème, l'eau et le persil et verser sur les boulettes.",
+    "Couvrir et faire mijoter à feu très doux pendant 20 minutes. De temps en temps, remuer en faisant attention de ne pas briser les boulettes."
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/boulette_viande_champignon.jpg",
+  "portions": "8",
+  "time": "40 min"
+}

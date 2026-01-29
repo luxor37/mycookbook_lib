@@ -1,0 +1,52 @@
+{
+  "id": "pate_au_thon",
+  "title": "Pâté au thon",
+  "portions": "8",
+  "time": "45 min",
+  "tags": [
+    "Type:Plat principal",
+    "Cuisine:Amérique du Nord",
+    "Régime:Pescétarien",
+    "Protéine:Thon",
+    "Méthode:Four",
+    "Occasion:Soir de semaine",
+    "Atout:Ingrédients de base"
+  ],
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "quantity": "2",
+      "unit": "tasses"
+    },
+    {
+      "name": "Thon en canne",
+      "quantity": "4x 170",
+      "unit": "g"
+    },
+    {
+      "name": "Macédoine de légumes",
+      "quantity": "4",
+      "unit": "tasses"
+    },
+    {
+      "name": "Crème de champigons",
+      "quantity": "10",
+      "unit": "oz"
+    },
+    {
+      "name": "Mozzarella",
+      "quantity": "4-6",
+      "unit": "oz"
+    }
+  ],
+  "preparation": [
+    "Préchauffer le four à 350° Fahrenheit",
+    "Dans un grand chaudron, cuire les macaronis",
+    "Dans un chaudron, cuire la macédoine de légumes",
+    "Dans un grand bol, mélanger la macédoine, les pâtes cuites, la crème de champignon et les cannes de thon égouttées.",
+    "Verser le mélange dans un grand plat pour le four et étendre le mozzarella râpé sur le dessus",
+    "Mettre le tout au four jusqu'à ce que le fromage commence à fondre",
+    "Mettre le four à broil (griller) jusqu'à ce que le fromage commence à gratiner."
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pate_thon.jpg"
+}

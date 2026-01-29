@@ -3,236 +3,197 @@
     {
       "id": "pate-pizza",
       "type": "AUTRES",
-      "title": "Pâte à pizza à la levure instantanée",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pizza-dough.jpg"
+      "title": "Pâte à pizza à la levure instantanée"
     },
     {
       "id": "oeufs-ramen-ajitsuke-tamago",
       "type": "AUTRES",
-      "title": "Œufs ramen marinés (Ajitsuke Tamago)",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/ramen-egg.jpg"
+      "title": "Œufs ramen marinés (Ajitsuke Tamago)"
     },
     {
       "id": "cotes-porc-brinee-erable-miel-ail",
       "type": "REPAS",
-      "title": "Côtes de porc saumure de cornichons, glaçage miel-ail",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/porc-ail-miel.jpg"
+      "title": "Côtes de porc saumure de cornichons, glaçage miel-ail"
     },
     {
       "id": "jarret-porc-biere",
       "type": "REPAS",
-      "title": "Jarret de porc braisé à la bière",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/jarret-porc-biere.png"
+      "title": "Jarret de porc braisé à la bière"
     },
     {
       "id": "pancake-simple",
       "type": "DESSERTS",
-      "title": "Pancake, simple",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pancake.jpg"
+      "title": "Pancake, simple"
     },
     {
       "id": "chow-mein",
       "type": "REPAS",
-      "title": "Chow Mein",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/chow-mein.jpg"
+      "title": "Chow Mein"
     },
     {
       "id": "crepes-simples",
       "type": "DESSERTS",
-      "title": "Crêpes simples",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/crepes.jpg"
+      "title": "Crêpes simples"
     },
     {
       "id": "pancakes",
       "type": "DESSERTS",
-      "title": "Pancakes",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pancake.jpg"
+      "title": "Pancakes"
     },
     {
       "id": "ragout-boeuf",
       "type": "REPAS",
-      "title": "Ragoût de bœuf",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/ragout-boeuf.jpg"
+      "title": "Ragoût de bœuf"
     },
     {
       "id": "tofu-canneberges",
       "type": "REPAS",
-      "title": "Tofu sauce aux canneberges",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/tofu-canneberge.jpg"
+      "title": "Tofu sauce aux canneberges"
     },
     {
       "id": "carre-aux-dattes",
       "type": "DESSERTS",
-      "title": "Carrés aux dattes",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/carre-dattes.png"
+      "title": "Carrés aux dattes"
     },
     {
       "id": "bbq-sauce",
       "type": "AUTRES",
-      "title": "Sauce BBQ",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/bbq-sauce.jpg"
+      "title": "Sauce BBQ"
     },
     {
       "id": "bouchees_au_crabe",
       "type": "ENTREES",
-      "title": "Bouchées au crabe",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/bouchee_crabe.jpg"
+      "title": "Bouchées au crabe"
     },
     {
       "id": "trempette_mexicaine",
       "type": "ENTREES",
-      "title": "Trempette mexicaine",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/trempette_mexicaine.jpg"
+      "title": "Trempette mexicaine"
     },
     {
       "id": "pate_au_thon",
       "type": "REPAS",
-      "title": "Pâté au thon",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pate_thon.jpg"
+      "title": "Pâté au thon"
     },
     {
       "id": "riz_frit_poulet",
       "type": "REPAS",
-      "title": "Riz frit au poulet",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/riz_frit_poulet.jpg"
+      "title": "Riz frit au poulet"
     },
     {
       "id": "chili_con_macaroni",
       "type": "REPAS",
-      "title": "Chili con macaroni",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/chili_con_macaroni.jpg"
+      "title": "Chili con macaroni"
     },
     {
       "id": "croustade-pomme",
       "type": "DESSERTS",
-      "title": "Croustade aux pommes",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/croustade_pommes.jpg"
+      "title": "Croustade aux pommes"
     },
     {
       "id": "muffin-carotte",
       "type": "DESSERTS",
-      "title": "Muffin au son et à la carotte",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/muffin_carotte.jpg"
+      "title": "Muffin au son et à la carotte"
     },
     {
       "id": "rice-krispies",
       "type": "DESSERTS",
-      "title": "Rice Krispies",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/rice_krispies.jpg"
+      "title": "Rice Krispies"
     },
     {
       "id": "old-fashioned",
       "type": "BOISSONS",
-      "title": "Old Fashioned",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/old_fashioned.jpg"
+      "title": "Old Fashioned"
     },
     {
       "id": "sauce-poutine",
       "type": "AUTRES",
-      "title": "Sauce à poutine santé",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/sauce_poutine_sante.jpg"
+      "title": "Sauce à poutine santé"
     },
     {
       "id": "pate-tarte",
       "type": "AUTRES",
-      "title": "Pâte à tarte",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pate_tarte.jpg"
+      "title": "Pâte à tarte"
     },
     {
       "id": "marinade-tofu",
       "type": "AUTRES",
-      "title": "Marinade à tofu",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/marinade_tofu.jpg"
+      "title": "Marinade à tofu"
     },
     {
       "id": "quiche-goberge",
       "type": "REPAS",
-      "title": "Quiche au goberge",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/quiche_goberge.jpg"
+      "title": "Quiche au goberge"
     },
     {
       "id": "bagel-tofu",
       "type": "REPAS",
-      "title": "Bagel au tofu gratiné",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/tofu_bagel_gratine.jpg"
+      "title": "Bagel au tofu gratiné"
     },
     {
       "id": "poutine-sante",
       "type": "REPAS",
-      "title": "Poutine Santé",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/poutine_sante.png"
+      "title": "Poutine Santé"
     },
     {
       "id": "macaroni-fromage",
       "type": "REPAS",
-      "title": "Macaroni au fromage",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/macaroni_fromage.jpg"
+      "title": "Macaroni au fromage"
     },
     {
       "id": "pain-viande",
       "type": "REPAS",
-      "title": "Pain de viande",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pain_viande.jpg"
+      "title": "Pain de viande"
     },
     {
       "id": "lasagne-mexicaine",
       "type": "REPAS",
-      "title": "Lasagne mexicaine",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/lasagne_mexicaine.png"
+      "title": "Lasagne mexicaine"
     },
     {
       "id": "boulette-viande",
       "type": "REPAS",
-      "title": "Boulettes de viande",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/boulette_viande_champignon.jpg"
+      "title": "Boulettes de viande"
     },
     {
       "id": "aioli-tofu",
       "type": "REPAS",
-      "title": "Aïoli au tofu",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/aioli_tofu.jpg"
+      "title": "Aïoli au tofu"
     },
     {
       "id": "salade-texane",
       "type": "REPAS",
-      "title": "Salade Texane",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/salade_texane.jpg"
+      "title": "Salade Texane"
     },
     {
       "id": "pois-chiche-croustillants",
       "type": "AUTRES",
-      "title": "Pois chiches croustillants",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pois_chiches_croustillants.jpg"
+      "title": "Pois chiches croustillants"
     },
     {
       "id": "gateau-fromage",
       "type": "DESSERTS",
-      "title": "Gâteau au fromage",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/cheesecake.jpg"
+      "title": "Gâteau au fromage"
     },
     {
       "id": "trempette-brocoli",
       "type": "ENTREES",
-      "title": "Trempette chaude au brocoli",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/trempette_brocoli.jpg"
+      "title": "Trempette chaude au brocoli"
     },
     {
       "id": "tofu-feta",
       "type": "AUTRES",
-      "title": "Feta de tofu",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/tofu_feta.jpg"
+      "title": "Feta de tofu"
     },
     {
       "id": "pad-thai",
       "type": "REPAS",
-      "title": "Pad Thai",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pad-thai.jpeg"
+      "title": "Pad Thai"
     },
     {
       "id": "pesto",
       "type": "AUTRES",
-      "title": "Pesto",
-      "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pesto.jpg"
+      "title": "Pesto"
     }
   ]
 }

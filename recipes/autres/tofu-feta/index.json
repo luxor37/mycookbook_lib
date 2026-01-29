@@ -1,0 +1,58 @@
+{
+  "id": "tofu-feta",
+  "title": "Feta de tofu",
+  "time": "2 h",
+  "tags": [
+    "Type:Condiment",
+    "Cuisine:Méditerranéenne",
+    "Régime:Végane",
+    "Protéine:Tofu",
+    "Méthode:Sans cuisson",
+    "Atout:Mariné",
+    "Usage:Salade"
+  ],
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "quantity": "450",
+      "unit": "g"
+    },
+    {
+      "name": "Gousses d'ail hâchées",
+      "quantity": "4",
+      "unit": ""
+    },
+    {
+      "name": "Sirop d'érable",
+      "quantity": "2",
+      "unit": "tsp"
+    },
+    {
+      "name": "Huile d'olive",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Vinaigre de cidre",
+      "quantity": "3",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Origan",
+      "quantity": "2",
+      "unit": "tsp"
+    },
+    {
+      "name": "Sel",
+      "quantity": "4",
+      "unit": "tsp"
+    }
+  ],
+  "preparation": [
+    "Couper le bloc de tofu en cubes de la grosseur d'un dé",
+    "Mélanger les autres ingrédients ensemble pour former la marinade",
+    "Mettre les cubes de tofu et la marinade dans un plat afin de faire mariner le tofu pendant au moins 2h"
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/tofu_feta.jpg",
+  "portions": "8"
+}
