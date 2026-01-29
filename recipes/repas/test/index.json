@@ -1,0 +1,20 @@
+{
+  "id": "test",
+  "title": "test",
+  "portions": "test",
+  "time": "test",
+  "tags": [
+    "test"
+  ],
+  "ingredients": [
+    {
+      "name": "test",
+      "quantity": "test",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "test"
+  ],
+  "notes": ""
+}
