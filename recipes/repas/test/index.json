@@ -1,0 +1,18 @@
+{
+  "id": "test",
+  "title": "test",
+  "portions": "etst",
+  "time": "test",
+  "tags": [],
+  "ingredients": [
+    {
+      "name": "test",
+      "quantity": "test",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "test"
+  ],
+  "notes": ""
+}
