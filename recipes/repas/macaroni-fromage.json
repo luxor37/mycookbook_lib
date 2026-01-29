@@ -1,0 +1,86 @@
+{
+  "id": "macaroni-fromage",
+  "type": "REPAS",
+  "title": "Macaroni au fromage",
+  "portions": "8",
+  "time": "50 min",
+  "tags": [
+    "Type:Plat principal",
+    "Cuisine:Amérique du Nord",
+    "Régime:Végétarien",
+    "Protéine:Produits laitiers",
+    "Méthode:Four",
+    "Occasion:Réconfort",
+    "Atout:À partager"
+  ],
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "quantity": "4",
+      "unit": "tasses"
+    },
+    {
+      "name": "Margarine ou beurre",
+      "quantity": "3",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Fécule de maïs",
+      "quantity": "3",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Lait (ou lait de soya)",
+      "quantity": "2 ¼",
+      "unit": "tasses"
+    },
+    {
+      "name": "Cheddar",
+      "quantity": "3",
+      "unit": "tasses"
+    },
+    {
+      "name": "Ketchup",
+      "quantity": "3",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Panure",
+      "quantity": "8",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Sel",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "name": "Poivre",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "name": "",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "Faire cuire les macaroni",
+    "Préparer une béchamel",
+    "Fondre le beurre dans une casserole",
+    "Mélanger la fécule de mais dans le lait froid",
+    "*le lait peut être remplacer par 2 1/4 tasses d'eau et 1/2 tasse de lait en poudre",
+    "*Le lait de soya est aussi possible pour une option végétarienne",
+    "Ajouter le mélange dans la casserole",
+    "Brasser a feu moyen-élevé jusqu'à épaississement",
+    "Mélanger la béchamel (encore chaude) avec la moitié du fromage cheddar (1 1/2 tasses), le ketchup et (facultativement) du la ciboulette au goût",
+    "Saler et poivrer",
+    "Égoutter les macaronis et les déposer dans un grand plat pour le four.",
+    "Mélanger la sauce avec les macaronis",
+    "Parsemer le tout avec la panure suivi du reste du fromage cheddar",
+    "Faire gratiner au four pendant quelques minutes"
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/macaroni_fromage.jpg",
+  "source": ""
+}

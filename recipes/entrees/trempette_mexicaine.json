@@ -1,0 +1,67 @@
+{
+  "id": "trempette_mexicaine",
+  "type": "ENTREES",
+  "title": "Trempette mexicaine",
+  "portions": "12",
+  "time": "20 min",
+  "tags": [
+    "Type:Entrée",
+    "Cuisine:Tex-Mex",
+    "Régime:Végétarien",
+    "Méthode:Sans cuisson",
+    "Occasion:Repas-partage",
+    "Atout:À préparer d'avance"
+  ],
+  "ingredients": [
+    {
+      "name": "Tostitos",
+      "quantity": "1-2",
+      "unit": "sacs"
+    },
+    {
+      "name": "Fromage cottage",
+      "quantity": "500",
+      "unit": "g"
+    },
+    {
+      "name": "Fromage à la crème",
+      "quantity": "227",
+      "unit": "g"
+    },
+    {
+      "name": "Mayonnaise",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Salsa",
+      "quantity": "½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Piments (jaune, orange ou vert)",
+      "quantity": "1-2",
+      "unit": ""
+    },
+    {
+      "name": "Olives noires tranchées",
+      "quantity": "1",
+      "unit": "canne"
+    },
+    {
+      "name": "Fromage cheddar",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "Mélanger au malaxeur, le fromage à la crème, le fromage cottage et une cuillerée de mayonnaise.",
+    "Dans un grand plat profond en vitre, étaler également le mélange.",
+    "Ajouter délicatement un bonne épaisseur de salsa (environ 1/2 pouce d'épaisseur).",
+    "Hâcher en petits cubes les piment et les étaler sur la salsa.",
+    "Égouter les olives noires au besoin et les ajouter sur les piments.",
+    "Râper du fromage cheddar au goût sur le tout. Et voila!."
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/trempette_mexicaine.jpg",
+  "source": ""
+}

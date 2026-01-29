@@ -1,0 +1,66 @@
+{
+  "id": "marinade-tofu",
+  "type": "AUTRES",
+  "title": "Marinade à tofu",
+  "time": "4 h",
+  "tags": [
+    "Type:Marinade",
+    "Cuisine:Asiatique",
+    "Régime:Végane",
+    "Protéine:Tofu",
+    "Méthode:Sans cuisson",
+    "Atout:À préparer d'avance"
+  ],
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "quantity": "454",
+      "unit": "g"
+    },
+    {
+      "name": "Sauce soya",
+      "quantity": "¼",
+      "unit": "tasse"
+    },
+    {
+      "name": "Vinaigre balsamique",
+      "quantity": "⅛",
+      "unit": "tasse"
+    },
+    {
+      "name": "Huile d'olive",
+      "quantity": "⅛",
+      "unit": "tasse"
+    },
+    {
+      "name": "Cumin",
+      "quantity": "½",
+      "unit": "tsp"
+    },
+    {
+      "name": "Coriandre",
+      "quantity": "½",
+      "unit": "tsp"
+    },
+    {
+      "name": "Cari",
+      "quantity": "½",
+      "unit": "tsp"
+    },
+    {
+      "name": "Curcuma",
+      "quantity": "½",
+      "unit": "tsp"
+    }
+  ],
+  "preparation": [
+    "Couper le tofu selon la recette. Mélanger tous les autres ingrédients ensemble dans un plat hermétique, puis y placer le tofu.",
+    "",
+    "Laisser le tofu absorber la marinade pour plusieurs heures (au moins 4) à une journée and retourner le contenant à mi-temps pour que tout le tofu soit bien couvert de marinade.",
+    "",
+    "* S'assurer de faire cette partie 4+ heures avant la recette pour laquelle le tofu est nécessaire. Cette partie peut même être fait une jounée d'avance"
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/marinade_tofu.jpg",
+  "source": "",
+  "portions": "4"
+}

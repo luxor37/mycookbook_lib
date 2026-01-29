@@ -1,0 +1,52 @@
+{
+  "id": "pesto",
+  "type": "AUTRES",
+  "title": "Pesto",
+  "portions": "8",
+  "time": "10 min",
+  "tags": [
+    "Type:Sauce",
+    "Cuisine:Italienne",
+    "Régime:Végane",
+    "Méthode:Mélangeur",
+    "Usage:Pâtes",
+    "Atout:Se congèle bien"
+  ],
+  "ingredients": [
+    {
+      "name": "Basilic frais",
+      "quantity": "1",
+      "unit": "tasse"
+    },
+    {
+      "name": "Noix de cajou",
+      "quantity": "½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Levure alimentaire",
+      "quantity": "¼",
+      "unit": "tasse"
+    },
+    {
+      "name": "Gousse d'ail hachée",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Huile d'olive",
+      "quantity": "½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Sel et poivre au goût",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "Broyer tous les ingrédients ensemble"
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pesto.jpg",
+  "source": ""
+}

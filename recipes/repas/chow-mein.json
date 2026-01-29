@@ -1,0 +1,99 @@
+{
+  "id": "chow-mein",
+  "type": "REPAS",
+  "title": "Chow Mein",
+  "portions": "4",
+  "time": "30 min",
+  "tags": [
+    "Type:Plat principal",
+    "Cuisine:Chinoise",
+    "Régime:Omnivore",
+    "Protéine:Poulet",
+    "Méthode:Sauté",
+    "Équipement:Wok"
+  ],
+  "ingredients": [
+    {
+      "name": "Nouilles Chow Mein",
+      "quantity": "200",
+      "unit": "g"
+    },
+    {
+      "name": "Poulet",
+      "quantity": "200",
+      "unit": "g"
+    },
+    {
+      "name": "Carotte",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Chou",
+      "quantity": "1",
+      "unit": "tasse"
+    },
+    {
+      "name": "Poivron",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Pousses de soja",
+      "quantity": "1",
+      "unit": "tasse"
+    },
+    {
+      "name": "Oignons verts",
+      "quantity": "2",
+      "unit": ""
+    },
+    {
+      "name": "Huile végétale",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Ail",
+      "quantity": "2",
+      "unit": "gousses"
+    },
+    {
+      "name": "Gingembre frais",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Sauce soja",
+      "quantity": "3",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Sauce aux huîtres",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Huile de sésame",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Sel et poivre",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "Cuire les nouilles Chow Mein selon les instructions de l'emballage. Égoutter et réserver.",
+    "Chauffer 1 tbsp d'huile dans une poêle ou un wok à feu moyen-élevé.",
+    "Faire revenir le poulet jusqu'à ce qu'il soit bien cuit. Retirer et réserver.",
+    "Ajouter le reste d'huile dans la poêle. Faire sauter l'ail et le gingembre jusqu'à ce qu'ils soient parfumés.",
+    "Ajouter les carottes, le chou et le poivron. Faire sauter pendant 2-3 minutes jusqu'à ce qu'ils soient légèrement tendres.",
+    "Incorporer les pousses de soja et les oignons verts, puis remettre le poulet dans la poêle.",
+    "Ajouter les nouilles cuites, la sauce soja, la sauce aux huîtres et l'huile de sésame. Mélanger le tout jusqu'à ce que les nouilles soient bien enrobées et chaudes.",
+    "Servir chaud et déguster."
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/chow-mein.jpg",
+  "source": "chatgpt"
+}

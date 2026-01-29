@@ -1,0 +1,110 @@
+{
+  "id": "ragout-boeuf",
+  "type": "REPAS",
+  "title": "Ragoût de bœuf",
+  "portions": "6",
+  "time": "7 h",
+  "tags": [
+    "Type:Plat principal",
+    "Cuisine:Française",
+    "Régime:Omnivore",
+    "Protéine:Bœuf",
+    "Méthode:Mijoteuse",
+    "Occasion:Réconfort"
+  ],
+  "ingredients": [
+    {
+      "name": "Bœuf à ragoût (en cubes)",
+      "quantity": "1 kg",
+      "unit": "ou 2.2 lbs"
+    },
+    {
+      "name": "Carottes",
+      "quantity": "3-6",
+      "unit": ""
+    },
+    {
+      "name": "Patates",
+      "quantity": "3-4",
+      "unit": ""
+    },
+    {
+      "name": "Oignons",
+      "quantity": "2",
+      "unit": ""
+    },
+    {
+      "name": "Champignons",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "name": "Gousses d'ail",
+      "quantity": "2",
+      "unit": ""
+    },
+    {
+      "name": "Pâte de tomates",
+      "quantity": "3-4",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Bouillon de bœuf ",
+      "quantity": "700",
+      "unit": "ml"
+    },
+    {
+      "name": "Farine",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Huile d'olive",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Vinaigre balsamique ou vin rouge",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Thym",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Romarin",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Herbes de provence",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Feuilles de laurier",
+      "quantity": "1-2",
+      "unit": ""
+    },
+    {
+      "name": "Sel et poivre",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "***Précisions: Les quantités de légumes sont à l’œil et au goût. En règle générale, il faut que le liquide arrive au même niveau que le solide dans la mijoteuse, sinon ajoutez du bouillon ou des légumes selon le cas. Je mets en générale une quantité de chaque légume proportionnelle à la viande pour que le mélange soit bien balancé.***",
+    "",
+    "Dans une poêle, faire dorer les morceaux de bœuf de tous les côtés. *Pas besoin d'une cuisson interne parfaite, on veut simplement ajouter une dorure à la viande avant qu'elle mijote",
+    "Pendant que la viande dore, émincer les oignons, hacher l'ail, couper les carottes et les patates en cubes. ",
+    "Retirer la viande une fois dorée et déposer dans la mijoteuse. Dans la même poêle, faire revenir les oignons et l'ail.",
+    "Ensuite, ajouter les oignons et l'ail dans la mijoteuse avec les carottes, patates et les champignons (nettoyés).",
+    "Verser le bouillon de bœuf dans la mijoteuse ainsi que la pâte de tomate, l'huile d'olive et le vinaigre balsamique ou vin rouge. Mélanger le tout délicatement.",
+    "Ajouter les herbes et épices et du sel et poivre au goût. Saupoudrer la farine également et mélanger à nouveau le tout délicatement.",
+    "Partir la mijoteuse à basse température pour 6-7 heures au moins. (j'ai déjà laissé fonctionner la mijoteuse pendant 12 heures durant la nuit sans problème!)"
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/ragout-boeuf.jpg",
+  "source": ""
+}

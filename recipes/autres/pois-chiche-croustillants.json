@@ -1,0 +1,101 @@
+{
+  "id": "pois-chiche-croustillants",
+  "type": "AUTRES",
+  "title": "Pois chiches croustillants",
+  "portions": "6",
+  "time": "1 h 10 min",
+  "tags": [
+    "Type:Collation",
+    "Cuisine:Internationale",
+    "Régime:Végane",
+    "Protéine:Légumineuses",
+    "Méthode:Rôti",
+    "Atout:Préparation repas",
+    "Texture:Croustillante"
+  ],
+  "ingredients": [
+    {
+      "name": "Pois chiches rincés",
+      "quantity": "1",
+      "unit": "canne (540 ml)"
+    },
+    {
+      "name": "Huile d'olive",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Sel",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "*Poudre de cari",
+      "quantity": "1 ½",
+      "unit": "tsp"
+    },
+    {
+      "name": "*Curcuma",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "*Piment de Cayenne",
+      "quantity": "½",
+      "unit": "tsp"
+    },
+    {
+      "name": "*Sumac",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "*Graines de sésame",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "*Thym séché",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "*Cumin",
+      "quantity": "1 ½",
+      "unit": "tsp"
+    },
+    {
+      "name": "*Piment chipotle moulu",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "*Ail en poudre",
+      "quantity": "½",
+      "unit": "tsp"
+    },
+    {
+      "name": "*Parmesan râpé",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "*Origan",
+      "quantity": "1",
+      "unit": "tsp"
+    }
+  ],
+  "preparation": [
+    "Préchauffer le four à 300 F",
+    "Recouvrir une tôle à cuisson de papier parchemin.",
+    "Dans un bol, enduire les pois chiches d'un peu d'huile d'olive avant de les répartir dans la tôle.",
+    "Saupoudrer de sel ainsi que d'un assaisonnement.",
+    "Une fois tous les pois chiches bien couvert, cuire au four pendant 1h. Laisser les pois chiches refroidir et ils deviendront croutillant en reposant. Ils se conservent pendant 3 jours au réfrigérateur.",
+    "Assaisonnement #1 (à l'indienne): cari + curcuma + piment de cayenne",
+    "Assaisonnement #2 (à la libanaise): sumac + graines de sésame + thym",
+    "Assaisonnement #3 (à la mexicaine): cumin + piment chipotle + ail en poudre",
+    "Assaisonnement #4 (à l'italienne): parmesan râpé + origan + ail en poudre"
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pois_chiches_croustillants.jpg",
+  "source": ""
+}

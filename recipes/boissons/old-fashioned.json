@@ -1,0 +1,56 @@
+{
+  "id": "old-fashioned",
+  "type": "BOISSONS",
+  "title": "Old Fashioned",
+  "portions": "1",
+  "time": "5 min",
+  "tags": [
+    "Type:Boisson",
+    "Cuisine:Américaine",
+    "Alcool:Whisky",
+    "Méthode:Mélangé",
+    "Occasion:Digestif",
+    "Intensité:Alcool prononcé"
+  ],
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "quantity": "2",
+      "unit": "oz"
+    },
+    {
+      "name": "Eau",
+      "quantity": "1",
+      "unit": "oz"
+    },
+    {
+      "name": "Angostura bitters",
+      "quantity": "2-6",
+      "unit": "gouttes"
+    },
+    {
+      "name": "Cubes de glace",
+      "quantity": "3-4",
+      "unit": ""
+    },
+    {
+      "name": "Sucre",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Sirop",
+      "quantity": "1-2",
+      "unit": "gouttes"
+    }
+  ],
+  "preparation": [
+    "Mix the water, the bitters and the sirup and pour it into a glass.",
+    "*You can replace the syrup with a bit of sugar if you don't have any. make sure to stir well if you do.",
+    "*Add less sugar/syrup to start and adjust it to your linking.",
+    "Place the ice cubes into the glass.",
+    "Pour the bourbon over the ice and enjoy."
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/old_fashioned.jpg",
+  "source": ""
+}

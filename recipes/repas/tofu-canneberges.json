@@ -1,0 +1,119 @@
+{
+  "id": "tofu-canneberges",
+  "type": "REPAS",
+  "title": "Tofu sauce aux canneberges",
+  "portions": "4",
+  "time": "45 min",
+  "tags": [
+    "Type:Plat principal",
+    "Cuisine:Fusion asiatique",
+    "Régime:Végane",
+    "Protéine:Tofu",
+    "Méthode:Cuisinière",
+    "Occasion:Soir de semaine",
+    "Saveur:Sucré-salé"
+  ],
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "quantity": "450",
+      "unit": "g"
+    },
+    {
+      "name": "Fécule de maïs",
+      "quantity": "¼",
+      "unit": "tasse"
+    },
+    {
+      "name": "Levure alimentaire",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Poudre d'ail",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "-----",
+      "quantity": "-",
+      "unit": "-"
+    },
+    {
+      "name": "Oignons verts (Échalotes) (hâché)",
+      "quantity": "2",
+      "unit": " bouquets"
+    },
+    {
+      "name": "Gingembre frais (hâché)",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Cognac (ou vin)",
+      "quantity": "¼",
+      "unit": "tasse"
+    },
+    {
+      "name": "Canneberges séchées",
+      "quantity": "½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Sirop d'érable*",
+      "quantity": "¼",
+      "unit": "tasse"
+    },
+    {
+      "name": "Sauce soya",
+      "quantity": "¼",
+      "unit": "tasse"
+    },
+    {
+      "name": "Jus de citron",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Piment rouge",
+      "quantity": "¼",
+      "unit": "tsp"
+    },
+    {
+      "name": "-----",
+      "quantity": "-",
+      "unit": "-"
+    },
+    {
+      "name": "Riz (jasmin)",
+      "quantity": "1",
+      "unit": "tasse"
+    },
+    {
+      "name": "Vinaigre de riz",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Sirop d'érable**",
+      "quantity": "1",
+      "unit": "tbsp"
+    }
+  ],
+  "preparation": [
+    "Mélanger le vinaigre de riz, le sirop d'érable** et ½ tsp de sel de table.",
+    "Nettoyer le riz et le faire cuire avec la quantité appropriée d'eau ainsi que le mélange de vinaigre de riz.",
+    "Tofu:",
+    "Pendant que le riz cuit, couper le tofu en 10 tranches dans la largeur, puis en diagonale pour obtenir 20 triangles.",
+    "Dans un bol, mélanger la fécule de maïs, la levure alimentaire, la poudre d'ail et ½ tsp de sel de table.",
+    "Ajouter les morceaux de tofu pour les enrober du mélange.",
+    "Faire revenir les morceaux de tofu dans une grande poêle ou un wok avec de l'huile végétale, jusqu'à ce qu'il soit croustillant et légèrement rôti. Réserver",
+    "Sauce:",
+    "Dans une autre poêle, faire revenir les échalotes et le gingembre pendant environ 3 minutes. Ajouter le cognac (ou vin) et porter à ébullition, puis laisser réduire pendant environ 30 secondes.",
+    "Ajouter les canneberges, le sirop d'érable*, la sauce soya, le jus de citron, le piment rouge ainsi que ½ tasse d'eau et laisser mijoter pendant quelques minutes. Ajouter le tofu et mélanger.",
+    "Servir le tofu et la sauce sur le riz",
+    "Suggestion: accompagner le repas d'asperges!"
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/tofu-canneberge.jpg",
+  "source": ""
+}

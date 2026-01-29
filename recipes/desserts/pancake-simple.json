@@ -1,0 +1,52 @@
+{
+  "id": "pancake-simple",
+  "type": "DESSERTS",
+  "title": "Pancake, simple",
+  "tags": [
+    "Type:Déjeuner",
+    "Cuisine:Américaine",
+    "Régime:Végétarien",
+    "Méthode:Cuisinière",
+    "Occasion:Brunch",
+    "Public:Famille"
+  ],
+  "ingredients": [
+    {
+      "name": "Farine",
+      "quantity": "1",
+      "unit": "tasse"
+    },
+    {
+      "name": "Sucre",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Poudre à pâte",
+      "quantity": "3",
+      "unit": "tsp"
+    },
+    {
+      "name": "Sel",
+      "quantity": "½",
+      "unit": "tsp"
+    },
+    {
+      "name": "Oeuf",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Lait",
+      "quantity": "1 ⅓",
+      "unit": "tasse"
+    }
+  ],
+  "preparation": [
+    "Tout mélanger correctement, puis faire cuire une cuillerée à la fois dans une poêle, des deux côtés."
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pancake.jpg",
+  "source": "",
+  "portions": "4",
+  "time": "20 min"
+}

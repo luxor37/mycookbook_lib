@@ -1,0 +1,87 @@
+{
+  "id": "pad-thai",
+  "type": "REPAS",
+  "title": "Pad Thai",
+  "portions": "4",
+  "time": "40 min",
+  "tags": [
+    "Type:Plat principal",
+    "Cuisine:Thaïlandaise",
+    "Régime:Végétarien",
+    "Protéine:Tofu",
+    "Méthode:Sauté",
+    "Occasion:Soir de semaine",
+    "Saveur:Sucré-salé"
+  ],
+  "ingredients": [
+    {
+      "name": "Huile Vegetale",
+      "quantity": "¼",
+      "unit": "tasse"
+    },
+    {
+      "name": "Brocoli",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Poivron rouge",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Oignons verts",
+      "quantity": "3",
+      "unit": ""
+    },
+    {
+      "name": "Tofu ferme",
+      "quantity": "450",
+      "unit": "g"
+    },
+    {
+      "name": "Bouillon de légume",
+      "quantity": "¾",
+      "unit": "tasse"
+    },
+    {
+      "name": "Ketchup",
+      "quantity": "¼",
+      "unit": "tasse"
+    },
+    {
+      "name": "Sauce soya",
+      "quantity": "¼",
+      "unit": "tasse"
+    },
+    {
+      "name": "Sirop d'érable",
+      "quantity": "¼",
+      "unit": "tasse"
+    },
+    {
+      "name": "Piment rouge ou Sriracha",
+      "quantity": "¼",
+      "unit": "tsp"
+    },
+    {
+      "name": "Nouilles (Pad Thai ou autre)",
+      "quantity": "350",
+      "unit": "g"
+    },
+    {
+      "name": "Fécule de maïs",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "Couper le tofu en cubes et les couvrir de fécule de maïs, émincer les oignons verts et le poivron rouge. Faire cuire les nouilles.",
+    "Dans une grande poêle ou une casserole, faire revenir les légumes et, dans une deuxième, faire revenir le tofu dans l'huile de 5 à 10 minutes. Une fois la fécule de maïs bien croustillante, mélanger les cubes de tofu avec les légumes.",
+    "Dans un bol, mélanger le bouillon de légume, le ketchup, la sauce soya, le sirop d'érable et le piment rouge broyé ou la sriracha. Verser la sauce sur les légumes et le tofu dans la même casserole.",
+    "Laisser cuire dans la poêle jusqu'à ce que la sauce réduise.",
+    "Dans les assiettes, recouvrir les portions de nouilles cuites avec les légumes et la sauce et servir avec des oignons verts émincés en garniture."
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pad-thai.jpeg",
+  "source": ""
+}

@@ -1,0 +1,57 @@
+{
+  "id": "oeufs-ramen-ajitsuke-tamago",
+  "type": "AUTRES",
+  "title": "Œufs ramen marinés (Ajitsuke Tamago)",
+  "portions": "4",
+  "time": "8–12 h (marinade)",
+  "tags": [
+    "Type:Garniture",
+    "Cuisine:Japonaise",
+    "Régime:Végétarien",
+    "Protéine:Œufs",
+    "Méthode:Marinade",
+    "Saveur:Umami-Salé"
+  ],
+  "ingredients": [
+    {
+      "name": "Œufs",
+      "quantity": "4",
+      "unit": ""
+    },
+    {
+      "name": "Sauce soja",
+      "quantity": "½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Eau",
+      "quantity": "½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Sucre ou mirin",
+      "quantity": "1–2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Gingembre frais (optionnel)",
+      "quantity": "1",
+      "unit": "petit morceau"
+    },
+    {
+      "name": "Ail (optionnel)",
+      "quantity": "1",
+      "unit": "gousse"
+    }
+  ],
+  "preparation": [
+    "Cuire les œufs : 6 min 30 s dans l’eau bouillante pour un jaune coulant-jammy.",
+    "Refroidir, puis écaler les œufs.",
+    "Mélanger la sauce soja, l’eau et le sucre (ou mirin) jusqu’à dissolution.",
+    "Ajouter le gingembre et/ou l’ail si utilisé.",
+    "Placer les œufs dans la marinade (idéalement en sac hermétique avec l’air retiré).",
+    "Mariner au réfrigérateur 8 à 12 heures (4 h minimum, 24 h maximum)."
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/ramen-egg.jpg",
+  "source": "Interne"
+}

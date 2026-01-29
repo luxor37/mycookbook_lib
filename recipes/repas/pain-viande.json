@@ -1,0 +1,72 @@
+{
+  "id": "pain-viande",
+  "type": "REPAS",
+  "title": "Pain de viande",
+  "portions": "6",
+  "time": "60 min",
+  "tags": [
+    "Type:Plat principal",
+    "Cuisine:Amérique du Nord",
+    "Régime:Omnivore",
+    "Protéine:Bœuf",
+    "Méthode:Four",
+    "Occasion:Souper familial",
+    "Atout:Grande quantité"
+  ],
+  "ingredients": [
+    {
+      "name": "Boeuf haché maigre",
+      "quantity": "½",
+      "unit": "livre"
+    },
+    {
+      "name": "Boeuf haché végé (Yves veggie)",
+      "quantity": "1",
+      "unit": "paquet"
+    },
+    {
+      "name": "Oeuf",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Carottes râpées",
+      "quantity": "½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Oignons hachés",
+      "quantity": "⅓",
+      "unit": "tasse"
+    },
+    {
+      "name": "Chapelure",
+      "quantity": "¼",
+      "unit": "tasse"
+    },
+    {
+      "name": "Origan",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Sel",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Poivre",
+      "quantity": "½",
+      "unit": "tsp"
+    }
+  ],
+  "preparation": [
+    "Préchauffer le four à 375° Fahrenheit",
+    "Mélanger tous les ingrédients dans un grand bol",
+    "Verser le mélange dans un plat à pain de viande huilé",
+    "Cuire pendant 30-40 minutes",
+    "!!Recette non-final"
+  ],
+  "image": "https://raw.githubusercontent.com/luxor37/mycookbook_lib/main/images/pain_viande.jpg",
+  "source": ""
+}
