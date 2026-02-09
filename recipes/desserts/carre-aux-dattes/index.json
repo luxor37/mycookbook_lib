@@ -4,12 +4,25 @@
   "portions": "16",
   "time": "45 min",
   "tags": [
-    "Type:Dessert",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Québécoise",
-    "Régime:Végétarien",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Four",
+    "Niveau:null",
     "Occasion:Repas-partage",
-    "Texture:Moelleuse"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:Moelleuse",
+    "Type:Dessert",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

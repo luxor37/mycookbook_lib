@@ -4,13 +4,25 @@
   "portions": "8",
   "time": "45 min",
   "tags": [
-    "Type:Plat principal",
+    "Alcool:null",
+    "Atout:Ingrédients de base",
     "Cuisine:Amérique du Nord",
-    "Régime:Pescétarien",
-    "Protéine:Thon",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Four",
+    "Niveau:null",
     "Occasion:Soir de semaine",
-    "Atout:Ingrédients de base"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Thon",
+    "Public:null",
+    "Régime:Pescétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

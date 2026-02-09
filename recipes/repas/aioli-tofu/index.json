@@ -4,12 +4,25 @@
   "portions": "8",
   "time": "10 min",
   "tags": [
-    "Type:Condiment",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Méditerranéenne",
-    "Régime:Végane",
-    "Protéine:Tofu",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Mélangeur",
-    "Usage:Trempette"
+    "Niveau:null",
+    "Occasion:null",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Tofu",
+    "Public:null",
+    "Régime:Végane",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Condiment",
+    "Usage:Trempette",
+    "Équipement:null"
   ],
   "ingredients": [
     {

@@ -4,12 +4,25 @@
   "portions": "4",
   "time": "8–12 h (marinade)",
   "tags": [
-    "Type:Garniture",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Japonaise",
-    "Régime:Végétarien",
-    "Protéine:Œufs",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Marinade",
-    "Saveur:Umami-Salé"
+    "Niveau:null",
+    "Occasion:null",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Œufs",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:Umami-Salé",
+    "Texture:null",
+    "Type:Garniture",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

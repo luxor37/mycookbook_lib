@@ -4,12 +4,25 @@
   "portions": "12",
   "time": "35 min",
   "tags": [
-    "Type:Déjeuner",
-    "Cuisine:Amérique du Nord",
-    "Régime:Végétarien",
-    "Méthode:Four",
+    "Alcool:null",
     "Atout:À préparer d'avance",
-    "Ingrédient:Carotte"
+    "Cuisine:Amérique du Nord",
+    "Ingrédient:Carotte",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Four",
+    "Niveau:null",
+    "Occasion:null",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Déjeuner",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

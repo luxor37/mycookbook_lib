@@ -4,12 +4,25 @@
   "portions": "4",
   "time": "45 min",
   "tags": [
-    "Type:Plat principal",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Amérique du Nord",
-    "Régime:Végétarien",
-    "Protéine:Tofu",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Four",
-    "Occasion:Dîner"
+    "Niveau:null",
+    "Occasion:Dîner",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Tofu",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

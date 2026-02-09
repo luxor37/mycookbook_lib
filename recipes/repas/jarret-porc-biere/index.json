@@ -4,12 +4,25 @@
   "portions": "4",
   "time": "3 h",
   "tags": [
-    "Type:Plat principal",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Française",
-    "Régime:Omnivore",
-    "Protéine:Porc",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Braisé",
-    "Occasion:Réconfort"
+    "Niveau:null",
+    "Occasion:Réconfort",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Porc",
+    "Public:null",
+    "Régime:Omnivore",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

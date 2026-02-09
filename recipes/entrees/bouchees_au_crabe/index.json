@@ -4,13 +4,25 @@
   "portions": "12",
   "time": "30 min",
   "tags": [
-    "Type:Entrée",
+    "Alcool:null",
+    "Atout:Se congèle bien",
     "Cuisine:Amérique du Nord",
-    "Régime:Pescétarien",
-    "Protéine:Fruits de mer",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Gril",
+    "Niveau:null",
     "Occasion:Fête",
-    "Atout:Se congèle bien"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Fruits de mer",
+    "Public:null",
+    "Régime:Pescétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Entrée",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

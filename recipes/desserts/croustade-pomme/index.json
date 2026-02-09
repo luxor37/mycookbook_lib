@@ -4,12 +4,25 @@
   "portions": "8",
   "time": "45 min",
   "tags": [
-    "Type:Dessert",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Québécoise",
-    "Régime:Végétarien",
-    "Méthode:Four",
     "Ingrédient:Pomme",
-    "Occasion:Réconfort"
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Four",
+    "Niveau:null",
+    "Occasion:Réconfort",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Dessert",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

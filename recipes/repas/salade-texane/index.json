@@ -3,13 +3,25 @@
   "title": "Salade Texane",
   "portions": "4",
   "tags": [
-    "Type:Plat principal",
+    "Alcool:null",
+    "Atout:Fraîcheur",
     "Cuisine:Tex-Mex",
-    "Régime:Omnivore",
-    "Protéine:Bœuf",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Cuisinière",
+    "Niveau:null",
     "Occasion:Soir de semaine",
-    "Atout:Fraîcheur"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Bœuf",
+    "Public:null",
+    "Régime:Omnivore",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

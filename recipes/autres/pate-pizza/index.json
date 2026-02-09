@@ -4,11 +4,25 @@
   "portions": "2 pizzas de 12 po",
   "time": "1 h 30",
   "tags": [
-    "Type:Pâte",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Italienne",
-    "Régime:Végétarien",
+    "Ingrédient:null",
+    "Intensité:null",
     "Levure:Instantanée",
-    "Méthode:Pétrissage + Repos"
+    "Méthode:Pétrissage + Repos",
+    "Niveau:null",
+    "Occasion:null",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Pâte",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

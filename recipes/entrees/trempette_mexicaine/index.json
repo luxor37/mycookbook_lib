@@ -4,12 +4,25 @@
   "portions": "12",
   "time": "20 min",
   "tags": [
-    "Type:Entrée",
+    "Alcool:null",
+    "Atout:À préparer d'avance",
     "Cuisine:Tex-Mex",
-    "Régime:Végétarien",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Sans cuisson",
+    "Niveau:null",
     "Occasion:Repas-partage",
-    "Atout:À préparer d'avance"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Entrée",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

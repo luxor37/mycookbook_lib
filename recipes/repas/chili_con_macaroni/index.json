@@ -4,13 +4,25 @@
   "portions": "6",
   "time": "1 h 15 min",
   "tags": [
-    "Type:Plat principal",
-    "Cuisine:Tex-Mex",
-    "Régime:Omnivore",
-    "Protéine:Bœuf",
-    "Méthode:Mijoté",
+    "Alcool:null",
     "Atout:Grande quantité",
-    "Piquant:Moyen"
+    "Cuisine:Tex-Mex",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Mijoté",
+    "Niveau:null",
+    "Occasion:null",
+    "Piquant:Moyen",
+    "Plat:null",
+    "Protéine:Bœuf",
+    "Public:null",
+    "Régime:Omnivore",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

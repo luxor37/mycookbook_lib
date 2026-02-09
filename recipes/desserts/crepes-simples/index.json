@@ -4,12 +4,25 @@
   "portions": "4",
   "time": "25 min",
   "tags": [
-    "Type:Déjeuner",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Française",
-    "Régime:Végétarien",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Cuisinière",
+    "Niveau:Débutant",
     "Occasion:Brunch",
-    "Niveau:Débutant"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Déjeuner",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

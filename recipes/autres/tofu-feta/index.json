@@ -3,13 +3,25 @@
   "title": "Feta de tofu",
   "time": "2 h",
   "tags": [
-    "Type:Condiment",
-    "Cuisine:Méditerranéenne",
-    "Régime:Végane",
-    "Protéine:Tofu",
-    "Méthode:Sans cuisson",
+    "Alcool:null",
     "Atout:Mariné",
-    "Usage:Salade"
+    "Cuisine:Méditerranéenne",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Sans cuisson",
+    "Niveau:null",
+    "Occasion:null",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Tofu",
+    "Public:null",
+    "Régime:Végane",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Condiment",
+    "Usage:Salade",
+    "Équipement:null"
   ],
   "ingredients": [
     {

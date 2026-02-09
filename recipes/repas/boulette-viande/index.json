@@ -2,13 +2,25 @@
   "id": "boulette-viande",
   "title": "Boulettes de viande",
   "tags": [
-    "Type:Plat principal",
+    "Alcool:null",
+    "Atout:Se congèle bien",
     "Cuisine:Amérique du Nord",
-    "Régime:Omnivore",
-    "Protéine:Bœuf",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Mijoté",
+    "Niveau:null",
     "Occasion:Souper familial",
-    "Atout:Se congèle bien"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Bœuf",
+    "Public:null",
+    "Régime:Omnivore",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

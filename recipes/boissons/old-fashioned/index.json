@@ -4,12 +4,25 @@
   "portions": "1",
   "time": "5 min",
   "tags": [
-    "Type:Boisson",
-    "Cuisine:Américaine",
     "Alcool:Whisky",
+    "Atout:null",
+    "Cuisine:Américaine",
+    "Ingrédient:null",
+    "Intensité:Alcool prononcé",
+    "Levure:null",
     "Méthode:Mélangé",
+    "Niveau:null",
     "Occasion:Digestif",
-    "Intensité:Alcool prononcé"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:null",
+    "Régime:null",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Boisson",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

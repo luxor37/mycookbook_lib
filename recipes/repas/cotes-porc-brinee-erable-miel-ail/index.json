@@ -4,13 +4,25 @@
   "portions": "9",
   "time": "6 h",
   "tags": [
-    "Type:Plat principal",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Américaine",
-    "Régime:Omnivore",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Brinage | Poêle + Four",
+    "Niveau:null",
+    "Occasion:null",
+    "Piquant:null",
+    "Plat:null",
     "Protéine:Porc",
-    "Méthode:Brinage",
-    "Méthode:Poêle + Four",
-    "Saveur:Doux-Salé"
+    "Public:null",
+    "Régime:Omnivore",
+    "Saveur:Doux-Salé",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

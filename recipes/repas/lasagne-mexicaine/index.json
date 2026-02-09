@@ -4,12 +4,25 @@
   "portions": "8",
   "time": "60 min",
   "tags": [
-    "Type:Plat principal",
+    "Alcool:null",
+    "Atout:Grande quantité",
     "Cuisine:Tex-Mex",
-    "Régime:Végétarien",
-    "Protéine:Légumineuses",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Four",
-    "Atout:Grande quantité"
+    "Niveau:null",
+    "Occasion:null",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Légumineuses",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

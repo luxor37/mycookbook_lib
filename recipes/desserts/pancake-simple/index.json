@@ -2,12 +2,25 @@
   "id": "pancake-simple",
   "title": "Pancake, simple",
   "tags": [
-    "Type:Déjeuner",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Américaine",
-    "Régime:Végétarien",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Cuisinière",
+    "Niveau:null",
     "Occasion:Brunch",
-    "Public:Famille"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:Famille",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Déjeuner",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

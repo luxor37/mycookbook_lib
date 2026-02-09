@@ -4,12 +4,25 @@
   "portions": "24",
   "time": "30 min",
   "tags": [
-    "Type:Dessert",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Amérique du Nord",
-    "Régime:Végétarien",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Sans cuisson",
+    "Niveau:null",
     "Occasion:Repas-partage",
-    "Public:Famille"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:Famille",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Dessert",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

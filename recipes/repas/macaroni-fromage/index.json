@@ -4,13 +4,25 @@
   "portions": "8",
   "time": "50 min",
   "tags": [
-    "Type:Plat principal",
+    "Alcool:null",
+    "Atout:À partager",
     "Cuisine:Amérique du Nord",
-    "Régime:Végétarien",
-    "Protéine:Produits laitiers",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Four",
+    "Niveau:null",
     "Occasion:Réconfort",
-    "Atout:À partager"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Produits laitiers",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

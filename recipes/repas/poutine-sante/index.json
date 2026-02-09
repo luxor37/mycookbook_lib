@@ -4,12 +4,25 @@
   "portions": "2",
   "time": "45 min",
   "tags": [
-    "Type:Plat principal",
-    "Cuisine:Québécoise",
-    "Régime:Végétarien",
-    "Méthode:Four",
+    "Alcool:null",
     "Atout:Plus léger",
-    "Occasion:Soir de semaine"
+    "Cuisine:Québécoise",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Four",
+    "Niveau:null",
+    "Occasion:Soir de semaine",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

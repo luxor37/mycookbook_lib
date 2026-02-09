@@ -4,13 +4,25 @@
   "portions": "6",
   "time": "60 min",
   "tags": [
-    "Type:Plat principal",
+    "Alcool:null",
+    "Atout:Grande quantité",
     "Cuisine:Amérique du Nord",
-    "Régime:Omnivore",
-    "Protéine:Bœuf",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Four",
+    "Niveau:null",
     "Occasion:Souper familial",
-    "Atout:Grande quantité"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Bœuf",
+    "Public:null",
+    "Régime:Omnivore",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

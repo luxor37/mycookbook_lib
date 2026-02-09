@@ -3,7 +3,27 @@
   "title": "Pouding chômeur au sirop d’érable",
   "portions": "6 portions",
   "time": "60 minutes",
-  "tags": [],
+  "tags": [
+    "Alcool:null",
+    "Atout:null",
+    "Cuisine:null",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:null",
+    "Niveau:null",
+    "Occasion:null",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:null",
+    "Régime:null",
+    "Saveur:null",
+    "Texture:null",
+    "Type:null",
+    "Usage:null",
+    "Équipement:null"
+  ],
   "ingredients": [
     {
       "name": "Sirop d'érable",

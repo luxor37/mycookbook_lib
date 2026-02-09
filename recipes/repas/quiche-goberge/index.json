@@ -4,12 +4,25 @@
   "portions": "8",
   "time": "1 h 10 min",
   "tags": [
-    "Type:Plat principal",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Française",
-    "Régime:Pescétarien",
-    "Protéine:Fruits de mer",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Four",
-    "Occasion:Brunch"
+    "Niveau:null",
+    "Occasion:Brunch",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Fruits de mer",
+    "Public:null",
+    "Régime:Pescétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

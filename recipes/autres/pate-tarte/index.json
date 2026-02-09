@@ -4,12 +4,25 @@
   "portions": "4",
   "time": "25 min",
   "tags": [
-    "Type:Base",
+    "Alcool:null",
+    "Atout:Se congèle bien",
     "Cuisine:Française",
-    "Régime:Végétarien",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Sans cuisson",
+    "Niveau:null",
+    "Occasion:null",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Base",
     "Usage:Pâtisserie",
-    "Atout:Se congèle bien"
+    "Équipement:null"
   ],
   "ingredients": [
     {

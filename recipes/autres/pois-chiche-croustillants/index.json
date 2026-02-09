@@ -4,13 +4,25 @@
   "portions": "6",
   "time": "1 h 10 min",
   "tags": [
-    "Type:Collation",
-    "Cuisine:Internationale",
-    "Régime:Végane",
-    "Protéine:Légumineuses",
-    "Méthode:Rôti",
+    "Alcool:null",
     "Atout:Préparation repas",
-    "Texture:Croustillante"
+    "Cuisine:Internationale",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Rôti",
+    "Niveau:null",
+    "Occasion:null",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Légumineuses",
+    "Public:null",
+    "Régime:Végane",
+    "Saveur:null",
+    "Texture:Croustillante",
+    "Type:Collation",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

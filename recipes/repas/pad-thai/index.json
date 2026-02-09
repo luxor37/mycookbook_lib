@@ -4,13 +4,25 @@
   "portions": "4",
   "time": "40 min",
   "tags": [
-    "Type:Plat principal",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Thaïlandaise",
-    "Régime:Végétarien",
-    "Protéine:Tofu",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Sauté",
+    "Niveau:null",
     "Occasion:Soir de semaine",
-    "Saveur:Sucré-salé"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Tofu",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:Sucré-salé",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

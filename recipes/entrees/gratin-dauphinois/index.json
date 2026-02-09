@@ -3,13 +3,25 @@
   "title": "Gratin dauphinois",
   "time": "1 h 30",
   "tags": [
-    "Type:Plat principal",
-    "Cuisine:Française",
-    "Régime:Végétarien",
-    "Ingrédient:Pomme de terre",
-    "Méthode:Au four",
+    "Alcool:null",
     "Atout:Crémeux",
-    "Plat:2L"
+    "Cuisine:Française",
+    "Ingrédient:Pomme de terre",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Au four",
+    "Niveau:null",
+    "Occasion:null",
+    "Piquant:null",
+    "Plat:2L",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {

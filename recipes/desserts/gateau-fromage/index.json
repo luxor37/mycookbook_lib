@@ -4,12 +4,25 @@
   "portions": "8",
   "time": "1 h 15 min",
   "tags": [
-    "Type:Dessert",
+    "Alcool:null",
+    "Atout:null",
     "Cuisine:Amérique du Nord",
-    "Régime:Végétarien",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
     "Méthode:Four",
+    "Niveau:null",
     "Occasion:Célébration",
-    "Texture:Crémeuse"
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:Crémeuse",
+    "Type:Dessert",
+    "Usage:null",
+    "Équipement:null"
   ],
   "ingredients": [
     {
