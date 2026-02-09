@@ -26,7 +26,7 @@
       "name": "Ail",
       "quantity": "2",
       "unit": "gousses"
-    }
+    },
     {
       "name": "Sel",
       "quantity": "1",
@@ -51,7 +51,7 @@
       "name": "Beurre",
       "quantity": "",
       "unit": ""
-    },
+    }
   ],
   "preparation": [
     "Préchauffer le four à 175 °C (350 °F). Beurrer un plat de 2 L de type pyrex.",
