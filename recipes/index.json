@@ -6,6 +6,11 @@
       "title": "Pâte à pizza à la levure instantanée"
     },
     {
+      "id": "gratin-dauphinois",
+      "type": "ENTREES",
+      "title": "Gratin dauphinois"
+    },
+    {
       "id": "oeufs-ramen-ajitsuke-tamago",
       "type": "AUTRES",
       "title": "Œufs ramen marinés (Ajitsuke Tamago)"
