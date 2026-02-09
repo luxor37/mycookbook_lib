@@ -1,0 +1,65 @@
+{
+  "id": "gratin-dauphinois",
+  "title": "Gratin dauphinois",
+  "time": "1 h 30",
+  "tags": [
+    "Type:Plat principal",
+    "Cuisine:Française",
+    "Régime:Végétarien",
+    "Ingrédient:Pomme de terre",
+    "Méthode:Au four",
+    "Atout:Crémeux",
+    "Plat:2L"
+  ],
+  "ingredients": [
+    {
+      "name": "Pommes de terre (moyennes, Yukon Gold ou Russet)",
+      "quantity": "6 à 8",
+      "unit": "unités"
+    },
+    {
+      "name": "Crème 35%",
+      "quantity": "2",
+      "unit": "tasses"
+    },
+    {
+      "name": "Ail",
+      "quantity": "2",
+      "unit": "gousses"
+    }
+    {
+      "name": "Sel",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Poivre",
+      "quantity": "½",
+      "unit": "tsp"
+    },
+    {
+      "name": "Muscade",
+      "quantity": "½",
+      "unit": "tsp"
+    },
+    {
+      "name": "Gruyère râpé (facultatif)",
+      "quantity": "1",
+      "unit": "tasse"
+    },
+    {
+      "name": "Beurre",
+      "quantity": "",
+      "unit": ""
+    },
+  ],
+  "preparation": [
+    "Préchauffer le four à 175 °C (350 °F). Beurrer un plat de 2 L de type pyrex.",
+    "Éplucher les pommes de terre et les trancher finement (2 à 3 mm). Ne pas les rincer afin de conserver l’amidon.",
+    "Chauffer doucement la crème avec l’ail haché, le sel, le poivre et la muscade pendant 2 à 3 minutes sans faire bouillir.",
+    "Disposer les pommes de terre en couches légèrement superposées dans le plat. Verser la crème chaude uniformément. Ajouter le gruyère entre les couches ou sur le dessus si désiré.",
+    "Cuire au four, à découvert, pendant 60 à 75 minutes jusqu’à ce que les pommes de terre soient tendres et le dessus bien doré. Couvrir légèrement de papier d’aluminium si le dessus brunit trop vite.",
+    "Laisser reposer 10 à 15 minutes avant de servir afin que le gratin se raffermisse."
+  ],
+  "portions": "4-6"
+}
