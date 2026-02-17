@@ -1,0 +1,136 @@
+{
+  "id": "thai-red-curry-chicken-fried-rice",
+  "title": "Riz frit au poulet (pâte de cari rouge thaï)",
+  "portions": "4-6",
+  "time": "35-50 min (+ refroidissement du riz)",
+  "tags": [
+    "Alcool:null",
+    "Atout:Repas-rapide",
+    "Cuisine:Asiatique",
+    "Ingrédient:Riz",
+    "Intensité:Moyenne-Forte",
+    "Levure:null",
+    "Méthode:Sauté",
+    "Niveau:Intermédiaire",
+    "Occasion:null",
+    "Piquant:Oui",
+    "Plat:Principal",
+    "Protéine:Poulet",
+    "Public:null",
+    "Régime:null",
+    "Saveur:Umami-Épicé",
+    "Texture:Grains-séparés",
+    "Type:Plat",
+    "Usage:Lunch",
+    "Équipement:Poêle-Wok"
+  ],
+  "ingredients": [
+    {
+      "name": "Riz jasmin ou riz blanc (cru)",
+      "quantity": "2",
+      "unit": "cups"
+    },
+    {
+      "name": "Eau (pour cuire le riz)",
+      "quantity": "2.5",
+      "unit": "cups"
+    },
+    {
+      "name": "Poulet (poitrine), tranché fin",
+      "quantity": "2",
+      "unit": "cups"
+    },
+    {
+      "name": "Oeufs",
+      "quantity": "3",
+      "unit": "unités"
+    },
+    {
+      "name": "Oignon, en dés",
+      "quantity": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "Carotte, râpée (gros trous)",
+      "quantity": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "Poivron, en dés",
+      "quantity": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "Bok choy (tiges tranchées + feuilles hachées)",
+      "quantity": "3",
+      "unit": "cups"
+    },
+    {
+      "name": "Champignons pleurotes (oyster), déchirés en lanières",
+      "quantity": "2",
+      "unit": "cups"
+    },
+    {
+      "name": "Champignons enoki (base coupée, fibres coupées en 2, en petits bouquets)",
+      "quantity": "1.5",
+      "unit": "cups"
+    },
+    {
+      "name": "Huile neutre (canola/végétale), pour cuisson",
+      "quantity": "4",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Pâte de cari rouge thaï",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Sauce soja",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Mirin",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Vinaigre de riz",
+      "quantity": "2",
+      "unit": "tsp"
+    },
+    {
+      "name": "Eau (pour détendre la pâte de cari)",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Huile de sésame (finition)",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Poivre noir",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Huile pimentée asiatique (optionnel, finition)",
+      "quantity": "1",
+      "unit": "tbsp"
+    }
+  ],
+  "preparation": [
+    "Cuire le riz: rincer (optionnel), puis cuire 2 cups de riz cru avec 2.5 cups d'eau. Étaler le riz cuit sur une plaque/plat en couche mince et laisser refroidir complètement. Réfrigérer idéalement toute la nuit (au moins 6-12 h) pour qu'il sèche et se raffermisse. Avant cuisson, défaire les grumeaux avec les doigts.",
+    "Préparer la sauce: mélanger pâte de cari rouge, sauce soja, mirin, vinaigre de riz et eau jusqu'à homogène. Réserver.",
+    "Préparer les champignons: pleurotes déchirés en lanières. Enoki: couper la base, séparer en petits bouquets, puis couper la longueur en 2 (fibres plus courtes = plus facile à mordre). Ne pas bouillir.",
+    "Cuire le poulet: chauffer la poêle/wok très chaud, ajouter 1 tbsp d'huile neutre. Sauter le poulet tranché fin avec un peu de poivre jusqu'à juste cuit. Réserver.",
+    "Cuire les oeufs: ajouter un filet d'huile si besoin, brouiller rapidement pour obtenir des morceaux tendres. Réserver avec le poulet.",
+    "Saisir les champignons (pour éviter l'eau): ajouter 1 tbsp d'huile. Sauter les pleurotes 3-5 min jusqu'à évaporation complète de l'eau et légère coloration. Ajouter les enoki seulement 45-75 s (cuisson rapide) puis retirer. Réserver.",
+    "Cuire les légumes: ajouter 1 tbsp d'huile. Sauter l'oignon 30-60 s. Ajouter les tiges de bok choy 1-2 min, puis le poivron 1-2 min. Ajouter la carotte râpée 30-60 s. Ajouter les feuilles de bok choy 30-60 s pour juste flétrir. Continuer à sauter jusqu'à ce qu'il n'y ait presque plus de liquide dans la poêle.",
+    "Frire le riz: ajouter 1 tbsp d'huile si la poêle est sèche. Ajouter le riz froid et l'étaler en couche mince. Laisser sans remuer 60-90 s, puis retourner/mélanger. Répéter 1-2 fois (étaler + laisser griller) jusqu'à ce que le riz soit bien chaud, plus sec, et que les grains se séparent.",
+    "Assaisonner et assembler: verser la sauce en filet sur le bord de la poêle, mélanger 20-30 s. Ajouter poulet, oeufs et champignons, mélanger 30-60 s. Goûter et ajuster: plus piquant = un peu plus de pâte de cari délayée dans 1 tbsp d'eau; plus salé = un trait de sauce soja.",
+    "Finition: hors du feu, ajouter huile de sésame. Optionnel: huile pimentée. Servir."
+  ]
+}
