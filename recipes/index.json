@@ -5,6 +5,11 @@
       "type": "AUTRES",
       "title": "Pâte à pizza à la levure instantanée"
     },
+ {
+      "id": "thai-red-curry-chicken-fried-rice",
+      "type": "REPAS",
+      "title": "Riz frit"
+    },
     {
       "id": "gratin-dauphinois",
       "type": "ENTREES",
