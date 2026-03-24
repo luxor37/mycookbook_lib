@@ -16,6 +16,11 @@
       "title": "Œufs ramen marinés (Ajitsuke Tamago)"
     },
     {
+      "id": "poulet_balsamique_plaque",
+      "type": "REPAS",
+      "title": "Poulet balsamique au four avec pommes de terre et carottes"
+    },
+    {
       "id": "cotes-porc-brinee-erable-miel-ail",
       "type": "REPAS",
       "title": "Côtes de porc saumure de cornichons, glaçage miel-ail"

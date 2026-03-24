@@ -1,0 +1,88 @@
+{
+    "id": "poulet_balsamique_plaque",
+    "title": "Poulet balsamique sur plaque avec pommes de terre et carottes",
+    "portions": "4",
+    "time": "45 min",
+    "tags": [
+        "Alcool:null",
+        "Atout:Repas sur une plaque",
+        "Cuisine:Amérique du Nord",
+        "Ingrédient:Poulet",
+        "Intensité:null",
+        "Levure:null",
+        "Méthode:Four",
+        "Niveau:Facile",
+        "Occasion:Soir de semaine",
+        "Piquant:null",
+        "Plat:Principal",
+        "Protéine:Poulet",
+        "Public:null",
+        "Régime:null",
+        "Saveur:Balsamique",
+        "Texture:null",
+        "Type:Plat principal",
+        "Usage:null",
+        "Équipement:Plaque de cuisson"
+    ],
+    "ingredients": [
+        {
+            "name": "Poitrines de poulet",
+            "quantity": "4",
+            "unit": ""
+        },
+        {
+            "name": "Pommes de terre grelots coupées en deux",
+            "quantity": "1",
+            "unit": "lb"
+        },
+        {
+            "name": "Carottes coupées",
+            "quantity": "3",
+            "unit": "tasses"
+        },
+        {
+            "name": "Vinaigre balsamique",
+            "quantity": "1/3",
+            "unit": "tasse"
+        },
+        {
+            "name": "Miel",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Ail haché",
+            "quantity": "3",
+            "unit": "gousses"
+        },
+        {
+            "name": "Assaisonnement italien",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Huile d'olive",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Sel",
+            "quantity": "au goût",
+            "unit": ""
+        },
+        {
+            "name": "Poivre",
+            "quantity": "au goût",
+            "unit": ""
+        }
+    ],
+    "preparation": [
+        "Préchauffer le four à 400°F (200°C).",
+        "Mélanger le vinaigre balsamique, le miel, l'ail, l'assaisonnement italien, l'huile d'olive, le sel et le poivre.",
+        "Déposer les pommes de terre et les carottes sur une plaque de cuisson et mélanger avec une partie de la sauce.",
+        "Cuire les légumes au four pendant 20 minutes.",
+        "Sortir la plaque, ajouter les poitrines de poulet et badigeonner avec le reste de la sauce.",
+        "Remettre au four et cuire encore 20 à 25 minutes, jusqu'à ce que le poulet soit bien cuit.",
+        "Servir chaud avec les légumes."
+    ]
+}
