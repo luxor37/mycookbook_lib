@@ -1,0 +1,58 @@
+{
+    "id": "nettoyant-tout-usage",
+    "title": "Nettoyant Multi-Usage",
+    "portions": "500 ml",
+    "time": "5 min",
+    "tags": [
+        "Alcool:Oui",
+        "Atout:Facile et économique",
+        "Cuisine:null",
+        "Ingrédient:Vinaigre",
+        "Intensité:null",
+        "Levure:null",
+        "Méthode:Mélange",
+        "Niveau:Facile",
+        "Occasion:Entretien ménager",
+        "Piquant:null",
+        "Plat:null",
+        "Protéine:null",
+        "Public:null",
+        "Régime:null",
+        "Saveur:null",
+        "Texture:Liquide",
+        "Type:Nettoyant",
+        "Usage:Surface",
+        "Équipement:Bouteille vaporisateur"
+    ],
+    "ingredients": [
+        {
+            "name": "Vinaigre blanc",
+            "quantity": "1",
+            "unit": "tasse"
+        },
+        {
+            "name": "Eau",
+            "quantity": "1",
+            "unit": "tasse"
+        },
+        {
+            "name": "Alcool à friction (isopropylique)",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Liquide vaisselle",
+            "quantity": "1-2",
+            "unit": "tsp"
+        }
+    ],
+    "preparation": [
+        "Verser le vinaigre blanc et l’eau dans une bouteille vaporisateur.",
+        "Ajouter l’alcool à friction.",
+        "Ajouter le liquide vaisselle en dernier pour éviter trop de mousse.",
+        "Mélanger doucement en faisant tourner la bouteille (ne pas secouer vigoureusement).",
+        "Vaporiser sur les surfaces, laisser agir 30 à 60 secondes puis essuyer.",
+        "Ne pas utiliser sur la pierre naturelle (granite, marbre) ou le bois non scellé.",
+        "Ne jamais mélanger avec de l’eau de Javel."
+    ]
+}

@@ -1,11 +1,16 @@
 {
   "recipes": [
     {
+      "id": "nettoyant-tout-usage",
+      "type": "CLEANING_PRODUCTS",
+      "title": "Nettoyant tout-usage"
+    },
+    {
       "id": "pate-pizza",
       "type": "AUTRES",
       "title": "Pâte à pizza à la levure instantanée"
     },
- {
+    {
       "id": "thai-red-curry-chicken-fried-rice",
       "type": "REPAS",
       "title": "Riz frit"
