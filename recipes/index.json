@@ -2,7 +2,7 @@
   "recipes": [
     {
       "id": "nettoyant-tout-usage",
-      "type": "CLEANING_PRODUCTS",
+      "type": "PRODUITS_NETTOYANTS",
       "title": "Nettoyant tout-usage"
     },
     {
