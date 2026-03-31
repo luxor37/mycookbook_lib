@@ -1,0 +1,58 @@
+{
+    "id": "creme_a_recurer",
+    "title": "Crème à récurer",
+    "portions": "250 ml",
+    "time": "5 min",
+    "tags": [
+        "Alcool:Non",
+        "Atout:Économique",
+        "Cuisine:null",
+        "Ingrédient:Bicarbonate de soude",
+        "Intensité:null",
+        "Levure:null",
+        "Méthode:Mélange",
+        "Niveau:Facile",
+        "Occasion:Entretien ménager",
+        "Piquant:null",
+        "Plat:null",
+        "Protéine:null",
+        "Public:null",
+        "Régime:null",
+        "Saveur:null",
+        "Texture:Crème",
+        "Type:Nettoyant",
+        "Usage:Salle de bain",
+        "Équipement:Bol"
+    ],
+    "ingredients": [
+        {
+            "name": "Bicarbonate de soude",
+            "quantity": "1",
+            "unit": "tasse"
+        },
+        {
+            "name": "Eau",
+            "quantity": "¼",
+            "unit": "tasse"
+        },
+        {
+            "name": "Liquide vaisselle",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Huile essentielle (optionnel)",
+            "quantity": "10-15",
+            "unit": "gouttes"
+        }
+    ],
+    "preparation": [
+        "Dans un bol, mélanger le bicarbonate de soude et l’eau jusqu’à obtenir une texture de crème épaisse.",
+        "Ajouter le liquide vaisselle et bien mélanger.",
+        "Ajouter les huiles essentielles si désiré et mélanger.",
+        "Transférer dans un contenant hermétique.",
+        "Appliquer sur les éviers, bains et surfaces avec une éponge, frotter puis rincer.",
+        "Remuer avant chaque utilisation, car le mélange peut se séparer avec le temps.",
+        "Ne pas utiliser sur des surfaces délicates ou facilement rayables."
+    ]
+}

@@ -1,6 +1,11 @@
 {
   "recipes": [
     {
+      "id": "creme_a_recurer",
+      "type": "PRODUITS_NETTOYANTS",
+      "title": "Crème à récurer"
+    },
+    {
       "id": "nettoyant-tout-usage",
       "type": "PRODUITS_NETTOYANTS",
       "title": "Nettoyant tout-usage"
