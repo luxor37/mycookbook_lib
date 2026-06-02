@@ -151,6 +151,11 @@
       "title": "Quiche au goberge"
     },
     {
+      "id": "quiche-verte",
+      "type": "REPAS",
+      "title": "Quiche Verte"
+    },
+    {
       "id": "bagel-tofu",
       "type": "REPAS",
       "title": "Bagel au tofu gratiné"

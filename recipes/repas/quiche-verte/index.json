@@ -1,0 +1,93 @@
+{
+  "id": "quiche-verte",
+  "title": "Quiche à la ricotta, brocoli, épinards et pignons",
+  "portions": "8",
+  "time": "1 h 10 min",
+  "tags": [
+    "Alcool:null",
+    "Atout:null",
+    "Cuisine:Française",
+    "Ingrédient:null",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Four",
+    "Niveau:Facile",
+    "Occasion:Brunch",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:Oeufs",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:Moule à tarte"
+  ],
+  "ingredients": [
+    {
+      "name": "Pâte à tarte",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Oeuf",
+      "quantity": "3",
+      "unit": ""
+    },
+    {
+      "name": "Ricotta",
+      "quantity": "250-300",
+      "unit": "g"
+    },
+    {
+      "name": "Oignon",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Brocoli en fleurons",
+      "quantity": "200",
+      "unit": "g"
+    },
+    {
+      "name": "Épinards frais",
+      "quantity": "2-3",
+      "unit": "tasses"
+    },
+    {
+      "name": "Pignons de pin",
+      "quantity": "2-3",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Huile",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Sel",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "name": "Poivre",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "Préchauffer le four à 375° Fahrenheit / 190° Celsius.",
+    "Faire griller les pignons de pin dans une poêle sèche à feu moyen jusqu'à ce qu'ils soient légèrement dorés. Retirer de la poêle et réserver.",
+    "Hacher l'oignon. Couper le brocoli en petits fleurons.",
+    "Dans une poêle, chauffer l'huile et faire revenir l'oignon jusqu'à ce qu'il soit tendre.",
+    "Ajouter les fleurons de brocoli et cuire jusqu'à ce qu'ils soient juste tendres.",
+    "Ajouter les épinards et cuire jusqu'à ce qu'ils soient tombés et que la majorité de l'eau se soit évaporée. Laisser tiédir légèrement.",
+    "Dans un grand bol, fouetter les oeufs avec la ricotta. Saler et poivrer.",
+    "Ajouter les légumes cuits et les pignons de pin au mélange d'oeufs et de ricotta. Mélanger.",
+    "Étendre la pâte à tarte dans un moule à tarte.",
+    "Verser le mélange dans la pâte à tarte et égaliser le dessus.",
+    "Cuire au four pendant 35 à 40 minutes, jusqu'à ce que le centre soit pris.",
+    "Laisser reposer 10 minutes avant de couper et servir."
+  ]
+}
