@@ -1,0 +1,61 @@
+{
+    "id": "assouplissant",
+    "title": "Assouplissant maison au vinaigre et bicarbonate",
+    "portions": "15-20 brassées",
+    "time": "15 min + repos",
+    "tags": [
+        "Alcool:null",
+        "Atout:Économique",
+        "Cuisine:null",
+        "Ingrédient:Vinaigre",
+        "Intensité:null",
+        "Levure:null",
+        "Méthode:Mélange",
+        "Niveau:Facile",
+        "Occasion:null",
+        "Piquant:null",
+        "Plat:null",
+        "Protéine:null",
+        "Public:null",
+        "Régime:null",
+        "Saveur:null",
+        "Texture:null",
+        "Type:Produit ménager",
+        "Usage:Lessive",
+        "Équipement:Laveuse"
+    ],
+    "ingredients": [
+        {
+            "name": "Eau tiède",
+            "quantity": "500",
+            "unit": "ml"
+        },
+        {
+            "name": "Vinaigre blanc",
+            "quantity": "250",
+            "unit": "ml"
+        },
+        {
+            "name": "Bicarbonate de soude",
+            "quantity": "1-2",
+            "unit": "c. à soupe"
+        },
+        {
+            "name": "Huile essentielle",
+            "quantity": "0-5",
+            "unit": "gouttes"
+        }
+    ],
+    "preparation": [
+        "Dans un pot Mason de 1 L, mélanger l'eau tiède et le vinaigre blanc.",
+        "Ajouter le bicarbonate de soude très lentement, une petite quantité à la fois, car le mélange va mousser.",
+        "Attendre que la mousse redescende avant d'ajouter la prochaine petite quantité de bicarbonate.",
+        "Une fois tout le bicarbonate ajouté, laisser le pot ouvert ou couvert très légèrement jusqu'à ce qu'il n'y ait plus de bulles ni de pression.",
+        "Ajouter l'huile essentielle seulement à la fin, si désiré, quand la réaction est complètement terminée.",
+        "Fermer le pot seulement lorsque le mélange ne pétille plus du tout.",
+        "Secouer doucement avant usage.",
+        "Utiliser environ 2 à 4 c. à soupe par brassée dans le compartiment à assouplissant.",
+        "Ne pas utiliser avec de l'eau de Javel.",
+        "Éviter les huiles essentielles foncées, résineuses ou très colorées, car elles peuvent tacher les vêtements. Pour une version plus sûre, ne pas mettre d'huile essentielle."
+    ]
+}

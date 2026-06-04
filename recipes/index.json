@@ -1,6 +1,11 @@
 {
   "recipes": [
     {
+      "id": "assouplissant",
+      "type": "PRODUITS_NETTOYANTS",
+      "title": "Assouplissant maison au vinaigre et bicarbonate"
+    },
+    {
       "id": "salade-concombre-dijon",
       "type": "ENTREES",
       "title": "Salade concombre et Dijon sucrée"

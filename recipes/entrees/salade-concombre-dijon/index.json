@@ -1,93 +1,61 @@
 {
-  "id": "salade-concombre-dijon",
-  "title": "Salade concombre à la Dijon sucrée",
-  "portions": "4",
-  "time": "15 min",
+  "id": "assouplissant",
+  "title": "Assouplissant maison au vinaigre et bicarbonate",
+  "portions": "",
+  "time": "15 min + repos",
   "tags": [
     "Alcool:null",
-    "Atout:Rapide",
+    "Atout:Économique",
     "Cuisine:null",
-    "Ingrédient:Concombre",
+    "Ingrédient:Vinaigre",
     "Intensité:null",
     "Levure:null",
-    "Méthode:Sans cuisson",
+    "Méthode:Mélange",
     "Niveau:Facile",
-    "Occasion:Lunch",
+    "Occasion:null",
     "Piquant:null",
-    "Plat:Salade",
+    "Plat:null",
     "Protéine:null",
     "Public:null",
-    "Régime:Végane",
-    "Saveur:Acidulée",
-    "Texture:Croquant",
-    "Type:Accompagnement",
-    "Usage:Repas léger",
-    "Équipement:null"
+    "Régime:null",
+    "Saveur:null",
+    "Texture:null",
+    "Type:Produit ménager",
+    "Usage:Lessive",
+    "Équipement:Laveuse"
   ],
   "ingredients": [
     {
-      "name": "Concombres",
-      "quantity": "2",
-      "unit": ""
+      "name": "Eau tiède",
+      "quantity": "500",
+      "unit": "ml"
     },
     {
-      "name": "Tomates cerises",
+      "name": "Vinaigre blanc",
+      "quantity": "250",
+      "unit": "ml"
+    },
+    {
+      "name": "Bicarbonate de soude",
       "quantity": "1-2",
-      "unit": "tasses"
-    },
-    {
-      "name": "Oignon rouge",
-      "quantity": "1/2",
-      "unit": ""
-    },
-    {
-      "name": "Persil frais",
-      "quantity": "1/4",
-      "unit": "tasse"
-    },
-    {
-      "name": "Moutarde de Dijon",
-      "quantity": "1",
-      "unit": "c. à thé"
-    },
-    {
-      "name": "Jus de citron",
-      "quantity": "1",
       "unit": "c. à soupe"
     },
     {
-      "name": "Huile d'olive",
-      "quantity": "2",
-      "unit": "c. à soupe"
-    },
-    {
-      "name": "Sirop d'érable ou miel",
-      "quantity": "1",
-      "unit": "c. à thé"
-    },
-    {
-      "name": "Sel",
-      "quantity": "",
-      "unit": ""
-    },
-    {
-      "name": "Poivre",
-      "quantity": "",
-      "unit": ""
-    },
-    {
-      "name": "Ail",
-      "quantity": "",
-      "unit": ""
+      "name": "Huile essentielle",
+      "quantity": "0-5",
+      "unit": "gouttes"
     }
   ],
   "preparation": [
-    "Trancher les concombres, couper les tomates cerises en deux et émincer finement l'oignon rouge.",
-    "Hacher le persil.",
-    "Dans un petit bol, fouetter la moutarde de Dijon, le jus de citron, l'huile d'olive, le sirop d'érable, le sel, le poivre et un peu d'ail si désiré, jusqu'à ce que la vinaigrette soit lisse.",
-    "Dans un grand bol, mélanger les concombres, les tomates cerises, l'oignon rouge et le persil.",
-    "Ajouter la vinaigrette et bien mélanger.",
-    "Laisser reposer 5 à 10 minutes avant de servir.",
-    "Goûter et ajuster au besoin : ajouter plus de sirop d'érable pour plus de douceur, plus d'huile d'olive pour adoucir, ou plus de citron pour plus de fraîcheur."
+    "Dans un pot Mason de 1 L, mélanger l'eau tiède et le vinaigre blanc.",
+    "Ajouter le bicarbonate de soude très lentement, une petite quantité à la fois, car le mélange va mousser.",
+    "Attendre que la mousse redescende avant d'ajouter la prochaine petite quantité de bicarbonate.",
+    "Une fois tout le bicarbonate ajouté, laisser le pot ouvert ou couvert très légèrement jusqu'à ce qu'il n'y ait plus de bulles ni de pression.",
+    "Ajouter l'huile essentielle seulement à la fin, si désiré, quand la réaction est complètement terminée.",
+    "Fermer le pot seulement lorsque le mélange ne pétille plus du tout.",
+    "Secouer doucement avant usage.",
+    "Utiliser environ 2 à 4 c. à soupe par brassée dans le compartiment à assouplissant.",
+    "Ne pas utiliser avec de l'eau de Javel.",
+    "Éviter les huiles essentielles foncées, résineuses ou très colorées, car elles peuvent tacher les vêtements. Pour une version plus sûre, ne pas mettre d'huile essentielle."
   ]
 }
