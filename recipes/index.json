@@ -46,7 +46,7 @@
       "title": "Œufs ramen marinés (Ajitsuke Tamago)"
     },
     {
-      "id": "poulet_balsamique_plaque",
+      "id": "poulet-balsamique-plaque",
       "type": "REPAS",
       "title": "Poulet balsamique au four avec pommes de terre et carottes"
     },
@@ -101,27 +101,27 @@
       "title": "Sauce BBQ"
     },
     {
-      "id": "bouchees_au_crabe",
+      "id": "bouchees-au-crabe",
       "type": "ENTREES",
       "title": "Bouchées au crabe"
     },
     {
-      "id": "trempette_mexicaine",
+      "id": "trempette-mexicaine",
       "type": "ENTREES",
       "title": "Trempette mexicaine"
     },
     {
-      "id": "pate_au_thon",
+      "id": "pate-au-thon",
       "type": "REPAS",
       "title": "Pâté au thon"
     },
     {
-      "id": "riz_frit_poulet",
+      "id": "riz-frit-poulet",
       "type": "REPAS",
       "title": "Riz frit au poulet"
     },
     {
-      "id": "chili_con_macaroni",
+      "id": "chili-con-macaroni",
       "type": "REPAS",
       "title": "Chili con macaroni"
     },
