@@ -1,6 +1,11 @@
 {
   "recipes": [
     {
+      "id": "salade-concombre-dijon",
+      "type": "ENTREES",
+      "title": "Salade concombre et Dijon sucrée"
+    },
+    {
       "id": "creme_a_recurer",
       "type": "PRODUITS_NETTOYANTS",
       "title": "Crème à récurer"

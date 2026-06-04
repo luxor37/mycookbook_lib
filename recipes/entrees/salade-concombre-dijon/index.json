@@ -1,0 +1,93 @@
+{
+  "id": "salade-concombre-dijon",
+  "title": "Salade concombre à la Dijon sucrée",
+  "portions": "4",
+  "time": "15 min",
+  "tags": [
+    "Alcool:null",
+    "Atout:Rapide",
+    "Cuisine:null",
+    "Ingrédient:Concombre",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Sans cuisson",
+    "Niveau:Facile",
+    "Occasion:Lunch",
+    "Piquant:null",
+    "Plat:Salade",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végane",
+    "Saveur:Acidulée",
+    "Texture:Croquant",
+    "Type:Accompagnement",
+    "Usage:Repas léger",
+    "Équipement:null"
+  ],
+  "ingredients": [
+    {
+      "name": "Concombres",
+      "quantity": "2",
+      "unit": ""
+    },
+    {
+      "name": "Tomates cerises",
+      "quantity": "1-2",
+      "unit": "tasses"
+    },
+    {
+      "name": "Oignon rouge",
+      "quantity": "1/2",
+      "unit": ""
+    },
+    {
+      "name": "Persil frais",
+      "quantity": "1/4",
+      "unit": "tasse"
+    },
+    {
+      "name": "Moutarde de Dijon",
+      "quantity": "1",
+      "unit": "c. à thé"
+    },
+    {
+      "name": "Jus de citron",
+      "quantity": "1",
+      "unit": "c. à soupe"
+    },
+    {
+      "name": "Huile d'olive",
+      "quantity": "2",
+      "unit": "c. à soupe"
+    },
+    {
+      "name": "Sirop d'érable ou miel",
+      "quantity": "1",
+      "unit": "c. à thé"
+    },
+    {
+      "name": "Sel",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "name": "Poivre",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "name": "Ail",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "Trancher les concombres, couper les tomates cerises en deux et émincer finement l'oignon rouge.",
+    "Hacher le persil.",
+    "Dans un petit bol, fouetter la moutarde de Dijon, le jus de citron, l'huile d'olive, le sirop d'érable, le sel, le poivre et un peu d'ail si désiré, jusqu'à ce que la vinaigrette soit lisse.",
+    "Dans un grand bol, mélanger les concombres, les tomates cerises, l'oignon rouge et le persil.",
+    "Ajouter la vinaigrette et bien mélanger.",
+    "Laisser reposer 5 à 10 minutes avant de servir.",
+    "Goûter et ajuster au besoin : ajouter plus de sirop d'érable pour plus de douceur, plus d'huile d'olive pour adoucir, ou plus de citron pour plus de fraîcheur."
+  ]
+}
