@@ -16,6 +16,11 @@
       "title": "Pâte à pizza à la levure instantanée"
     },
     {
+      "id": "burritos-poulet-quinoa",
+      "type": "REPAS",
+      "title": "Burritos croustillants au poulet"
+    },
+    {
       "id": "thai-red-curry-chicken-fried-rice",
       "type": "REPAS",
       "title": "Riz frit"

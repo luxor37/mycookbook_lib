@@ -1,0 +1,160 @@
+{
+  "id": "burritos-poulet-quinoa",
+  "title": "Burritos croustillants au poulet",
+  "portions": "8",
+  "time": "50 min",
+  "tags": [
+    "Alcool:null",
+    "Atout:Meal prep",
+    "Cuisine:Tex-Mex",
+    "Ingrédient:Haricots noirs",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Poêle",
+    "Niveau:Facile",
+    "Occasion:Lunch",
+    "Piquant:Moyen",
+    "Plat:Burrito",
+    "Protéine:Poulet",
+    "Public:null",
+    "Régime:null",
+    "Saveur:Épicée",
+    "Texture:Croustillant",
+    "Type:Plat principal",
+    "Usage:Repas préparé",
+    "Équipement:Presse-panini"
+  ],
+  "ingredients": [
+    {
+      "name": "Poitrines de poulet",
+      "quantity": "4",
+      "unit": ""
+    },
+    {
+      "name": "Haricots noirs",
+      "quantity": "1",
+      "unit": "conserve"
+    },
+    {
+      "name": "Oignons",
+      "quantity": "2",
+      "unit": ""
+    },
+    {
+      "name": "Champignons",
+      "quantity": "2-3",
+      "unit": "tasses"
+    },
+    {
+      "name": "Tomates cerises",
+      "quantity": "1½-2",
+      "unit": "tasses"
+    },
+    {
+      "name": "Ail",
+      "quantity": "4-6",
+      "unit": "gousses"
+    },
+    {
+      "name": "Pâte de tomate",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Huile d'olive",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "name": "Poudre de chili",
+      "quantity": "1½",
+      "unit": "c. à soupe"
+    },
+    {
+      "name": "Paprika",
+      "quantity": "2",
+      "unit": "c. à thé"
+    },
+    {
+      "name": "Cumin",
+      "quantity": "2",
+      "unit": "c. à thé"
+    },
+    {
+      "name": "Origan",
+      "quantity": "1½",
+      "unit": "c. à thé"
+    },
+    {
+      "name": "Poudre d'ail",
+      "quantity": "1",
+      "unit": "c. à thé"
+    },
+    {
+      "name": "Poudre d'oignon",
+      "quantity": "1",
+      "unit": "c. à thé"
+    },
+    {
+      "name": "Poivre noir",
+      "quantity": "½",
+      "unit": "c. à thé"
+    },
+    {
+      "name": "Flocons de piment ou cayenne",
+      "quantity": "½",
+      "unit": "c. à thé"
+    },
+    {
+      "name": "Sel",
+      "quantity": "1",
+      "unit": "c. à thé"
+    },
+    {
+      "name": "Riz jasmin",
+      "quantity": "1",
+      "unit": "tasses de cuiseur à riz"
+    },
+    {
+      "name": "Quinoa",
+      "quantity": "1",
+      "unit": "tasse de cuiseur à riz"
+    },
+    {
+      "name": "Tortillas grand format",
+      "quantity": "8-10",
+      "unit": "unités"
+    },
+    {
+      "name": "Cheddar",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "name": "Mozzarella",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "name": "Avocat décongelé",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "Rincer le riz et le quinoa ensemble. Cuire dans le cuiseur à riz selon ses indications",
+    "Pendant ce temps, couper le poulet en dés ou en fines lanières. Égoutter et rincer les haricots noirs. Couper les oignons, les champignons et les tomates cerises.",
+    "Dans un grand chaudron, chauffer un peu d'huile à feu moyen-vif. Ajouter les oignons et les champignons, puis cuire 8 à 10 minutes, jusqu'à ce que les champignons aient rendu leur eau et commencent à dorer.",
+    "Ajouter l'ail et cuire 30 à 60 secondes.",
+    "Ajouter le poulet et cuire jusqu'à ce que l'extérieur ne soit plus cru et que le poulet soit presque entièrement cuit.",
+    "Pousser légèrement le mélange sur le côté. Ajouter la pâte de tomate directement au fond chaud du chaudron et la faire revenir 1 minute, puis mélanger avec le poulet.",
+    "Ajouter la poudre de chili, le paprika, le cumin, l'origan, la poudre d'ail, la poudre d'oignon, le poivre noir, les flocons de piment ou la cayenne et le sel. Bien mélanger.",
+    "Ajouter les haricots noirs et les tomates cerises. Ajouter environ ⅓ de tasse d'eau ou de bouillon pour aider les épices à bien enrober la garniture.",
+    "Laisser mijoter 5 à 8 minutes en remuant de temps en temps, jusqu'à ce que le mélange soit épais et non liquide. Goûter et ajuster le sel ou le piquant au besoin.",
+    "Laisser le riz refroidir légèrement avant l'assemblage pour éviter qu'il ne ramollisse les tortillas.",
+    "Pour chaque tortilla, étandez de l'avocat, ajouter du riz/quinoa, de la garniture au poulet et aux haricots noirs, du cheddar et un peu de mozzarella si désiré. Ne pas trop remplir.",
+    "Replier les côtés de la tortilla vers l'intérieur, rabattre le bas sur la garniture, puis rouler fermement.",
+    "Placer les burritos côté joint vers le bas dans la presse-panini. Cuire 3 à 5 minutes, jusqu'à ce qu'ils soient croustillants, dorés, scellés et fondants.",
+    "Pour le meal prep, laisser refroidir les burritos pressés avant de les ranger. Réchauffer idéalement à la presse-panini ou au four grille-pain."
+  ]
+}
