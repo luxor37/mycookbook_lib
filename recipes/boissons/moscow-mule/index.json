@@ -1,0 +1,61 @@
+{
+  "id": "moscow-mule",
+  "title": "Moscow Mule",
+  "portions": "1",
+  "time": "5 min",
+  "tags": [
+    "Alcool:Vodka",
+    "Atout:Rapide",
+    "Cuisine:Américaine",
+    "Ingrédient:Gingembre",
+    "Intensité:Moyen",
+    "Levure:null",
+    "Méthode:Assemblage",
+    "Niveau:Facile",
+    "Occasion:Apéro",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:Adulte",
+    "Régime:null",
+    "Saveur:Acidulée",
+    "Texture:Pétillant",
+    "Type:Cocktail",
+    "Usage:Boisson",
+    "Équipement:null"
+  ],
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "quantity": "2",
+      "unit": "oz"
+    },
+    {
+      "name": "Jus de lime",
+      "quantity": "0.5",
+      "unit": "oz"
+    },
+    {
+      "name": "Bière de gingembre",
+      "quantity": "4-6",
+      "unit": "oz"
+    },
+    {
+      "name": "Glace",
+      "quantity": "au goût",
+      "unit": ""
+    },
+    {
+      "name": "Quartier de lime",
+      "quantity": "1",
+      "unit": "unité"
+    }
+  ],
+  "preparation": [
+    "Remplir un verre ou une tasse de glace.",
+    "Ajouter la vodka et le jus de lime.",
+    "Compléter avec la bière de gingembre.",
+    "Mélanger doucement.",
+    "Garnir avec un quartier de lime et servir immédiatement."
+  ]
+}

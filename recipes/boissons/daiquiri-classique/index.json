@@ -1,0 +1,55 @@
+{
+  "id": "daiquiri-classique",
+  "title": "Daiquiri classique",
+  "portions": "1",
+  "time": "5 min",
+  "tags": [
+    "Alcool:Rhum",
+    "Atout:Classique",
+    "Cuisine:Caribéenne",
+    "Ingrédient:Lime",
+    "Intensité:Fort",
+    "Levure:null",
+    "Méthode:Shaker",
+    "Niveau:Facile",
+    "Occasion:Apéro",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:Adulte",
+    "Régime:null",
+    "Saveur:Acidulée",
+    "Texture:Lisse",
+    "Type:Cocktail",
+    "Usage:Boisson",
+    "Équipement:Shaker"
+  ],
+  "ingredients": [
+    {
+      "name": "Rhum blanc",
+      "quantity": "2",
+      "unit": "oz"
+    },
+    {
+      "name": "Jus de lime",
+      "quantity": "1",
+      "unit": "oz"
+    },
+    {
+      "name": "Sirop simple",
+      "quantity": "0.75",
+      "unit": "oz"
+    },
+    {
+      "name": "Glace",
+      "quantity": "au goût",
+      "unit": ""
+    }
+  ],
+  "preparation": [
+    "Ajouter le rhum blanc, le jus de lime, le sirop simple et la glace dans un shaker.",
+    "Secouer vigoureusement pendant 10 à 15 secondes.",
+    "Filtrer dans un verre à cocktail refroidi.",
+    "Goûter et ajuster la prochaine fois avec un peu plus de sirop si le cocktail est trop acidulé."
+  ]
+}

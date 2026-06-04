@@ -1,0 +1,65 @@
+{
+  "id": "pina-colada",
+  "title": "Piña colada",
+  "portions": "1",
+  "time": "5 min",
+  "tags": [
+    "Alcool:Rhum",
+    "Atout:Crémeux",
+    "Cuisine:Caribéenne",
+    "Ingrédient:Ananas",
+    "Intensité:Doux",
+    "Levure:null",
+    "Méthode:Mélangeur",
+    "Niveau:Facile",
+    "Occasion:Apéro",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:Adulte",
+    "Régime:null",
+    "Saveur:Sucrée",
+    "Texture:Crémeuse",
+    "Type:Cocktail",
+    "Usage:Boisson",
+    "Équipement:Mélangeur"
+  ],
+  "ingredients": [
+    {
+      "name": "Rhum blanc",
+      "quantity": "2",
+      "unit": "oz"
+    },
+    {
+      "name": "Jus d'ananas",
+      "quantity": "3",
+      "unit": "oz"
+    },
+    {
+      "name": "Lait de coco en conserve",
+      "quantity": "2",
+      "unit": "oz"
+    },
+    {
+      "name": "Jus de lime",
+      "quantity": "0.5",
+      "unit": "oz"
+    },
+    {
+      "name": "Sirop simple ou sirop d'érable",
+      "quantity": "0.5-1",
+      "unit": "oz"
+    },
+    {
+      "name": "Glace",
+      "quantity": "1",
+      "unit": "tasse"
+    }
+  ],
+  "preparation": [
+    "Ajouter le rhum blanc, le jus d'ananas, le lait de coco, le jus de lime, le sirop simple ou le sirop d'érable et la glace dans un mélangeur.",
+    "Mélanger jusqu'à ce que la texture soit lisse et crémeuse.",
+    "Goûter et ajuster avec plus de sirop pour une version plus sucrée ou plus de lime pour une version plus fraîche.",
+    "Servir immédiatement dans un verre froid."
+  ]
+}

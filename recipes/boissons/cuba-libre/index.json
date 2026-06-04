@@ -1,0 +1,61 @@
+{
+  "id": "cuba-libre",
+  "title": "Cuba Libre",
+  "portions": "1",
+  "time": "5 min",
+  "tags": [
+    "Alcool:Rhum",
+    "Atout:Simple",
+    "Cuisine:Cubaine",
+    "Ingrédient:Cola",
+    "Intensité:Moyen",
+    "Levure:null",
+    "Méthode:Assemblage",
+    "Niveau:Facile",
+    "Occasion:Apéro",
+    "Piquant:null",
+    "Plat:null",
+    "Protéine:null",
+    "Public:Adulte",
+    "Régime:null",
+    "Saveur:Sucrée",
+    "Texture:Pétillant",
+    "Type:Cocktail",
+    "Usage:Boisson",
+    "Équipement:null"
+  ],
+  "ingredients": [
+    {
+      "name": "Rhum blanc ou ambré",
+      "quantity": "2",
+      "unit": "oz"
+    },
+    {
+      "name": "Cola",
+      "quantity": "4-6",
+      "unit": "oz"
+    },
+    {
+      "name": "Jus de lime",
+      "quantity": "0.5",
+      "unit": "oz"
+    },
+    {
+      "name": "Glace",
+      "quantity": "au goût",
+      "unit": ""
+    },
+    {
+      "name": "Quartier de lime",
+      "quantity": "1",
+      "unit": "unité"
+    }
+  ],
+  "preparation": [
+    "Remplir un verre de glace.",
+    "Ajouter le rhum et le jus de lime.",
+    "Compléter avec le cola.",
+    "Mélanger doucement.",
+    "Garnir avec un quartier de lime et servir immédiatement."
+  ]
+}
