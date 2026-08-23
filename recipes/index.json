@@ -211,6 +211,11 @@
       "title": "Macaroni au fromage"
     },
     {
+      "id": "okonomiyaki",
+      "type": "REPAS",
+      "title": "Okonomiyaki"
+    },
+    {
       "id": "pad-thai",
       "type": "REPAS",
       "title": "Pad Thai"
