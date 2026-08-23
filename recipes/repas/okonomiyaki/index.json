@@ -1,0 +1,104 @@
+```json
+{
+  "id": "okonomiyaki",
+  "title": "Okonomiyaki",
+  "portions": "1",
+  "time": "30 min",
+  "tags": [
+    "Alcool:null",
+    "Atout:null",
+    "Cuisine:Japonaise",
+    "Ingrédient:Chou",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Poêle",
+    "Niveau:Intermédiaire",
+    "Occasion:null",
+    "Piquant:Doux",
+    "Plat:Plat principal",
+    "Protéine:Crevettes",
+    "Public:null",
+    "Régime:null",
+    "Saveur:Umami",
+    "Texture:Croustillante",
+    "Type:Okonomiyaki",
+    "Usage:null",
+    "Équipement:Poêle en fonte"
+  ],
+  "ingredients": [
+    {
+      "name": "Chou vert finement émincé",
+      "quantity": "2½-3",
+      "unit": "tasses"
+    },
+    {
+      "name": "Farine tout usage",
+      "quantity": "½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Œuf",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Eau",
+      "quantity": "⅓",
+      "unit": "cup"
+    },
+    {
+      "name": "Sauce barbecue japonaise Bachan's",
+      "quantity": "1-2",
+      "unit": "tsp"
+    },
+    {
+      "name": "Oignon jaune finement haché",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Crevettes décongelées, épongées et coupées en morceaux",
+      "quantity": "½",
+      "unit": "tasse"
+    },
+    {
+      "name": "Bacon hâché",
+      "quantity": "2",
+      "unit": "tranches"
+    },
+    {
+      "name": "Carotte finement râpée",
+      "quantity": "2-3",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Sauce barbecue japonaise Bachan's, pour garnir",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Mayonnaise japonaise, pour garnir",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Sriracha, facultatif",
+      "quantity": "1",
+      "unit": "tsp"
+    }
+  ],
+  "preparation": [
+    "Faire cuire le bacon dans une grande poêle en fonte à feu moyen-doux jusqu'à ce qu'il soit cuit et légèrement croustillant. Retirer le bacon en laissant le gras rendu dans la poêle, puis le hacher en petits morceaux.",
+    "Dans un grand bol, fouetter la farine, l'œuf, l'eau et la sauce Bachan's jusqu'à obtenir une pâte homogène.",
+    "Incorporer le chou, l'oignon, les crevettes, le bacon haché et la carotte. Le mélange doit contenir beaucoup de chou et juste assez de pâte pour tenir ensemble, donc les quantités des autres ingrédients sont variables. Ajouter un peu d'eau au besoin.",
+    "Laisser reposer le mélange environ 5 minutes afin que le chou ramollisse légèrement.",
+    "Remettre la poêle contenant le gras de bacon à feu moyen-doux.",
+    "Verser tout le mélange dans la poêle et former une grande galette uniforme. Presser légèrement pour qu'elle tienne ensemble sans trop l'aplatir.",
+    "Cuire de 6 à 8 minutes, jusqu'à ce que le dessous soit bien doré et assez ferme pour être retourné.",
+    "Faire glisser l'okonomiyaki sur une grande assiette, placer la poêle à l'envers par-dessus, puis retourner délicatement l'ensemble pour remettre l'okonomiyaki dans la poêle.",
+    "Cuire l'autre côté de 6 à 8 minutes. Couvrir la poêle pendant environ 3 à 4 minutes afin de cuire le chou à la vapeur et de bien cuire le centre.",
+    "Vérifier que l'extérieur est doré, que le chou est tendre et que les crevettes sont complètement opaques. Poursuivre la cuisson quelques minutes à feu doux au besoin.",
+    "Garnir de sauce Bachan's, de mayonnaise japonaise et de sriracha, si désiré."
+  ]
+}
+```
