@@ -1,1 +1,99 @@
-{}
+{
+  "id": "craquelins-fromage",
+  "title": "Craquelins au cheddar",
+  "portions": "1 plaque",
+  "time": "25 min",
+  "tags": [
+    "Alcool:null",
+    "Atout:Se conserve bien",
+    "Cuisine:Amérique du Nord",
+    "Ingrédient:Fromage",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Four",
+    "Niveau:Intermédiaire",
+    "Occasion:null",
+    "Piquant:Doux",
+    "Plat:null",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:Fromagé",
+    "Texture:Croustillant",
+    "Type:Collation",
+    "Usage:null",
+    "Équipement:Robot culinaire"
+  ],
+  "ingredients": [
+    {
+      "name": "Farine tout usage",
+      "quantity": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "Cheddar vieilli, râpé finement",
+      "quantity": "2",
+      "unit": "cups"
+    },
+    {
+      "name": "Margarine",
+      "quantity": "4",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Paprika",
+      "quantity": "¼",
+      "unit": "tsp"
+    },
+    {
+      "name": "Poudre d'ail",
+      "quantity": "¼",
+      "unit": "tsp"
+    },
+    {
+      "name": "Sel",
+      "quantity": "½",
+      "unit": "tsp"
+    },
+    {
+      "name": "Eau froide, au besoin",
+      "quantity": "2 à 3",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Piment de Cayenne, facultatif",
+      "quantity": "1",
+      "unit": "pincée"
+    },
+    {
+      "name": "Poivre noir, facultatif",
+      "quantity": "quelques",
+      "unit": "tours de moulin"
+    },
+    {
+      "name": "MSG, facultatif",
+      "quantity": "1",
+      "unit": "petite pincée"
+    },
+    {
+      "name": "Poudre d'oignon, facultatif",
+      "quantity": "¼",
+      "unit": "tsp"
+    }
+  ],
+  "preparation": [
+    "Mettre tous les ingrédients dans un robot culinaire.",
+    "Pulser par petits coups jusqu'à ce que le mélange soit très finement grumeleux et commence à tenir ensemble lorsqu'on le presse entre les doigts. Éviter de trop mélanger ou de laisser la pâte se réchauffer.",
+    "Si la pâte ne tient pas ensemble lorsqu'on la presse, ajouter de l'eau froide ½ tbsp à la fois et pulser brièvement, jusqu'à un maximum d'environ 2 tbsp.",
+    "Déposer le mélange sur une surface de travail et le presser ou le pétrir doucement jusqu'à l'obtention d'une boule lisse ayant une texture semblable à de la pâte à modeler.",
+    "Déposer la pâte sur une grande feuille de papier parchemin et couvrir d'une deuxième feuille. Abaisser uniformément la pâte jusqu'à environ 2-3 mm d'épaisseur. Retirer la feuille de papier parchemin du dessus.",
+    "Si la pâte semble molle ou huileuse, la réfrigérer à plat pendant 10 à 20 minutes.",
+    "Préchauffer le four à 350 °F.",
+    "Saupoudrer légèrement la surface de sel. Entailler la pâte en carrés pour faciliter la séparation après la cuisson, puis la piquer un peu partout à l'aide d'une fourchette, d'un cure-dent ou d'une brochette.",
+    "Transférer le papier parchemin et la pâte sur une plaque de cuisson. Cuire de 12 à 18 minutes, en surveillant attentivement à partir de 10 à 12 minutes.",
+    "Retirer du four lorsque la surface semble sèche et que les bords sont bien dorés. Si les bords cuisent plus rapidement que le centre, retirer les parties déjà croustillantes et remettre le centre au four quelques minutes.",
+    "Laisser reposer sur la plaque pendant 2 à 3 minutes, puis transférer sur une grille. Laisser refroidir complètement pour que les craquelins deviennent bien croustillants.",
+    "Si les craquelins sont encore souples une fois refroidis, les remettre au four à 300 °F pendant 5 à 8 minutes, puis les laisser refroidir de nouveau sur une grille.",
+    "Une fois complètement refroidis, casser les craquelins le long des lignes préalablement tracées et les conserver dans un contenant hermétique à température ambiante."
+  ]
+}
