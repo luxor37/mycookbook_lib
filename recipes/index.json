@@ -126,6 +126,11 @@
       "title": "Bouchées au crabe"
     },
     {
+      "id": "craquelins-fromage",
+      "type": "ENTREES",
+      "title": "Craquelins au Cheddar"
+    },
+    {
       "id": "gratin-dauphinois",
       "type": "ENTREES",
       "title": "Gratin dauphinois"
