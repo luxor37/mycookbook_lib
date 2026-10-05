@@ -1,6 +1,6 @@
 {
-  "id": "potage-courge-musquee-coco",
-  "title": "Potage de courge musquée au lait de coco",
+  "id": "potage-butternut",
+  "title": "Potage de courge butternut",
   "portions": "6 à 8 portions",
   "time": "3 h 30 à 4 h 30",
   "tags": [
@@ -26,7 +26,7 @@
   ],
   "ingredients": [
     {
-      "name": "Courge musquée moyenne, pelée, épépinée et coupée en cubes",
+      "name": "Courge musquée (butternut), moyenne, pelée, épépinée et coupée en cubes",
       "quantity": "1",
       "unit": ""
     },
@@ -53,7 +53,7 @@
     {
       "name": "Bouillon de poulet ou de légumes",
       "quantity": "2½",
-      "unit": "cups"
+      "unit": "tasses"
     },
     {
       "name": "Beurre",
@@ -103,7 +103,7 @@
     {
       "name": "Lait de coco",
       "quantity": "1",
-      "unit": "boîte"
+      "unit": "boîte (± 400 ml)"
     },
     {
       "name": "Sirop d'érable, facultatif",
@@ -117,7 +117,7 @@
     }
   ],
   "preparation": [
-    "Mettre la courge musquée, l'oignon, les pommes de terre, les carottes, la courgette, le bouillon, le beurre, l'huile d'olive, la feuille de laurier, le thym, la poudre d'ail, le paprika, la muscade, le sel et le poivre dans la mijoteuse.",
+    "Mettre la courge, l'oignon, les pommes de terre, les carottes, la courgette, le bouillon, le beurre, l'huile d'olive, la feuille de laurier, le thym, la poudre d'ail, le paprika, la muscade, le sel et le poivre dans la mijoteuse.",
     "Mélanger légèrement, couvrir et cuire à intensité élevée pendant 3 à 4 heures, jusqu'à ce que la courge, les pommes de terre et les carottes soient très tendres.",
     "Retirer et jeter la feuille de laurier.",
     "À l'aide d'un mélangeur à immersion, réduire le contenu de la mijoteuse en purée jusqu'à l'obtention d'une texture complètement lisse et crémeuse. On peut également transférer le potage par portions dans un mélangeur ordinaire.",

@@ -136,6 +136,11 @@
       "title": "Gratin dauphinois"
     },
     {
+      "id": "potage-butternut",
+      "type": "ENTREES",
+      "title": "Potage de courge butternut"
+    },
+    {
       "id": "salade-concombre-dijon",
       "type": "ENTREES",
       "title": "Salade concombre et Dijon sucrée"
