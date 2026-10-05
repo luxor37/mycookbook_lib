@@ -1,0 +1,130 @@
+{
+  "id": "potage-courge-musquee-coco",
+  "title": "Potage de courge musquée au lait de coco",
+  "portions": "6 à 8 portions",
+  "time": "3 h 30 à 4 h 30",
+  "tags": [
+    "Alcool:null",
+    "Atout:Réconfortant",
+    "Cuisine:Amérique du Nord",
+    "Ingrédient:Courge",
+    "Intensité:Doux",
+    "Levure:null",
+    "Méthode:Mijoteuse",
+    "Niveau:Facile",
+    "Occasion:Automne",
+    "Piquant:Doux",
+    "Plat:Soupe",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Sans gluten",
+    "Saveur:Crémeux",
+    "Texture:Lisse",
+    "Type:Potage",
+    "Usage:null",
+    "Équipement:Mijoteuse"
+  ],
+  "ingredients": [
+    {
+      "name": "Courge musquée moyenne, pelée, épépinée et coupée en cubes",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Gros oignon, haché",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Pommes de terre, pelées et coupées en cubes",
+      "quantity": "2",
+      "unit": ""
+    },
+    {
+      "name": "Carottes, coupées en morceaux",
+      "quantity": "3 à 4",
+      "unit": ""
+    },
+    {
+      "name": "Courgette, coupée en morceaux",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Bouillon de poulet ou de légumes",
+      "quantity": "2½",
+      "unit": "cups"
+    },
+    {
+      "name": "Beurre",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Huile d'olive",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Feuille de laurier",
+      "quantity": "1",
+      "unit": ""
+    },
+    {
+      "name": "Thym séché",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Poudre d'ail",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Paprika",
+      "quantity": "½",
+      "unit": "tsp"
+    },
+    {
+      "name": "Muscade moulue",
+      "quantity": "¼",
+      "unit": "tsp"
+    },
+    {
+      "name": "Sel",
+      "quantity": "au goût",
+      "unit": ""
+    },
+    {
+      "name": "Poivre noir",
+      "quantity": "au goût",
+      "unit": ""
+    },
+    {
+      "name": "Lait de coco",
+      "quantity": "1",
+      "unit": "boîte"
+    },
+    {
+      "name": "Sirop d'érable, facultatif",
+      "quantity": "1 à 2",
+      "unit": "tsp"
+    },
+    {
+      "name": "Jus de citron, facultatif",
+      "quantity": "1 à 2",
+      "unit": "tsp"
+    }
+  ],
+  "preparation": [
+    "Mettre la courge musquée, l'oignon, les pommes de terre, les carottes, la courgette, le bouillon, le beurre, l'huile d'olive, la feuille de laurier, le thym, la poudre d'ail, le paprika, la muscade, le sel et le poivre dans la mijoteuse.",
+    "Mélanger légèrement, couvrir et cuire à intensité élevée pendant 3 à 4 heures, jusqu'à ce que la courge, les pommes de terre et les carottes soient très tendres.",
+    "Retirer et jeter la feuille de laurier.",
+    "À l'aide d'un mélangeur à immersion, réduire le contenu de la mijoteuse en purée jusqu'à l'obtention d'une texture complètement lisse et crémeuse. On peut également transférer le potage par portions dans un mélangeur ordinaire.",
+    "Ajouter le lait de coco et mélanger jusqu'à ce qu'il soit complètement incorporé. Laisser chauffer quelques minutes dans la mijoteuse si nécessaire.",
+    "Goûter et rectifier l'assaisonnement avec du sel et du poivre.",
+    "Si désiré, ajouter 1 à 2 tsp de sirop d'érable pour accentuer légèrement la douceur naturelle de la courge.",
+    "Si le potage semble trop riche ou manque d'éclat, ajouter 1 à 2 tsp de jus de citron, un peu à la fois, en goûtant entre chaque ajout.",
+    "Pour un peu plus de piquant, essayer facultativement une petite pincée de piment de Cayenne ou de flocons de piment au moment de servir."
+  ]
+}
