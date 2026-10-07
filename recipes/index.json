@@ -266,6 +266,11 @@
       "title": "Ragoût de bœuf"
     },
     {
+      "id": "tarte-oignons",
+      "type": "REPAS",
+      "title": "Tarte aux oignons caramélisés"
+    },
+    {
       "id": "thai-red-curry-chicken-fried-rice",
       "type": "REPAS",
       "title": "Riz frit"
