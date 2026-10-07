@@ -1,0 +1,119 @@
+{
+  "id": "tarte-oignons",
+  "title": "Tarte aux oignons caramélisés",
+  "portions": "6",
+  "time": "1 h 15 min",
+  "tags": [
+    "Alcool:null",
+    "Atout:null",
+    "Cuisine:Française",
+    "Ingrédient:Oignon",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Four",
+    "Niveau:Intermédiaire",
+    "Occasion:null",
+    "Piquant:null",
+    "Plat:Tarte salée",
+    "Protéine:null",
+    "Public:null",
+    "Régime:Végétarien",
+    "Saveur:Savoureuse",
+    "Texture:Croustillante",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:null"
+  ],
+  "ingredients": [
+    {
+      "name": "Pâte brisée",
+      "quantity": "1",
+      "unit": "abaisse"
+    },
+    {
+      "name": "Oignons rouges, tranchés finement",
+      "quantity": "5-6",
+      "unit": "tasses"
+    },
+    {
+      "name": "Beurre",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Huile d'olive",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Sel",
+      "quantity": "1/2",
+      "unit": "tsp"
+    },
+    {
+      "name": "Cassonade",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Vinaigre balsamique",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Thym frais",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Moutarde de Dijon",
+      "quantity": "2",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Ail, râpé finement",
+      "quantity": "1",
+      "unit": "gousse"
+    },
+    {
+      "name": "Fromage de chèvre",
+      "quantity": "1/4",
+      "unit": "tasse"
+    },
+    {
+      "name": "Tomates cerises, coupées en deux",
+      "quantity": "1",
+      "unit": "tasse"
+    },
+    {
+      "name": "Mozzarella râpée",
+      "quantity": "1",
+      "unit": "tasse"
+    },
+    {
+      "name": "Gruyère ou comté râpé",
+      "quantity": "1/2",
+      "unit": "tasse"
+    },
+    {
+      "name": "Poivre noir",
+      "quantity": "1/4",
+      "unit": "tsp"
+    }
+  ],
+  "preparation": [
+    "Préchauffer le four à 400 °F.",
+    "Déposer les tomates cerises sur une plaque, côté coupé vers le haut. Saler légèrement et cuire environ 20 minutes, jusqu'à ce qu'elles aient perdu une partie de leur eau. Réserver.",
+    "Faire fondre le beurre avec l'huile d'olive dans une grande poêle à feu moyen-doux. Ajouter les oignons et le sel.",
+    "Cuire les oignons de 35 à 50 minutes en remuant régulièrement, jusqu'à ce qu'ils soient très tendres, foncés et bien caramélisés. Ajouter 1 à 2 tbsp d'eau au besoin si le fond de la poêle devient trop sec.",
+    "Ajouter la cassonade, le thym, le poivre et le vinaigre balsamique. Poursuivre la cuisson environ 5 minutes, jusqu'à ce que le liquide soit presque entièrement évaporé.",
+    "Déposer la pâte dans une assiette à tarte de 9 à 10 pouces. Piquer légèrement le fond, couvrir de papier parchemin et ajouter des poids à tarte.",
+    "Précuire la pâte de 12 à 15 minutes. Retirer les poids et le papier parchemin, puis poursuivre la cuisson environ 5 minutes.",
+    "Mélanger la moutarde de Dijon avec l'ail râpé et étendre une mince couche sur le fond de la pâte précuite.",
+    "Répartir le fromage de chèvre sur la moutarde, puis ajouter les oignons caramélisés.",
+    "Répartir les tomates rôties de façon espacée sur les oignons plutôt que de former une couche complète.",
+    "Couvrir avec la mozzarella et le gruyère.",
+    "Cuire de 18 à 22 minutes à 400 °F, jusqu'à ce que le fromage soit fondu et légèrement doré.",
+    "Laisser reposer de 10 à 15 minutes avant de servir afin que la garniture se raffermisse légèrement et que les tomates soient moins brûlantes."
+  ]
+}
