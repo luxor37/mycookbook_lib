@@ -1,0 +1,97 @@
+{
+  "id": "pilons-epices-paprika-ail",
+  "title": "Pilons épicés au paprika et à l'ail",
+  "portions": "6 à 8 pilons",
+  "time": "55 min + marinade",
+  "tags": [
+    "Alcool:null",
+    "Atout:Préparation à l'avance",
+    "Cuisine:null",
+    "Ingrédient:Poulet",
+    "Intensité:null",
+    "Levure:null",
+    "Méthode:Four",
+    "Niveau:Facile",
+    "Occasion:null",
+    "Piquant:Moyen",
+    "Plat:null",
+    "Protéine:Poulet",
+    "Public:null",
+    "Régime:Omnivore",
+    "Saveur:Épicé",
+    "Texture:null",
+    "Type:Plat principal",
+    "Usage:null",
+    "Équipement:Grille de cuisson"
+  ],
+  "ingredients": [
+    {
+      "name": "Pilons de poulet",
+      "quantity": "6 à 8",
+      "unit": ""
+    },
+    {
+      "name": "Yogourt grec nature",
+      "quantity": "3",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Huile d'olive",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Pâte de tomate",
+      "quantity": "1",
+      "unit": "tbsp"
+    },
+    {
+      "name": "Paprika fumé",
+      "quantity": "2",
+      "unit": "tsp"
+    },
+    {
+      "name": "Poudre d'ail",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Poudre d'oignon",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Cumin moulu",
+      "quantity": "½",
+      "unit": "tsp"
+    },
+    {
+      "name": "Poivre de Cayenne",
+      "quantity": "½ à 1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Sel",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Jus de citron ou vinaigre",
+      "quantity": "1",
+      "unit": "tsp"
+    },
+    {
+      "name": "Sauce piquante (facultatif)",
+      "quantity": "1",
+      "unit": "tsp"
+    }
+  ],
+  "preparation": [
+    "Retirer la peau des pilons ainsi que les gros tendons ou tissus conjonctifs indésirables, puis les éponger.",
+    "Mélanger le yogourt, l'huile, la pâte de tomate, les épices, le sel, le jus de citron et la sauce piquante, le cas échéant.",
+    "Masser la marinade sur toute la viande, puis réfrigérer de 4 à 12 heures (30 à 60 minutes suffisent pour un peu de saveur).",
+    "Préchauffer le four à 425 °F. Huiler légèrement la grille et y disposer les pilons en les espaçant, en retirant les gros amas de marinade.",
+    "Cuire de 35 à 45 minutes en retournant les pilons une fois, jusqu'à ce que la partie la plus épaisse, loin de l'os, atteigne au moins 165 °F (idéalement de 175 à 185 °F pour une viande plus tendre).",
+    "Conserver au réfrigérateur de 2 à 3 jours ou congeler. Pour réchauffer, ajouter un peu de jus de cuisson, couvrir légèrement et retourner à mi-cuisson jusqu'à 165 °F."
+  ]
+}

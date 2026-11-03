@@ -241,6 +241,11 @@
       "title": "Pâté au thon"
     },
     {
+      "id": "pilons-epices-paprika-ail",
+      "type": "REPAS",
+      "title": "Pilons épicés au paprika et à l'ail"
+    },
+    {
       "id": "poulet-balsamique-plaque",
       "type": "REPAS",
       "title": "Poulet balsamique au four avec pommes de terre et carottes"
