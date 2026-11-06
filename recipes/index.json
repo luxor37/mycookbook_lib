@@ -71,6 +71,11 @@
       "title": "Old Fashioned"
     },
     {
+      "id": "pain-carottes-courgettes-pacanes",
+      "type": "DESSERTS",
+      "title": "Pain aux carottes et courgettes"
+    },
+    {
       "id": "pina-colada",
       "type": "BOISSONS",
       "title": "Piña colada"

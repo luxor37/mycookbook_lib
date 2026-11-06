@@ -1,0 +1,111 @@
+{
+    "id": "pain-carottes-courgettes-pacanes",
+    "title": "Pain aux carottes et courgettes, pacanes, dattes et canneberges",
+    "portions": "8 à 10 tranches",
+    "time": "1 h 25 min",
+    "tags": [
+        "Alcool:null",
+        "Atout:null",
+        "Cuisine:null",
+        "Ingrédient:Carotte",
+        "Intensité:null",
+        "Levure:Chimique",
+        "Méthode:Four",
+        "Niveau:Facile",
+        "Occasion:null",
+        "Piquant:null",
+        "Plat:Pain sucré",
+        "Protéine:null",
+        "Public:null",
+        "Régime:Végétarien",
+        "Saveur:Sucré",
+        "Texture:Moelleux",
+        "Type:Dessert",
+        "Usage:Collation",
+        "Équipement:Moule à pain"
+    ],
+    "ingredients": [
+        {
+            "name": "Carottes finement râpées",
+            "quantity": "1 ¼",
+            "unit": "tasse"
+        },
+        {
+            "name": "Courgette râpée",
+            "quantity": "¾",
+            "unit": "tasse"
+        },
+        {
+            "name": "Gros œufs",
+            "quantity": "2",
+            "unit": ""
+        },
+        {
+            "name": "Huile neutre",
+            "quantity": "½",
+            "unit": "tasse"
+        },
+        {
+            "name": "Cassonade",
+            "quantity": "½",
+            "unit": "tasse"
+        },
+        {
+            "name": "Extrait de vanille",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Farine tout usage",
+            "quantity": "1 ¾",
+            "unit": "tasse"
+        },
+        {
+            "name": "Poudre à pâte",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Bicarbonate de soude",
+            "quantity": "½",
+            "unit": "tsp"
+        },
+        {
+            "name": "Sel",
+            "quantity": "½",
+            "unit": "tsp"
+        },
+        {
+            "name": "Muscade moulue (facultatif)",
+            "quantity": "¼",
+            "unit": "tsp"
+        },
+        {
+            "name": "Pacanes hachées",
+            "quantity": "½",
+            "unit": "tasse"
+        },
+        {
+            "name": "Dattes hachées finement",
+            "quantity": "⅓",
+            "unit": "tasse"
+        },
+        {
+            "name": "Canneberges séchées",
+            "quantity": "⅓",
+            "unit": "tasse"
+        }
+    ],
+    "preparation": [
+        "Préchauffer le four à 350 °F. Graisser un moule à pain de 9 × 5 po ou le tapisser de papier parchemin.",
+        "Râper finement les carottes et la courgette. Si la courgette est très humide, l’éponger délicatement avec du papier absorbant, sans l’essorer complètement.",
+        "Facultatif : faire griller les pacanes à sec dans une poêle de 3 à 5 minutes, puis les laisser refroidir.",
+        "Dans un grand bol, fouetter les œufs, l’huile, la cassonade et la vanille jusqu’à ce que le mélange soit homogène. Incorporer les carottes et la courgette.",
+        "Dans un autre bol, mélanger la farine, la poudre à pâte, le bicarbonate de soude, le sel et la muscade, si désiré.",
+        "Ajouter les ingrédients secs aux ingrédients humides et mélanger délicatement, juste assez pour les combiner, sans trop travailler la pâte.",
+        "Incorporer les pacanes, les dattes et les canneberges.",
+        "Verser la pâte dans le moule. Cuire de 55 à 70 minutes, jusqu’à ce qu’un cure-dent inséré au centre ressorte sans pâte humide. Si le dessus brunit trop vite, le couvrir lâchement de papier d’aluminium.",
+        "Laisser tiédir dans le moule de 15 à 20 minutes, puis démouler sur une grille et laisser refroidir complètement avant de trancher.",
+        "Conserver dans un contenant hermétique jusqu’à 2 jours à température ambiante ou jusqu’à 5 jours au réfrigérateur. Le pain est encore meilleur le lendemain."
+    ]
+}
